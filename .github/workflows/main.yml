@@ -2,7 +2,8 @@ name: run generate_doh_lists.py
 
 on:
   schedule:
-    - cron: '0 0 1/2 * *' # Run every second day at 00:00
+    - cron: '0 18 * * *' # Run at 18:00 every day.
+  workflow_dispatch:
 
 jobs:
   build:
