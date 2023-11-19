@@ -2,7 +2,7 @@ name: run generate_doh_lists.py
 
 on:
   schedule:
-    - cron: '0 18 * * *' # Run at 18:00 every day.
+    - cron: '0 0 1/2 * *' # Run at UTC midnight every second day.
   workflow_dispatch:
 
 jobs:
@@ -25,7 +25,7 @@ jobs:
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "Updated lists" --allow-empty)
+          git diff-index --quiet HEAD || (git commit -a -m "Scheduled lists update" --allow-empty)
 
       - name: push changes
         uses: ad-m/github-push-action@master
