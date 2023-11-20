@@ -1,6 +1,4 @@
 # Public DoH Lists
-
-## Overview
 Automatically generated domain and IP blocklists targeting DNS-over-HTTPS (DoH) providers.
 
 A static list of known DoH providers as at 11/2023 is augmented by regularly parsing the community maintained DNS Wiki pages of [Curl](https://github.com/curl/curl/wiki/DNS-over-HTTPS) and [AdGuard](https://github.com/AdguardTeam/KnowledgeBaseDNS/blob/master/docs/general/dns-providers.md).
