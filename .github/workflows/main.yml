@@ -18,6 +18,8 @@ jobs:
           python-version: '3.11.x'
 
       - name: execute py script # run generate_doh_lists.py
+        env:
+          APIKEY_IPIFY: ${{ secrets.APIKEY_IPIFY }}
         run: python generate_doh_lists.py
       
       - name: commit files
@@ -25,7 +27,7 @@ jobs:
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "Scheduled lists update" --allow-empty)
+          git diff-index --quiet HEAD || (git commit -a -m "Scheduled update run" --allow-empty)
 
       - name: push changes
         uses: ad-m/github-push-action@master
