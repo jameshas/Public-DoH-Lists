@@ -1,657 +1,271 @@
 {
-    "1.dns.noridev.moe": [
-        "220.84.185.202"
+    "ns.00dani.me": [
+        "104.236.116.148"
     ],
-    "1a.ns.ozer.im": [
-        "141.94.89.163"
+    "cdn.0ms.dev": [
+        "91.199.87.89"
     ],
-    "1dot1dot1dot1.cloudflare-dns.com": [
-        "1.0.0.1",
-        "1.1.1.1"
+    "cloud.198.games": [
+        "43.154.23.198"
+    ],
+    "dns.23-4.cn": [
+        "101.42.156.248"
+    ],
+    "dns.233py.com": [
+        "43.154.198.199",
+        "107.172.216.248",
+        "101.35.161.25"
+    ],
+    "edns.233py.com": [
+        "107.172.216.248",
+        "43.154.198.199",
+        "101.35.161.25"
+    ],
+    "i.233py.com": [
+        "101.35.161.25",
+        "43.154.198.199",
+        "107.172.216.248"
+    ],
+    "ndns.233py.com": [
+        "101.35.161.25",
+        "43.154.198.199",
+        "107.172.216.248"
+    ],
+    "sdns.233py.com": [
+        "107.172.216.248",
+        "101.35.161.25",
+        "43.154.198.199"
+    ],
+    "wdns.233py.com": [
+        "101.35.161.25",
+        "43.154.198.199",
+        "107.172.216.248"
+    ],
+    "dns.240527.xyz": [
+        "172.67.206.90",
+        "104.21.15.169"
+    ],
+    "doh.360.cn": [
+        "101.198.192.33",
+        "101.198.193.29"
+    ],
+    "dns.4-the.win": [
+        "195.90.217.156"
+    ],
+    "doh.42l.fr": [
+        "45.155.171.163"
+    ],
+    "dns.52306.org": [
+        "135.148.148.66"
+    ],
+    "family.5ososea.com": [
+        "93.177.64.13"
+    ],
+    "kids.5ososea.com": [
+        "188.68.57.106"
     ],
     "8888.google": [
-        "8.8.8.8",
-        "8.8.4.4"
+        "8.8.4.4",
+        "8.8.8.8"
     ],
-    "a.family.ns.dnslify.com": [
-        "185.235.81.5"
+    "doh.aaaab3n.moe": [
+        "104.21.10.53",
+        "172.67.131.61"
     ],
-    "a.ns.dnslify.com": [
-        "185.235.81.81"
+    "doh.dns.apple.com.v.aaplimg.com": [
+        "64.78.201.1",
+        "17.253.26.243",
+        "64.78.200.1",
+        "17.253.26.117",
+        "17.253.26.245",
+        "17.253.26.241"
     ],
-    "a.passcloud.xyz": [
-        "104.247.81.50"
+    "doh.abmb.win": [
+        "44.227.76.166",
+        "44.227.65.245"
     ],
-    "a.safe.ns.dnslify.com": [
-        "185.235.81.3"
+    "doh2.abmb.win": [
+        "44.227.76.166",
+        "44.227.65.245"
     ],
-    "abel.waringer-atg.de": [
-        "185.183.159.34"
+    "res-acst3.absolight.net": [
+        "79.143.240.7"
     ],
-    "ada.openbld.net": [
-        "104.152.49.71",
-        "46.151.29.15",
-        "49.12.234.130",
-        "88.210.11.120"
-    ],
-    "adb-home.xaoimoon.fr": [
-        "82.65.209.69"
-    ],
-    "adblock.any.dns.nixnet.xyz": [
-        "198.251.90.89"
-    ],
-    "adblock.dns.mullvad.net": [
-        "194.242.2.3"
-    ],
-    "adblock.doh.mullvad.net": [
-        "194.242.2.3"
-    ],
-    "adblock.lux1.dns.nixnet.xyz": [
-        "104.244.78.231"
-    ],
-    "adblock.lv1.dns.nixnet.xyz": [
-        "209.141.34.95"
-    ],
-    "adblock.ny1.dns.nixnet.xyz": [
-        "199.195.251.84"
-    ],
-    "adfree.usableprivacy.net": [
-        "78.47.163.141"
-    ],
-    "adg.tshost.no": [
-        "130.61.149.26",
-        "144.24.182.35"
-    ],
-    "adguard.avdkishore.dev": [
-        "172.105.52.109"
-    ],
-    "adguard.jfchenier.ca": [
-        "184.163.126.251"
-    ],
-    "adguard.konikoni428.com": [
-        "202.182.121.233"
-    ],
-    "adguard.lege.despagne.net": [
-        "82.66.195.182"
-    ],
-    "adguard.meddy94.de": [
-        "130.61.24.160"
-    ],
-    "adguard.shuting.idv.tw": [
-        "114.34.178.193"
+    "resolver3.absolight.net": [
+        "79.143.240.81"
     ],
     "adl.adfilter.net": [
         "163.47.117.176"
     ],
-    "adult-filter-dns.cleanbrowsing.org": [
-        "185.228.168.10"
+    "per.adfilter.net": [
+        "203.29.241.76"
     ],
-    "ag.ff0x.ca": [
-        "137.184.171.250"
+    "syd.adfilter.net": [
+        "112.213.32.219"
     ],
-    "all.dns.mullvad.net": [
-        "194.242.2.9"
+    "dns.adguard.com": [
+        "94.140.14.14",
+        "94.140.15.15"
     ],
-    "ant.dns.qwer.pw": [
-        "146.56.160.153"
+    "dns-family.adguard.com": [
+        "94.140.14.15",
+        "94.140.15.16"
     ],
-    "antivirus.bebasid.com": [
-        "103.87.68.195",
-        "35.219.67.150"
+    "dns-unfiltered.adguard.com": [
+        "94.140.14.141",
+        "94.140.14.140"
     ],
-    "anycast.censurfridns.dk": [
-        "91.239.100.100"
+    "dns.adguard-dns.com": [
+        "94.140.14.14",
+        "94.140.15.15"
     ],
-    "anycast.dns.nextdns.io": [
-        "45.90.30.0",
-        "45.90.28.0"
+    "family.adguard-dns.com": [
+        "94.140.15.16",
+        "94.140.14.15"
     ],
-    "anycast.uncensoreddns.org": [
-        "91.239.100.100"
+    "unfiltered.adguard-dns.com": [
+        "94.140.14.140",
+        "94.140.14.141"
     ],
-    "applied-privacy.net": [
-        "109.70.100.134"
-    ],
-    "asia.dnscepat.id": [
-        "44.227.65.245",
-        "44.227.76.166"
-    ],
-    "au01.dns4me.net": [
-        "54.79.3.18"
-    ],
-    "au02.dns4me.net": [
-        "52.63.91.105"
-    ],
-    "awan.ftp.sh": [
-        "140.238.48.65"
-    ],
-    "b.family.ns.dnslify.com": [
-        "185.235.81.6"
-    ],
-    "b.ns.dnslify.com": [
-        "185.235.83.83",
-        "185.235.81.2"
-    ],
-    "b.safe.ns.dnslify.com": [
-        "185.235.81.4"
-    ],
-    "base.dns.mullvad.net": [
-        "194.242.2.4"
-    ],
-    "basic.bravedns.com": [
-        "104.21.49.234",
-        "172.67.195.148"
-    ],
-    "basic.rethinkdns.com": [
-        "172.67.162.27",
-        "104.21.10.13"
-    ],
-    "blackhole.myon.lu": [
-        "85.202.163.84"
+    "dns.adrianlam.com": [
+        "35.192.15.109"
     ],
     "blitz.ahadns.com": [
         "104.26.3.137",
         "104.26.2.137",
         "172.67.69.149"
     ],
-    "blog.kimiblock.top": [
-        "8.218.96.243",
-        "8.210.222.108"
+    "doh.chi.ahadns.net": [
+        "193.29.62.196"
     ],
-    "bluemood.me": [
-        "34.80.137.209"
+    "doh.es.ahadns.net": [
+        "45.132.74.167"
     ],
-    "bravedns.com": [
-        "172.67.195.148",
-        "104.21.49.234"
+    "doh.in.ahadns.net": [
+        "45.79.120.233"
     ],
-    "ca01.dns4me.net": [
-        "99.79.182.170"
+    "doh.it.ahadns.net": [
+        "45.91.95.12"
     ],
-    "ca02.dns4me.net": [
-        "169.48.27.179"
+    "doh.la.ahadns.net": [
+        "45.67.219.208"
     ],
-    "captnemo.in": [
-        "185.199.108.153"
+    "doh.nl.ahadns.net": [
+        "5.2.75.75"
     ],
-    "cdn.0ms.dev": [
-        "91.199.87.89"
+    "doh.no.ahadns.net": [
+        "185.175.56.133"
     ],
-    "chandr1000.net": [
-        "103.175.219.52"
+    "doh.ny.ahadns.net": [
+        "185.213.26.187"
     ],
-    "chrome.cloudflare-dns.com": [
-        "172.64.41.3",
-        "162.159.61.3"
+    "doh.pl.ahadns.net": [
+        "45.132.75.16"
     ],
-    "chromium.dns.nextdns.io": [
-        "23.81.246.121",
-        "162.218.114.81"
+    "dnsnl.alekberg.net": [
+        "89.38.131.38"
     ],
-    "clientdns3.softcom.net": [
-        "173.243.64.102"
+    "dnsnl-noads.alekberg.net": [
+        "89.38.131.38"
     ],
-    "cloud.198.games": [
-        "43.154.23.198"
+    "dnsse.alekberg.net": [
+        "45.153.187.96"
     ],
-    "cloudflare-dns.com": [
-        "104.16.248.249",
-        "104.16.249.249"
-    ],
-    "cloudns.bosco.ovh": [
-        "137.74.29.10"
-    ],
-    "cluster-0.gac.edu": [
-        "138.236.128.100"
-    ],
-    "cluster-1.gac.edu": [
-        "138.236.128.101"
-    ],
-    "commons.host": [
-        "172.67.139.164",
-        "104.21.33.14"
-    ],
-    "dandelionsprout.asuscomm.com": [
-        "88.91.231.204"
-    ],
-    "darkness.is.my.waifu.cz": [
-        "116.251.216.207"
-    ],
-    "dart.kpsn.org": [
-        "129.153.224.48"
-    ],
-    "darya.persiannit.net": [
-        "138.201.145.190"
-    ],
-    "deic-lgb.anycast.censurfridns.dk": [
-        "130.225.244.166"
-    ],
-    "deic-lgb.anycast.uncensoreddns.org": [
-        "130.225.244.166"
-    ],
-    "deic-ore.anycast.censurfridns.dk": [
-        "130.226.161.34"
-    ],
-    "deic-ore.anycast.uncensoreddns.org": [
-        "130.226.161.34"
-    ],
-    "digitale-gesellschaft.ch": [
-        "89.45.227.53"
-    ],
-    "dns-doh.dnsforfamily.com": [
-        "167.235.236.107"
-    ],
-    "dns-family.adguard.com": [
-        "94.140.15.16",
-        "94.140.14.15"
-    ],
-    "dns-free.link": [
-        "104.21.33.114",
-        "172.67.161.229"
-    ],
-    "dns-nosec.quad9.net": [
-        "9.9.9.10"
-    ],
-    "dns-unfiltered.adguard.com": [
-        "94.140.14.141",
-        "94.140.14.140"
-    ],
-    "dns.23-4.cn": [
-        "101.42.156.248"
-    ],
-    "dns.233py.com": [
-        "101.35.161.25",
-        "107.172.216.248",
-        "43.154.198.199"
-    ],
-    "dns.240527.xyz": [
-        "104.21.15.169",
-        "172.67.206.90"
-    ],
-    "dns.4-the.win": [
-        "195.90.217.156"
-    ],
-    "dns.52306.org": [
-        "135.148.148.66"
-    ],
-    "dns.aa.net.uk": [
-        "217.169.20.23",
-        "217.169.20.22"
-    ],
-    "dns.adguard-dns.com": [
-        "94.140.15.15",
-        "94.140.14.14"
-    ],
-    "dns.adguard.com": [
-        "94.140.14.14",
-        "94.140.15.15"
-    ],
-    "dns.adrianlam.com": [
-        "35.192.15.109"
+    "dnsse-noads.alekberg.net": [
+        "45.153.187.96"
     ],
     "dns.alidns.com": [
         "223.6.6.6",
         "223.5.5.5"
     ],
+    "mailer.amlegion.org": [
+        "192.99.125.157"
+    ],
     "dns.andrewnw.xyz": [
         "135.181.83.162"
+    ],
+    "secure.anudeep.me": [
+        "152.70.65.93"
+    ],
+    "doh.apad.pro": [
+        "172.67.171.30",
+        "104.21.55.112"
+    ],
+    "doh.dns.apple.com": [
+        "17.253.26.115",
+        "64.78.200.1",
+        "64.78.201.1",
+        "17.253.26.241",
+        "17.253.26.245",
+        "17.253.26.117"
+    ],
+    "applied-privacy.net": [
+        "109.70.100.134"
+    ],
+    "doh.applied-privacy.net": [
+        "146.255.56.98"
+    ],
+    "doh.appliedprivacy.net": [
+        "146.255.56.98"
     ],
     "dns.arapurayil.com": [],
     "dns.artikel10.org": [
         "45.151.167.2"
     ],
+    "dandelionsprout.asuscomm.com": [
+        "88.91.231.204"
+    ],
+    "dohtrial.att.net": [
+        "40.76.112.230",
+        "13.89.120.251"
+    ],
+    "secure.avastdns.com": [
+        "181.214.35.149",
+        "181.214.35.150",
+        "181.41.213.130"
+    ],
+    "adguard.avdkishore.dev": [
+        "172.105.52.109"
+    ],
+    "doh1.b-cdn.net": [
+        "169.150.236.97"
+    ],
+    "doh2.b-cdn.net": [
+        "185.93.1.246"
+    ],
     "dns.b612.me": [
-        "139.199.163.65",
+        "193.112.16.45",
         "106.55.44.79",
         "193.112.107.80",
-        "193.112.16.45"
+        "139.199.163.65"
+    ],
+    "fr-dns1.bancuh.com": [
+        "51.158.99.7"
+    ],
+    "sg-dns1.bancuh.com": [
+        "139.59.219.245"
+    ],
+    "antivirus.bebasid.com": [
+        "35.219.67.150",
+        "103.87.68.195"
     ],
     "dns.bebasid.com": [
         "103.87.68.194",
         "35.219.67.150"
     ],
+    "internetsehat.bebasid.com": [
+        "35.219.67.150",
+        "103.87.68.196"
+    ],
     "dns.belnet.be": [
-        "193.190.198.16",
-        "193.190.182.53"
+        "193.190.182.53",
+        "193.190.198.16"
+    ],
+    "ns3.bit-trail.nl": [
+        "92.63.169.45"
     ],
     "dns.bitdefender.net": [
-        "35.247.80.47"
-    ],
-    "dns.blokada.org": [
-        "193.180.80.2",
-        "193.180.80.1"
-    ],
-    "dns.brahma.world": [
-        "157.90.124.62"
-    ],
-    "dns.carson-family.com": [
-        "34.75.163.154"
-    ],
-    "dns.cfiec.net": [],
-    "dns.chenu.ch": [
-        "141.145.202.228"
-    ],
-    "dns.circl.lu": [
-        "185.194.94.71"
-    ],
-    "dns.clanless.ovh": [
-        "217.160.68.68"
-    ],
-    "dns.cloudflare.com": [
-        "104.16.132.229",
-        "104.16.133.229"
-    ],
-    "dns.cmrg.net": [
-        "199.58.83.33"
-    ],
-    "dns.comss.one": [
-        "5.181.20.241",
-        "5.182.38.14",
-        "45.153.231.200",
-        "92.223.65.71"
-    ],
-    "dns.cynthialabs.net": [
-        "172.67.154.61",
-        "104.21.4.234"
-    ],
-    "dns.daw.dev": [
-        "116.203.115.225"
-    ],
-    "dns.decloudus.com": [
-        "78.47.212.211"
-    ],
-    "dns.digitale-gesellschaft.ch": [
-        "185.95.218.42",
-        "185.95.218.43"
-    ],
-    "dns.digitalsize.net": [
-        "94.130.135.203"
-    ],
-    "dns.dnshome.de": [
-        "45.86.125.59"
-    ],
-    "dns.dnswarden.com": [
-        "149.248.217.117"
-    ],
-    "dns.doh.best": [
-        "15.235.141.22",
-        "15.235.163.252"
-    ],
-    "dns.east.comss.one": [
-        "5.189.201.27",
-        "92.223.109.19"
-    ],
-    "dns.emiliyan.com": [
-        "35.239.47.122"
-    ],
-    "dns.expert": [
-        "85.183.142.13"
-    ],
-    "dns.extrawdw.net": [
-        "152.70.113.139"
-    ],
-    "dns.fancyorg.at": [
-        "185.69.161.122"
-    ],
-    "dns.feldy.my.id": [
-        "104.21.63.42",
-        "172.67.143.17"
-    ],
-    "dns.freyja.pw": [
-        "15.204.209.29"
-    ],
-    "dns.froth.zone": [
-        "95.216.99.249"
-    ],
-    "dns.gnb09.id": [
-        "202.70.133.123"
-    ],
-    "dns.google": [
-        "8.8.4.4",
-        "8.8.8.8"
-    ],
-    "dns.google.com": [
-        "8.8.8.8",
-        "8.8.4.4"
-    ],
-    "dns.hahnjo.de": [
-        "193.30.122.186"
-    ],
-    "dns.hostux.net": [
-        "46.226.108.173",
-        "46.226.109.82"
-    ],
-    "dns.jstockley.com": [
-        "104.21.69.35",
-        "172.67.203.156"
-    ],
-    "dns.kamilszczepanski.com": [
-        "109.173.179.58"
-    ],
-    "dns.karl.one": [
-        "188.68.33.96"
-    ],
-    "dns.kernel-error.de": [
-        "37.120.183.220"
-    ],
-    "dns.kescher.at": [
-        "45.129.181.164"
-    ],
-    "dns.meeo.win": [
-        "168.138.28.223"
-    ],
-    "dns.mni.li": [
-        "78.11.145.189"
-    ],
-    "dns.molinero.dev": [
-        "168.119.96.125"
-    ],
-    "dns.mullvad.net": [
-        "194.242.2.2"
-    ],
-    "dns.nas-server.ru": [
-        "185.17.3.188"
-    ],
-    "dns.ndo.dev": [
-        "185.121.71.99"
-    ],
-    "dns.neutopia.org": [],
-    "dns.nextdns.io": [
-        "23.81.246.121",
-        "162.218.114.81"
-    ],
-    "dns.nhtsky.com": [
-        "158.101.157.9"
-    ],
-    "dns.njal.la": [
-        "95.215.19.53"
-    ],
-    "dns.novali.date": [
-        "23.94.211.166"
-    ],
-    "dns.ofdoom.net": [
-        "152.70.156.129"
-    ],
-    "dns.oszx.co": [],
-    "dns.paesa.es": [
-        "172.67.182.154",
-        "104.21.32.35"
-    ],
-    "dns.pub": [
-        "162.14.21.178",
-        "162.14.21.56"
-    ],
-    "dns.pumplex.com": [],
-    "dns.quad9.net": [
-        "149.112.112.112",
-        "9.9.9.9"
-    ],
-    "dns.reckoningslug.name": [
-        "192.119.93.224"
-    ],
-    "dns.rin.sh": [
-        "116.203.72.235"
-    ],
-    "dns.rotunneling.net": [
-        "172.66.42.222",
-        "172.66.41.34"
-    ],
-    "dns.rubyfish.cn": [
-        "175.24.154.66"
-    ],
-    "dns.sarak.as": [
-        "70.253.80.157",
-        "70.253.80.158"
-    ],
-    "dns.sb": [
-        "185.222.222.222"
-    ],
-    "dns.sev.monster": [
-        "168.235.111.72"
-    ],
-    "dns.shecan.ir": [
-        "185.51.200.2",
-        "178.22.122.100"
-    ],
-    "dns.silen.org": [
-        "104.21.62.158",
-        "172.67.137.18"
-    ],
-    "dns.silentlybren.com": [
-        "172.67.209.173",
-        "104.21.53.69"
-    ],
-    "dns.sitdns.com": [
-        "119.237.175.2"
-    ],
-    "dns.skrep.eu": [
-        "5.2.72.7"
-    ],
-    "dns.slinkyman.net": [
-        "203.29.240.52"
-    ],
-    "dns.startupstack.tech": [
-        "45.79.102.67"
-    ],
-    "dns.switch.ch": [
-        "130.59.31.248",
-        "130.59.31.251"
-    ],
-    "dns.syaifullah.com": [
-        "103.166.228.19"
-    ],
-    "dns.t53.de": [
-        "80.156.145.201"
-    ],
-    "dns.telekom.de": [
-        "217.0.43.2",
-        "217.0.43.50"
-    ],
-    "dns.therifleman.name": [
-        "172.104.206.174"
-    ],
-    "dns.tls-data.de": [
-        "91.217.86.4"
-    ],
-    "dns.twnic.tw": [
-        "101.101.101.101"
-    ],
-    "dns.uplenk.com": [
-        "104.21.47.207",
-        "172.67.172.168"
-    ],
-    "dns.wang.art": [
-        "139.162.109.244"
-    ],
-    "dns0.eu": [
-        "37.252.231.163",
-        "212.126.59.63"
-    ],
-    "dns01.flm9.net": [
-        "188.40.154.101"
-    ],
-    "dns1.digitale-gesellschaft.ch": [
-        "185.95.218.42"
-    ],
-    "dns1.dnscrypt.ca": [
-        "167.114.220.125"
-    ],
-    "dns1.in-berlin.de": [
-        "192.109.42.41"
-    ],
-    "dns1.nextdns.io": [
-        "162.218.114.81"
-    ],
-    "dns1.nielsdb.be": [
-        "141.148.236.153"
-    ],
-    "dns1.ryan-palmer.com": [
-        "68.183.253.200"
-    ],
-    "dns10.quad9.net": [
-        "149.112.112.10",
-        "9.9.9.10"
-    ],
-    "dns11.quad9.net": [
-        "9.9.9.11",
-        "149.112.112.11"
-    ],
-    "dns12.quad9.net": [
-        "9.9.9.12",
-        "149.112.112.12"
-    ],
-    "dns13.quad9.net": [
-        "149.112.112.13",
-        "9.9.9.13"
-    ],
-    "dns2.digitale-gesellschaft.ch": [
-        "185.95.218.43"
-    ],
-    "dns2.dnscrypt.ca": [
-        "149.56.228.45"
-    ],
-    "dns2.nextdns.io": [
-        "23.81.246.121"
-    ],
-    "dns64.cloudflare-dns.com": [],
-    "dns64.dns.google": [],
-    "dns8.org": [
-        "207.246.68.103"
-    ],
-    "dns9.quad9.net": [
-        "9.9.9.9",
-        "149.112.112.9"
-    ],
-    "dnsforge.de": [
-        "176.9.93.198",
-        "176.9.1.117"
-    ],
-    "dnslow.me": [
-        "52.246.182.50"
-    ],
-    "dnsnl-noads.alekberg.net": [
-        "89.38.131.38"
-    ],
-    "dnsnl.alekberg.net": [
-        "89.38.131.38"
-    ],
-    "dnsse-noads.alekberg.net": [
-        "45.153.187.96"
-    ],
-    "dnsse.alekberg.net": [
-        "45.153.187.96"
-    ],
-    "dog.dns.qwer.pw": [
-        "146.56.176.39"
-    ],
-    "doh-01.spectrum.com": [
-        "24.240.146.7"
-    ],
-    "doh-02.spectrum.com": [
-        "24.240.146.8"
-    ],
-    "doh-2.seby.io": [
-        "45.76.113.31"
+        "35.199.57.35"
     ],
     "doh-ch.blahdns.com": [
         "45.91.92.121"
@@ -662,43 +276,24 @@
     "doh-fi.blahdns.com": [
         "95.216.212.177"
     ],
-    "doh-ipv6.crypto.sx": [
-        "172.67.140.94",
-        "104.21.46.152"
-    ],
     "doh-jp.blahdns.com": [
         "212.52.0.233"
-    ],
-    "doh-primary-pool.detoxifypornblocker.com": [
-        "68.183.19.93"
     ],
     "doh-sg.blahdns.com": [
         "103.167.150.45"
     ],
-    "doh.360.cn": [
-        "101.198.193.29",
-        "101.198.192.33"
+    "doh1.blahdns.com": [
+        "169.150.236.97"
     ],
-    "doh.42l.fr": [
-        "45.155.171.163"
+    "doh2.blahdns.com": [
+        "169.150.236.100"
     ],
-    "doh.aaaab3n.moe": [
-        "104.21.10.53",
-        "172.67.131.61"
+    "dns.blokada.org": [
+        "193.180.80.1",
+        "193.180.80.2"
     ],
-    "doh.abmb.win": [
-        "44.227.65.245",
-        "44.227.76.166"
-    ],
-    "doh.apad.pro": [
-        "104.21.55.112",
-        "172.67.171.30"
-    ],
-    "doh.applied-privacy.net": [
-        "146.255.56.98"
-    ],
-    "doh.appliedprivacy.net": [
-        "146.255.56.98"
+    "bluemood.me": [
+        "34.80.137.209"
     ],
     "doh.boje8.me": [
         "223.17.118.34"
@@ -706,34 +301,190 @@
     "doh.bortzmeyer.fr": [
         "193.70.85.11"
     ],
+    "cloudns.bosco.ovh": [
+        "137.74.29.10"
+    ],
+    "dns.brahma.world": [
+        "157.90.124.62"
+    ],
+    "bravedns.com": [
+        "104.21.49.234",
+        "172.67.195.148"
+    ],
+    "basic.bravedns.com": [
+        "172.67.195.148",
+        "104.21.49.234"
+    ],
+    "free.bravedns.com": [
+        "172.67.195.148",
+        "104.21.49.234"
+    ],
     "doh.bt.com": [
         "81.130.111.250",
         "81.130.111.251"
     ],
+    "www.c-dns.com": [
+        "211.95.16.131"
+    ],
+    "captnemo.in": [
+        "185.199.108.153"
+    ],
     "doh.captnemo.in": [
         "139.59.48.222"
+    ],
+    "dns.carson-family.com": [
+        "34.75.163.154"
     ],
     "doh.ccb-net.it": [
         "172.67.193.126",
         "104.21.57.234"
     ],
-    "doh.centraleu.pi-dns.com": [
-        "88.198.91.187"
+    "anycast.censurfridns.dk": [
+        "91.239.100.100"
     ],
-    "doh.chi.ahadns.net": [
-        "193.29.62.196"
+    "deic-lgb.anycast.censurfridns.dk": [
+        "130.225.244.166"
+    ],
+    "deic-ore.anycast.censurfridns.dk": [
+        "130.226.161.34"
+    ],
+    "kracon.anycast.censurfridns.dk": [
+        "185.38.27.139"
+    ],
+    "rgnet-iad.anycast.censurfridns.dk": [
+        "198.180.150.12"
+    ],
+    "unicast.censurfridns.dk": [
+        "89.233.43.71"
+    ],
+    "dns.cfiec.net": [],
+    "ibuki.cgnat.net": [
+        "144.22.247.219"
+    ],
+    "chandr1000.net": [
+        "103.175.219.52"
+    ],
+    "dns.chenu.ch": [
+        "141.145.202.228"
+    ],
+    "family.canadianshield.cira.ca": [
+        "149.112.121.30",
+        "149.112.122.30"
+    ],
+    "private.canadianshield.cira.ca": [
+        "149.112.121.10",
+        "149.112.122.10"
+    ],
+    "protected.canadianshield.cira.ca": [
+        "149.112.121.20",
+        "149.112.122.20"
+    ],
+    "dns.circl.lu": [
+        "185.194.94.71"
+    ],
+    "dns.clanless.ovh": [
+        "217.160.68.68"
+    ],
+    "adult-filter-dns.cleanbrowsing.org": [
+        "185.228.168.10"
     ],
     "doh.cleanbrowsing.org": [
         "185.228.168.10",
         "185.228.168.168"
     ],
+    "family-filter-dns.cleanbrowsing.org": [
+        "185.228.168.168"
+    ],
+    "security-filter-dns.cleanbrowsing.org": [
+        "185.228.168.9"
+    ],
+    "dns.cloudflare.com": [
+        "104.16.132.229",
+        "104.16.133.229"
+    ],
+    "cloudflare-dns.com": [
+        "104.16.248.249",
+        "104.16.249.249"
+    ],
+    "1dot1dot1dot1.cloudflare-dns.com": [
+        "1.0.0.1",
+        "1.1.1.1"
+    ],
+    "chrome.cloudflare-dns.com": [
+        "162.159.61.3",
+        "172.64.41.3"
+    ],
+    "dns64.cloudflare-dns.com": [],
+    "family.cloudflare-dns.com": [
+        "1.1.1.3",
+        "1.0.0.3"
+    ],
+    "mozilla.cloudflare-dns.com": [
+        "172.64.41.4",
+        "162.159.61.4"
+    ],
+    "security.cloudflare-dns.com": [
+        "1.1.1.2",
+        "1.0.0.2"
+    ],
+    "dns.cmrg.net": [
+        "199.58.83.33"
+    ],
+    "commons.host": [
+        "172.67.139.164",
+        "104.21.33.14"
+    ],
+    "dns.comss.one": [
+        "5.181.20.241",
+        "5.182.38.14",
+        "45.153.231.200",
+        "92.223.65.71"
+    ],
+    "dns.east.comss.one": [
+        "92.223.109.19",
+        "5.189.201.27"
+    ],
+    "freedns.controld.com": [
+        "76.76.2.11"
+    ],
+    "family.freedns.controld.com": [
+        "76.76.2.11"
+    ],
+    "p0.freedns.controld.com": [
+        "76.76.2.11"
+    ],
+    "p1.freedns.controld.com": [
+        "76.76.2.11"
+    ],
+    "p2.freedns.controld.com": [
+        "76.76.2.11"
+    ],
+    "p3.freedns.controld.com": [
+        "76.76.2.11"
+    ],
+    "uncensored.freedns.controld.com": [
+        "76.76.2.11"
+    ],
     "doh.cox.net": [
-        "68.105.28.11",
-        "68.105.28.12"
+        "68.105.28.12",
+        "68.105.28.11"
+    ],
+    "dohdot.coxlab.net": [
+        "174.68.248.77"
     ],
     "doh.crypto.sx": [
+        "172.67.140.94",
+        "104.21.46.152"
+    ],
+    "doh-ipv6.crypto.sx": [
         "104.21.46.152",
         "172.67.140.94"
+    ],
+    "dns.cynthialabs.net": [
+        "172.64.80.1"
+    ],
+    "mail.data.haus": [
+        "159.69.123.239"
     ],
     "doh.datacore.ch": [
         "212.51.138.251"
@@ -741,131 +492,561 @@
     "doh.datahata.by": [
         "31.130.200.100"
     ],
+    "dns.daw.dev": [
+        "116.203.115.225"
+    ],
+    "dns.decloudus.com": [
+        "78.47.212.211"
+    ],
     "doh.defaultroutes.de": [
         "5.45.107.88"
+    ],
+    "adguard.lege.despagne.net": [
+        "82.66.195.182"
+    ],
+    "doh-primary-pool.detoxifypornblocker.com": [
+        "68.183.19.93"
+    ],
+    "digitale-gesellschaft.ch": [
+        "89.45.227.53"
+    ],
+    "dns.digitale-gesellschaft.ch": [
+        "185.95.218.42",
+        "185.95.218.43"
+    ],
+    "dns1.digitale-gesellschaft.ch": [
+        "185.95.218.42"
+    ],
+    "dns2.digitale-gesellschaft.ch": [
+        "185.95.218.43"
+    ],
+    "dns.digitalsize.net": [
+        "94.130.135.203"
     ],
     "doh.disconnect.app": [
         "172.67.140.171",
         "104.21.65.52"
     ],
-    "doh.dns.apple.com": [
-        "17.253.82.243",
-        "17.253.82.117",
-        "64.78.201.1",
-        "64.78.200.1",
-        "17.253.82.115",
-        "17.253.82.241"
+    "fdns1.dismail.de": [
+        "116.203.32.217"
     ],
-    "doh.dns.apple.com.v.aaplimg.com": [
-        "17.253.82.117",
-        "17.253.82.241",
-        "17.253.82.115",
-        "64.78.200.1",
-        "64.78.201.1",
-        "17.253.82.243"
+    "fdns2.dismail.de": [
+        "159.69.114.157"
     ],
+    "dns.expert": [
+        "85.183.142.13"
+    ],
+    "dns.google": [
+        "8.8.8.8",
+        "8.8.4.4"
+    ],
+    "dns.pub": [
+        "162.14.21.178",
+        "162.14.21.56"
+    ],
+    "dns.sb": [
+        "185.222.222.222"
+    ],
+    "dns64.dns.google": [],
     "doh.dns.sb": [
         "104.21.48.25",
         "172.67.176.33"
     ],
+    "public-dns-a.dns.sb": [
+        "185.222.222.222"
+    ],
+    "public-dns-b.dns.sb": [
+        "45.11.45.11"
+    ],
+    "dns-free.link": [
+        "104.21.33.114",
+        "172.67.161.229"
+    ],
+    "tls-dns-u.odvr.dns-oarc.net": [
+        "184.105.193.78"
+    ],
+    "dns0.eu": [
+        "212.126.59.63",
+        "37.252.231.163"
+    ],
+    "kids.dns0.eu": [
+        "212.126.59.63",
+        "37.252.231.163"
+    ],
+    "open.dns0.eu": [
+        "37.252.231.163",
+        "212.126.59.63"
+    ],
+    "zero.dns0.eu": [
+        "212.126.59.63",
+        "37.252.231.163"
+    ],
     "doh.dns4all.eu": [
         "194.0.5.3"
+    ],
+    "au01.dns4me.net": [
+        "54.79.3.18"
+    ],
+    "au02.dns4me.net": [
+        "52.63.91.105"
+    ],
+    "ca01.dns4me.net": [
+        "99.79.182.170"
+    ],
+    "ca02.dns4me.net": [
+        "169.48.27.179"
+    ],
+    "nz01.dns4me.net": [
+        "103.6.212.123"
+    ],
+    "sa01.dns4me.net": [
+        "160.119.253.209"
+    ],
+    "uk01.dns4me.net": [
+        "3.10.65.124"
+    ],
+    "dns8.org": [
+        "207.246.68.103"
+    ],
+    "ns1.recursive.dnsbycomodo.com": [
+        "8.26.56.26"
+    ],
+    "ns2.recursive.dnsbycomodo.com": [
+        "8.20.247.20"
+    ],
+    "asia.dnscepat.id": [
+        "44.227.76.166",
+        "44.227.65.245"
+    ],
+    "eropa.dnscepat.id": [
+        "44.227.76.166",
+        "44.227.65.245"
+    ],
+    "abe01.dnscry.pt": [
+        "23.137.253.24"
+    ],
+    "ams01.dnscry.pt": [
+        "198.140.141.46"
+    ],
+    "ams02.dnscry.pt": [
+        "45.86.162.110"
+    ],
+    "atl01.dnscry.pt": [
+        "170.249.237.154"
+    ],
+    "bom01.dnscry.pt": [
+        "103.172.92.9"
+    ],
+    "coe01.dnscry.pt": [
+        "104.192.102.132"
+    ],
+    "cvt01.dnscry.pt": [
+        "104.128.190.108"
+    ],
+    "dfw01.dnscry.pt": [
+        "202.5.26.130"
+    ],
+    "dtw01.dnscry.pt": [
+        "66.187.7.140"
+    ],
+    "dub01.dnscry.pt": [
+        "45.150.240.149"
+    ],
+    "dus01.dnscry.pt": [
+        "185.244.27.136"
+    ],
+    "fra01.dnscry.pt": [
+        "194.50.19.150"
+    ],
+    "geg01.dnscry.pt": [
+        "104.36.86.181"
+    ],
+    "hkg01.dnscry.pt": [
+        "89.213.0.26"
+    ],
+    "ist01.dnscry.pt": [
+        "193.228.1.130"
+    ],
+    "jnb01.dnscry.pt": [
+        "169.239.128.124"
+    ],
+    "kiv01.dnscry.pt": [
+        "176.123.10.105"
+    ],
+    "las01.dnscry.pt": [
+        "209.141.45.27"
+    ],
+    "lax01.dnscry.pt": [
+        "84.33.244.100"
+    ],
+    "lax02.dnscry.pt": [
+        "104.200.67.194"
+    ],
+    "llk01.dnscry.pt": [
+        "23.184.48.19"
+    ],
+    "lon01.dnscry.pt": [
+        "178.239.174.244"
+    ],
+    "mad01.dnscry.pt": [
+        "5.134.119.246"
+    ],
+    "mia01.dnscry.pt": [
+        "84.33.14.10"
+    ],
+    "muc01.dnscry.pt": [
+        "194.39.205.10"
+    ],
+    "naw01.dnscry.pt": [
+        "23.137.249.26"
+    ],
+    "nyc01.dnscry.pt": [
+        "84.33.245.10"
+    ],
+    "ord01.dnscry.pt": [
+        "45.41.204.204"
+    ],
+    "pdx01.dnscry.pt": [
+        "103.124.106.233"
+    ],
+    "phl01.dnscry.pt": [
+        "154.16.159.22"
+    ],
+    "phx01.dnscry.pt": [
+        "173.249.203.52"
+    ],
+    "rdu01.dnscry.pt": [
+        "38.45.64.117"
+    ],
+    "sin01.dnscry.pt": [
+        "84.33.16.124"
+    ],
+    "slc01.dnscry.pt": [
+        "103.114.162.65"
+    ],
+    "sof01.dnscry.pt": [
+        "79.124.77.3"
+    ],
+    "sto01.dnscry.pt": [
+        "95.143.196.190"
+    ],
+    "syd01.dnscry.pt": [
+        "84.33.15.100"
+    ],
+    "tll01.dnscry.pt": [
+        "185.194.53.22"
+    ],
+    "tpa01.dnscry.pt": [
+        "165.140.117.248"
+    ],
+    "tpe01.dnscry.pt": [
+        "103.131.189.11"
+    ],
+    "trf01.dnscry.pt": [
+        "194.32.107.48"
+    ],
+    "tyo01.dnscry.pt": [
+        "84.33.12.158"
+    ],
+    "vie01.dnscry.pt": [
+        "83.138.55.186"
+    ],
+    "waw01.dnscry.pt": [
+        "185.244.30.123"
+    ],
+    "ycg01.dnscry.pt": [
+        "158.51.78.177"
+    ],
+    "yul01.dnscry.pt": [
+        "147.189.136.104"
+    ],
+    "zal01.dnscry.pt": [
+        "216.73.159.26"
+    ],
+    "dns1.dnscrypt.ca": [
+        "167.114.220.125"
+    ],
+    "dns2.dnscrypt.ca": [
+        "149.56.228.45"
+    ],
+    "dns-doh.dnsforfamily.com": [
+        "167.235.236.107"
+    ],
+    "dnsforge.de": [
+        "176.9.93.198",
+        "176.9.1.117"
+    ],
+    "dns.dnshome.de": [
+        "45.86.125.59"
     ],
     "doh.dnslify.com": [
         "185.235.81.1"
     ],
+    "a.ns.dnslify.com": [
+        "185.235.81.81"
+    ],
+    "b.ns.dnslify.com": [
+        "185.235.83.83",
+        "185.235.81.2"
+    ],
+    "a.family.ns.dnslify.com": [
+        "185.235.81.5"
+    ],
+    "b.family.ns.dnslify.com": [
+        "185.235.81.6"
+    ],
+    "a.safe.ns.dnslify.com": [
+        "185.235.81.3"
+    ],
+    "b.safe.ns.dnslify.com": [
+        "185.235.81.4"
+    ],
+    "dnslow.me": [
+        "52.246.182.50"
+    ],
+    "dns.dnswarden.com": [
+        "149.248.217.117"
+    ],
     "doh.dnswarden.com": [
         "149.248.217.117"
+    ],
+    "doh.li": [
+        "46.101.66.244"
+    ],
+    "doh.lv": [
+        "91.198.156.20"
+    ],
+    "doh.pub": [
+        "162.14.21.56",
+        "162.14.21.178"
+    ],
+    "doh.sb": [
+        "185.222.222.222"
+    ],
+    "dns.doh.best": [
+        "15.235.141.22",
+        "15.235.163.252"
     ],
     "doh.dscloud.me": [
         "45.76.154.33"
     ],
-    "doh.eastas.pi-dns.com": [
-        "66.42.33.135"
+    "dukun.de": [
+        "188.68.50.215"
     ],
-    "doh.eastau.pi-dns.com": [
-        "45.63.30.163"
+    "edgy-dns.com": [
+        "108.137.108.68"
     ],
-    "doh.eastus.pi-dns.com": [
-        "185.213.26.187"
+    "dns.emiliyan.com": [
+        "35.239.47.122"
     ],
-    "doh.es.ahadns.net": [
-        "45.132.74.167"
+    "dns.extrawdw.net": [
+        "152.70.113.139"
     ],
-    "doh.familyshield.opendns.com": [
-        "146.112.41.3"
+    "pdns.faelix.net": [
+        "185.134.196.52",
+        "46.227.200.52",
+        "46.227.207.52",
+        "46.227.203.52"
+    ],
+    "rdns.faelix.net": [
+        "46.227.200.54",
+        "185.134.196.55",
+        "46.227.200.55",
+        "185.134.196.54"
+    ],
+    "dns.fancyorg.at": [
+        "185.69.161.122"
+    ],
+    "ns0.fdn.fr": [
+        "80.67.169.12"
+    ],
+    "ns1.fdn.fr": [
+        "80.67.169.40"
+    ],
+    "ag.ff0x.ca": [
+        "137.184.171.250"
     ],
     "doh.ffmuc.net": [
         "5.1.66.255",
         "185.150.99.255"
     ],
+    "dns01.flm9.net": [
+        "188.40.154.101"
+    ],
+    "dns.freyja.pw": [
+        "15.204.209.29"
+    ],
+    "dns.froth.zone": [
+        "95.216.99.249"
+    ],
+    "awan.ftp.sh": [
+        "140.238.48.65"
+    ],
     "doh.futa.gg": [
         "104.16.0.132"
     ],
-    "doh.gcp.pathofgrace.com": [
-        "34.151.118.101"
+    "cluster-0.gac.edu": [
+        "138.236.128.100"
     ],
-    "doh.ibr.cs.tu-bs.de": [
-        "134.169.34.57"
+    "cluster-1.gac.edu": [
+        "138.236.128.101"
     ],
-    "doh.in.ahadns.net": [
-        "45.79.120.233"
+    "getdnsapi.net": [
+        "185.49.141.38"
     ],
-    "doh.it.ahadns.net": [
-        "45.91.95.12"
+    "dns.gnb09.id": [
+        "202.70.133.123"
+    ],
+    "privacydns.go6lab.si": [
+        "91.239.96.35"
+    ],
+    "dns.google.com": [
+        "8.8.8.8",
+        "8.8.4.4"
+    ],
+    "google-public-dns-a.google.com": [
+        "8.8.8.8"
+    ],
+    "google-public-dns-b.google.com": [
+        "8.8.4.4"
+    ],
+    "jp.gridns.xyz": [
+        "172.105.241.93"
+    ],
+    "dns.hahnjo.de": [
+        "193.30.122.186"
+    ],
+    "query.hdns.io": [
+        "103.196.38.200"
+    ],
+    "ordns.he.net": [
+        "74.82.42.42"
+    ],
+    "dns.hostux.net": [
+        "46.226.109.82",
+        "46.226.108.173"
+    ],
+    "doth.huque.com": [
+        "54.90.232.69"
+    ],
+    "opennic.i2pd.xyz": [
+        "151.80.222.79"
+    ],
+    "mask.icloud.com": [
+        "17.248.168.133",
+        "17.248.168.219",
+        "17.248.168.221",
+        "17.248.168.220",
+        "17.248.168.210",
+        "17.248.168.102",
+        "17.248.168.195",
+        "17.248.168.201"
+    ],
+    "mask-h2.icloud.com": [
+        "17.248.168.102",
+        "17.248.168.211",
+        "17.248.168.100",
+        "17.248.168.166",
+        "17.248.168.210",
+        "17.248.168.202",
+        "17.248.168.215",
+        "17.248.168.106"
+    ],
+    "adguard.shuting.idv.tw": [
+        "114.34.178.193"
+    ],
+    "public.dns.iij.jp": [
+        "103.2.57.5",
+        "103.2.57.6"
+    ],
+    "dns1.in-berlin.de": [
+        "192.109.42.41"
+    ],
+    "qlf-doh.inria.fr": [
+        "128.93.162.64"
+    ],
+    "pdns.itxe.net": [
+        "36.156.184.156",
+        "221.131.165.165"
+    ],
+    "ivnkn.xyz": [
+        "104.21.83.46",
+        "172.67.214.8"
+    ],
+    "jackyes.ovh": [
+        "79.143.181.69"
+    ],
+    "jcdns.fun": [
+        "44.227.76.166",
+        "44.227.65.245"
+    ],
+    "adguard.jfchenier.ca": [
+        "184.163.126.251"
+    ],
+    "opencdn.jomodns.com": [
+        "111.170.27.1",
+        "113.219.142.35",
+        "124.239.243.35",
+        "42.101.56.35",
+        "36.99.50.35"
+    ],
+    "dns.jstockley.com": [
+        "104.21.69.35",
+        "172.67.203.156"
+    ],
+    "dns.kamilszczepanski.com": [
+        "85.221.184.184"
+    ],
+    "dns.karl.one": [
+        "188.68.33.96"
+    ],
+    "dns.kernel-error.de": [
+        "37.120.183.220"
+    ],
+    "dns.kescher.at": [
+        "45.129.181.164"
+    ],
+    "pihole.aws.ketan.dev": [
+        "43.204.67.89"
     ],
     "doh.killtw.im": [
         "104.21.76.154",
         "172.67.197.42"
     ],
-    "doh.la.ahadns.net": [
-        "45.67.219.208"
+    "blog.kimiblock.top": [
+        "8.218.96.243",
+        "8.210.222.108"
+    ],
+    "adguard.konikoni428.com": [
+        "202.182.121.233"
+    ],
+    "korzhov.dev": [
+        "70.34.196.140"
+    ],
+    "dart.kpsn.org": [
+        "129.153.224.48"
+    ],
+    "xray.krnl.eu": [
+        "89.58.41.122"
     ],
     "doh.lacontrevoie.fr": [
         "45.155.171.163"
     ],
-    "doh.li": [
-        "46.101.66.244"
+    "lastentarvike.fi": [
+        "194.100.93.136"
     ],
+    "eu1.dns.lavate.ch": [
+        "95.217.25.217"
+    ],
+    "us1.dns.lavate.ch": [
+        "79.110.170.43"
+    ],
+    "yarp.lefolgoc.net": [
+        "5.39.88.20"
+    ],
+    "resolver-eu.lelux.fi": [],
     "doh.libredns.gr": [
         "116.202.176.26"
-    ],
-    "doh.luigi.nexific.it": [
-        "188.34.183.35"
-    ],
-    "doh.lv": [
-        "91.198.156.20"
-    ],
-    "doh.mmmalia.com": [
-        "91.159.139.58"
-    ],
-    "doh.mullvad.net": [
-        "194.242.2.2"
-    ],
-    "doh.nic.lv": [
-        "91.198.156.20"
-    ],
-    "doh.niyawe.de": [
-        "213.239.221.173",
-        "23.88.6.31"
-    ],
-    "doh.nl.ahadns.net": [
-        "5.2.75.75"
-    ],
-    "doh.no.ahadns.net": [
-        "185.175.56.133"
-    ],
-    "doh.northeu.pi-dns.com": [
-        "95.216.181.228"
-    ],
-    "doh.ny.ahadns.net": [
-        "185.213.26.187"
-    ],
-    "doh.onedns.net": [
-        "52.80.248.44"
-    ],
-    "doh.opendns.com": [
-        "146.112.41.2"
     ],
     "doh.phdns1.lonet.org": [
         "185.183.156.85"
@@ -882,239 +1063,139 @@
     "doh.phdns5.lonet.org": [
         "77.68.116.22"
     ],
-    "doh.pl.ahadns.net": [
-        "45.132.75.16"
+    "orau.lz0724.com": [
+        "168.138.26.232"
     ],
-    "doh.powerdns.org": [
-        "136.144.215.158"
+    "mailkyb.co": [
+        "91.192.102.204"
     ],
-    "doh.pub": [
-        "162.14.21.56",
-        "162.14.21.178"
+    "masters-of-cloud.de": [
+        "185.244.195.159"
     ],
-    "doh.qis.io": [
-        "12.159.2.159"
+    "adguard.meddy94.de": [
+        "130.61.24.160"
     ],
-    "doh.quickline.ch": [
-        "212.60.61.246",
-        "212.60.63.246"
+    "dns.meeo.win": [
+        "168.138.28.223"
     ],
-    "doh.rezhajul.io": [
-        "103.175.220.71"
+    "snoke.meganerd.nl": [
+        "95.179.131.82"
     ],
-    "doh.safesurfer.io": [
-        "35.227.226.142"
+    "doh.mmmalia.com": [
+        "91.159.139.58"
     ],
-    "doh.sandbox.opendns.com": [
-        "146.112.41.4"
+    "dns.mni.li": [
+        "78.11.145.189"
     ],
-    "doh.sb": [
-        "185.222.222.222"
+    "ps1.modr.club": [
+        "146.190.225.122"
     ],
-    "doh.seby.io": [
-        "45.76.113.31"
+    "dns.molinero.dev": [
+        "168.119.96.125"
     ],
-    "doh.syshero.org": [
-        "167.71.190.157"
+    "dns.mullvad.net": [
+        "194.242.2.2"
     ],
-    "doh.tiar.app": [
-        "174.138.29.175"
+    "adblock.dns.mullvad.net": [
+        "194.242.2.3"
     ],
-    "doh.tiarap.org": [
-        "104.21.30.162",
-        "172.67.173.59"
+    "all.dns.mullvad.net": [
+        "194.242.2.9"
     ],
-    "doh.westus.pi-dns.com": [
-        "45.67.219.208"
-    ],
-    "doh.xcom.pro": [
-        "188.165.20.42"
-    ],
-    "doh.xfinity.com": [
-        "75.75.77.99"
-    ],
-    "doh.zln.wtf": [
-        "176.124.199.239"
-    ],
-    "doh1.b-cdn.net": [
-        "143.244.49.179"
-    ],
-    "doh1.blahdns.com": [
-        "143.244.49.179"
-    ],
-    "doh2.abmb.win": [
-        "44.227.76.166",
-        "44.227.65.245"
-    ],
-    "doh2.b-cdn.net": [
-        "143.244.50.82"
-    ],
-    "doh2.blahdns.com": [
-        "143.244.50.82"
-    ],
-    "dohdot.coxlab.net": [
-        "174.68.248.77"
-    ],
-    "dohtrial.att.net": [
-        "13.89.120.251",
-        "40.76.112.230"
-    ],
-    "dot.occ.top": [
-        "39.104.172.184"
-    ],
-    "doth.huque.com": [
-        "54.90.232.69"
-    ],
-    "dukun.de": [
-        "188.68.50.215"
-    ],
-    "ea-dns.rubyfish.cn": [
-        "175.24.154.66"
-    ],
-    "edgy-dns.com": [
-        "108.137.108.68"
-    ],
-    "edns.233py.com": [
-        "101.35.161.25",
-        "107.172.216.248",
-        "43.154.198.199"
-    ],
-    "eropa.dnscepat.id": [
-        "44.227.65.245",
-        "44.227.76.166"
-    ],
-    "eu1.dns.lavate.ch": [
-        "95.217.25.217"
+    "base.dns.mullvad.net": [
+        "194.242.2.4"
     ],
     "extended.dns.mullvad.net": [
         "194.242.2.5"
     ],
-    "family-filter-dns.cleanbrowsing.org": [
-        "185.228.168.168"
+    "doh.mullvad.net": [
+        "194.242.2.2"
     ],
-    "family.5ososea.com": [
-        "93.177.64.13"
+    "adblock.doh.mullvad.net": [
+        "194.242.2.3"
     ],
-    "family.adguard-dns.com": [
-        "94.140.15.16",
-        "94.140.14.15"
+    "dns.feldy.my.id": [
+        "104.21.63.42",
+        "172.67.143.17"
     ],
-    "family.canadianshield.cira.ca": [
-        "149.112.121.30",
-        "149.112.122.30"
+    "blackhole.myon.lu": [
+        "85.202.163.84"
     ],
-    "family.cloudflare-dns.com": [
-        "1.1.1.3",
-        "1.0.0.3"
+    "n0.eu": [
+        "207.246.68.103"
     ],
-    "family.freedns.controld.com": [
-        "76.76.2.11"
+    "dns.nas-server.ru": [
+        "185.17.3.188"
     ],
-    "fdns1.dismail.de": [
-        "116.203.32.217"
+    "dns.ndo.dev": [
+        "185.121.71.99"
     ],
-    "fdns2.dismail.de": [
-        "159.69.114.157"
+    "dns.aa.net.uk": [
+        "217.169.20.22",
+        "217.169.20.23"
+    ],
+    "dns.neutopia.org": [],
+    "doh.luigi.nexific.it": [
+        "188.34.183.35"
+    ],
+    "dns.nextdns.io": [
+        "162.250.6.163",
+        "144.202.60.17"
+    ],
+    "anycast.dns.nextdns.io": [
+        "45.90.30.0",
+        "45.90.28.0"
+    ],
+    "chromium.dns.nextdns.io": [
+        "162.250.6.163",
+        "144.202.60.17"
     ],
     "firefox.dns.nextdns.io": [
-        "162.218.114.81",
-        "23.81.246.121"
+        "162.250.6.163",
+        "144.202.60.17"
     ],
-    "fr-dns1.bancuh.com": [
-        "51.158.99.7"
+    "dns1.nextdns.io": [
+        "144.202.60.17"
     ],
-    "free.bravedns.com": [
-        "172.67.195.148",
-        "104.21.49.234"
+    "dns2.nextdns.io": [
+        "162.250.6.163"
     ],
-    "free.shecan.ir": [
-        "185.51.200.2",
-        "178.22.122.100"
+    "dns.nhtsky.com": [
+        "158.101.157.9"
     ],
-    "freedns.controld.com": [
-        "76.76.2.11"
+    "doh.nic.lv": [
+        "91.198.156.20"
     ],
-    "frog.dns.qwer.pw": [
-        "140.238.10.79"
+    "odvr.nic.cz": [
+        "193.17.47.1",
+        "185.43.135.1"
     ],
-    "getdnsapi.net": [
-        "185.49.141.38"
+    "dns1.nielsdb.be": [
+        "141.148.236.153"
     ],
-    "google-public-dns-a.google.com": [
-        "8.8.8.8"
+    "adblock.any.dns.nixnet.xyz": [
+        "198.251.90.89"
     ],
-    "google-public-dns-b.google.com": [
-        "8.8.4.4"
+    "uncensored.any.dns.nixnet.xyz": [
+        "198.251.90.91"
     ],
-    "i.233py.com": [
-        "101.35.161.25",
-        "43.154.198.199",
-        "107.172.216.248"
+    "adblock.lux1.dns.nixnet.xyz": [
+        "104.244.78.231"
     ],
-    "i.passcloud.xyz": [
-        "104.247.81.50"
+    "uncensored.lux1.dns.nixnet.xyz": [
+        "104.244.78.231"
     ],
-    "ibksturm.synology.me": [
-        "213.196.191.96"
+    "adblock.lv1.dns.nixnet.xyz": [
+        "209.141.34.95"
     ],
-    "ibuki.cgnat.net": [
-        "144.22.247.219"
+    "uncensored.lv1.dns.nixnet.xyz": [
+        "209.141.34.95"
     ],
-    "ihctw.synology.me": [
-        "220.134.236.85"
+    "adblock.ny1.dns.nixnet.xyz": [
+        "199.195.251.84"
     ],
-    "internetsehat.bebasid.com": [
-        "103.87.68.196"
-    ],
-    "ivnkn.xyz": [
-        "104.21.83.46",
-        "172.67.214.8"
-    ],
-    "jackyes.ovh": [
-        "79.143.181.69"
-    ],
-    "jcdns.fun": [
-        "44.227.65.245",
-        "44.227.76.166"
-    ],
-    "jp.gridns.xyz": [
-        "172.105.241.93"
-    ],
-    "jp.tiar.app": [
-        "172.104.93.80"
-    ],
-    "jp.tiarap.org": [
-        "104.21.30.162",
-        "172.67.173.59"
-    ],
-    "kaitain.restena.lu": [
-        "158.64.1.29"
-    ],
-    "kids.5ososea.com": [
-        "188.68.57.106"
-    ],
-    "kids.dns0.eu": [
-        "212.126.59.63",
-        "37.252.231.163"
-    ],
-    "korzhov.dev": [
-        "70.34.196.140"
-    ],
-    "kracon.anycast.censurfridns.dk": [
-        "185.38.27.139"
-    ],
-    "kracon.anycast.uncensoreddns.org": [
-        "185.38.27.139"
-    ],
-    "lastentarvike.fi": [
-        "194.100.93.136"
-    ],
-    "lindung.pp.ua": [
-        "172.67.166.14",
-        "104.21.16.31"
-    ],
-    "lion.dns.qwer.pw": [
-        "146.56.137.68"
+    "uncensored.ny1.dns.nixnet.xyz": [
+        "199.195.251.84"
     ],
     "lux1.nixnet.xyz": [
         "104.244.78.231"
@@ -1122,73 +1203,30 @@
     "lv1.nixnet.xyz": [
         "209.141.34.95"
     ],
-    "mail.data.haus": [
-        "159.69.123.239"
+    "ny1.nixnet.xyz": [
+        "199.195.251.84"
     ],
-    "mailer.amlegion.org": [
-        "192.99.125.157"
+    "doh.niyawe.de": [
+        "213.239.221.173",
+        "23.88.6.31"
     ],
-    "mailkyb.co": [
-        "91.192.102.204"
+    "dns.njal.la": [
+        "95.215.19.53"
     ],
-    "mask-h2.icloud.com": [
-        "17.248.246.199",
-        "17.248.246.201",
-        "17.248.246.196",
-        "17.248.246.203",
-        "17.248.246.197",
-        "17.248.246.198",
-        "17.248.246.200",
-        "17.248.246.202"
+    "resolver.noaddns.com": [
+        "104.248.40.238"
     ],
-    "mask.icloud.com": [
-        "17.248.246.198",
-        "17.248.246.197",
-        "17.248.246.196",
-        "17.248.246.200",
-        "17.248.246.201",
-        "17.248.246.202",
-        "17.248.246.199",
-        "17.248.246.203"
+    "pi1.node15.com": [
+        "51.140.47.46"
     ],
-    "masters-of-cloud.de": [
-        "185.244.195.159"
+    "sink.nolo.ltd": [
+        "45.33.66.148"
     ],
-    "max.rethinkdns.com": [
-        "137.66.7.89"
+    "1.dns.noridev.moe": [
+        "220.84.185.202"
     ],
-    "mozilla.cloudflare-dns.com": [
-        "162.159.61.4",
-        "172.64.41.4"
-    ],
-    "n0.eu": [
-        "207.246.68.103"
-    ],
-    "ndns.233py.com": [
-        "43.154.198.199",
-        "101.35.161.25",
-        "107.172.216.248"
-    ],
-    "ns.00dani.me": [
-        "104.236.116.148"
-    ],
-    "ns0.fdn.fr": [
-        "80.67.169.12"
-    ],
-    "ns1.fdn.fr": [
-        "80.67.169.40"
-    ],
-    "ns1.qquack.org": [
-        "193.122.96.153"
-    ],
-    "ns1.recursive.dnsbycomodo.com": [
-        "8.26.56.26"
-    ],
-    "ns2.recursive.dnsbycomodo.com": [
-        "8.20.247.20"
-    ],
-    "ns3.bit-trail.nl": [
-        "92.63.169.45"
+    "dns.novali.date": [
+        "23.94.211.166"
     ],
     "ns3.com": [
         "207.246.68.103"
@@ -1199,284 +1237,388 @@
     "ns3.link": [
         "207.246.68.103"
     ],
-    "ny1.nixnet.xyz": [
-        "199.195.251.84"
+    "dot.occ.top": [
+        "39.104.172.184"
     ],
-    "nz01.dns4me.net": [
-        "103.6.212.123"
-    ],
-    "o.rsaikat.com": [
-        "150.136.138.221"
-    ],
-    "odvr.nic.cz": [
-        "185.43.135.1",
-        "193.17.47.1"
+    "dns.ofdoom.net": [
+        "152.70.156.129"
     ],
     "one.one.one.one": [
-        "1.0.0.1",
-        "1.1.1.1"
+        "1.1.1.1",
+        "1.0.0.1"
     ],
-    "open.dns0.eu": [
-        "212.126.59.63",
-        "37.252.231.163"
-    ],
-    "opencdn.jomodns.com": [
-        "36.99.50.35",
-        "111.170.27.1",
-        "125.74.42.35",
-        "113.219.142.35",
-        "124.239.243.35"
-    ],
-    "opennic.i2pd.xyz": [
-        "151.80.222.79"
-    ],
-    "orau.lz0724.com": [
-        "168.138.26.232"
-    ],
-    "ordns.he.net": [
-        "74.82.42.42"
-    ],
-    "p0.freedns.controld.com": [
-        "76.76.2.11"
-    ],
-    "p1.freedns.controld.com": [
-        "76.76.2.11"
-    ],
-    "p2.freedns.controld.com": [
-        "76.76.2.11"
-    ],
-    "p3.freedns.controld.com": [
-        "76.76.2.11"
-    ],
-    "pdns.faelix.net": [
-        "46.227.207.52",
-        "46.227.203.52",
-        "46.227.200.52",
-        "185.134.196.52"
-    ],
-    "pdns.itxe.net": [
-        "36.156.184.156",
-        "221.131.165.165"
-    ],
-    "per.adfilter.net": [
-        "203.29.241.76"
-    ],
-    "pi1.node15.com": [
-        "51.140.47.46"
-    ],
-    "pihole.aws.ketan.dev": [
-        "43.204.67.89"
-    ],
-    "privacydns.go6lab.si": [
-        "91.239.96.35"
-    ],
-    "private.canadianshield.cira.ca": [
-        "149.112.122.10",
-        "149.112.121.10"
-    ],
-    "pro.shecan.ir": [
-        "178.22.122.101",
-        "185.51.200.1"
-    ],
-    "protected.canadianshield.cira.ca": [
-        "149.112.122.20",
-        "149.112.121.20"
-    ],
-    "ps1.modr.club": [
-        "146.190.225.122"
-    ],
-    "public-dns-a.dns.sb": [
-        "185.222.222.222"
-    ],
-    "public-dns-b.dns.sb": [
-        "45.11.45.11"
-    ],
-    "public.dns.iij.jp": [
-        "103.2.57.6",
-        "103.2.57.5"
-    ],
-    "qlf-doh.inria.fr": [
-        "128.93.162.64"
-    ],
-    "query.hdns.io": [
-        "103.196.38.200"
-    ],
-    "rayneau.fr": [
-        "82.64.190.27"
-    ],
-    "rdns.faelix.net": [
-        "185.134.196.55",
-        "46.227.200.55",
-        "185.134.196.54",
-        "46.227.200.54"
-    ],
-    "res-acst3.absolight.net": [
-        "79.143.240.7"
-    ],
-    "resolver-eu.lelux.fi": [],
-    "resolver.noaddns.com": [
-        "104.248.40.238"
-    ],
-    "resolver.r0cket.net": [
-        "185.243.23.151"
-    ],
-    "resolver.rferee.dev": [
-        "94.130.9.165"
-    ],
-    "resolver.unstoppable.io": [
-        "104.18.165.219",
-        "104.18.166.219"
-    ],
-    "resolver1-fs.opendns.com": [
-        "208.67.222.123"
-    ],
-    "resolver1.ipv6-sandbox.opendns.com": [],
-    "resolver1.opendns.com": [
-        "208.67.222.222"
-    ],
-    "resolver2-fs.opendns.com": [
-        "208.67.220.123"
-    ],
-    "resolver2.ipv6-sandbox.opendns.com": [],
-    "resolver2.opendns.com": [
-        "208.67.220.220"
-    ],
-    "resolver3.absolight.net": [
-        "79.143.240.81"
-    ],
-    "rgnet-iad.anycast.censurfridns.dk": [
-        "198.180.150.12"
-    ],
-    "rgnet-iad.anycast.uncensoreddns.org": [
-        "198.180.150.12"
-    ],
-    "ric.openbld.net": [
-        "188.130.234.184",
-        "116.203.84.65"
-    ],
-    "rpz-public-resolver1.rrdns.pch.net": [
-        "149.112.112.112"
-    ],
-    "rumpelsepp.org": [
-        "116.202.233.144"
-    ],
-    "sa01.dns4me.net": [
-        "160.119.253.209"
-    ],
-    "safeservedns.com": [
-        "198.54.117.10",
-        "198.54.117.11"
-    ],
-    "sdns.233py.com": [
-        "43.154.198.199",
-        "101.35.161.25",
-        "107.172.216.248"
-    ],
-    "secure.anudeep.me": [
-        "152.70.65.93"
-    ],
-    "secure.avastdns.com": [
-        "23.83.132.140",
-        "23.83.186.142",
-        "23.83.132.132"
+    "doh.onedns.net": [
+        "52.80.248.44"
     ],
     "secure.onedns.cc": [
         "15.165.113.96"
     ],
-    "security-filter-dns.cleanbrowsing.org": [
-        "185.228.168.9"
+    "ada.openbld.net": [
+        "49.12.234.130",
+        "88.210.11.120",
+        "46.151.29.15",
+        "104.152.49.71"
     ],
-    "security.cloudflare-dns.com": [
-        "1.0.0.2",
-        "1.1.1.2"
+    "ric.openbld.net": [
+        "116.203.84.65",
+        "188.130.234.184"
     ],
-    "sg-dns1.bancuh.com": [
-        "139.59.219.245"
+    "doh.opendns.com": [
+        "146.112.41.2"
     ],
-    "sink.nolo.ltd": [
-        "45.33.66.148"
+    "doh.familyshield.opendns.com": [
+        "146.112.41.3"
     ],
-    "sky.rethinkdns.com": [
-        "137.66.7.89"
+    "resolver1.ipv6-sandbox.opendns.com": [],
+    "resolver2.ipv6-sandbox.opendns.com": [],
+    "resolver1.opendns.com": [
+        "208.67.222.222"
     ],
-    "snoke.meganerd.nl": [
-        "95.179.131.82"
+    "resolver1-fs.opendns.com": [
+        "208.67.222.123"
     ],
-    "spacedns.org": [
-        "54.37.137.4"
+    "resolver2.opendns.com": [
+        "208.67.220.220"
     ],
-    "syd.adfilter.net": [
-        "112.213.32.219"
+    "resolver2-fs.opendns.com": [
+        "208.67.220.123"
+    ],
+    "doh.sandbox.opendns.com": [
+        "146.112.41.4"
+    ],
+    "dns.oszx.co": [],
+    "1a.ns.ozer.im": [
+        "141.94.89.163"
+    ],
+    "dns.paesa.es": [
+        "104.21.32.35",
+        "172.67.182.154"
+    ],
+    "a.passcloud.xyz": [
+        "104.247.81.50"
+    ],
+    "i.passcloud.xyz": [
+        "104.247.81.50"
+    ],
+    "doh.gcp.pathofgrace.com": [
+        "34.151.118.101"
+    ],
+    "rpz-public-resolver1.rrdns.pch.net": [
+        "149.112.112.112"
+    ],
+    "darya.persiannit.net": [
+        "138.201.145.190"
+    ],
+    "doh.centraleu.pi-dns.com": [
+        "88.198.91.187"
+    ],
+    "doh.eastas.pi-dns.com": [
+        "66.42.33.135"
+    ],
+    "doh.eastau.pi-dns.com": [
+        "45.63.30.163"
+    ],
+    "doh.eastus.pi-dns.com": [
+        "185.213.26.187"
+    ],
+    "doh.northeu.pi-dns.com": [
+        "95.216.181.228"
+    ],
+    "doh.westus.pi-dns.com": [
+        "45.67.219.208"
+    ],
+    "doh.powerdns.org": [
+        "136.144.215.158"
+    ],
+    "lindung.pp.ua": [
+        "104.21.16.31",
+        "172.67.166.14"
+    ],
+    "virga.pp.ua": [
+        "140.238.40.138"
+    ],
+    "dns.pumplex.com": [],
+    "doh.qis.io": [
+        "12.159.2.159"
+    ],
+    "ns1.qquack.org": [
+        "193.122.96.153"
+    ],
+    "dns.quad9.net": [
+        "149.112.112.112",
+        "9.9.9.9"
+    ],
+    "dns-nosec.quad9.net": [
+        "9.9.9.10"
+    ],
+    "dns10.quad9.net": [
+        "9.9.9.10",
+        "149.112.112.10"
+    ],
+    "dns11.quad9.net": [
+        "149.112.112.11",
+        "9.9.9.11"
+    ],
+    "dns12.quad9.net": [
+        "149.112.112.12",
+        "9.9.9.12"
+    ],
+    "dns13.quad9.net": [
+        "149.112.112.13",
+        "9.9.9.13"
+    ],
+    "dns9.quad9.net": [
+        "9.9.9.9",
+        "149.112.112.9"
+    ],
+    "doh.quickline.ch": [
+        "212.60.63.246",
+        "212.60.61.246"
+    ],
+    "ant.dns.qwer.pw": [
+        "146.56.160.153"
+    ],
+    "dog.dns.qwer.pw": [
+        "146.56.176.39"
+    ],
+    "frog.dns.qwer.pw": [
+        "140.238.10.79"
+    ],
+    "lion.dns.qwer.pw": [
+        "146.56.137.68"
     ],
     "tiger.dns.qwer.pw": [
         "132.145.83.120"
     ],
-    "timmes.nl": [
-        "95.211.44.91"
+    "resolver.r0cket.net": [
+        "185.243.23.151"
     ],
-    "tls-dns-u.odvr.dns-oarc.net": [
-        "184.105.193.78"
+    "rayneau.fr": [
+        "82.64.190.27"
     ],
-    "uk01.dns4me.net": [
-        "3.10.65.124"
+    "dns.reckoningslug.name": [
+        "192.119.93.224"
     ],
-    "uncensored.any.dns.nixnet.xyz": [
-        "198.251.90.91"
+    "kaitain.restena.lu": [
+        "158.64.1.29"
     ],
-    "uncensored.freedns.controld.com": [
-        "76.76.2.11"
+    "basic.rethinkdns.com": [
+        "104.21.10.13",
+        "172.67.162.27"
     ],
-    "uncensored.lux1.dns.nixnet.xyz": [
-        "104.244.78.231"
+    "max.rethinkdns.com": [
+        "137.66.7.89"
     ],
-    "uncensored.lv1.dns.nixnet.xyz": [
-        "209.141.34.95"
+    "sky.rethinkdns.com": [
+        "104.21.10.13",
+        "172.67.162.27"
     ],
-    "uncensored.ny1.dns.nixnet.xyz": [
-        "199.195.251.84"
+    "doh.rezhajul.io": [
+        "103.175.220.71"
     ],
-    "unfiltered.adguard-dns.com": [
-        "94.140.14.141",
-        "94.140.14.140"
+    "resolver.rferee.dev": [
+        "94.130.9.165"
     ],
-    "unicast.censurfridns.dk": [
-        "89.233.43.71"
+    "dns.rin.sh": [
+        "116.203.72.235"
     ],
-    "unicast.uncensoreddns.org": [
-        "89.233.43.71"
+    "dns.rotunneling.net": [
+        "172.66.41.34",
+        "172.66.42.222"
     ],
-    "us1.dns.lavate.ch": [
-        "79.110.170.43"
+    "o.rsaikat.com": [
+        "150.136.138.221"
+    ],
+    "dns.rubyfish.cn": [
+        "175.24.154.66"
+    ],
+    "ea-dns.rubyfish.cn": [
+        "175.24.154.66"
     ],
     "uw-dns.rubyfish.cn": [
         "175.24.154.66"
     ],
     "v6.rubyfish.cn": [],
-    "virga.pp.ua": [
-        "140.238.40.138"
+    "rumpelsepp.org": [
+        "116.202.233.144"
     ],
-    "wdns.233py.com": [
-        "107.172.216.248",
-        "101.35.161.25",
-        "43.154.198.199"
+    "dns1.ryan-palmer.com": [
+        "68.183.253.200"
+    ],
+    "safeservedns.com": [
+        "198.54.117.11",
+        "198.54.117.10"
+    ],
+    "doh.safesurfer.io": [
+        "35.227.226.142"
+    ],
+    "dns.sarak.as": [
+        "70.253.80.158",
+        "70.253.80.157"
+    ],
+    "doh.seby.io": [
+        "45.76.113.31"
+    ],
+    "doh-2.seby.io": [
+        "45.76.113.31"
+    ],
+    "dns.sev.monster": [
+        "168.235.111.72"
+    ],
+    "dns.shecan.ir": [
+        "178.22.122.100",
+        "185.51.200.2"
+    ],
+    "free.shecan.ir": [
+        "185.51.200.2",
+        "178.22.122.100"
+    ],
+    "pro.shecan.ir": [
+        "178.22.122.101",
+        "185.51.200.1"
+    ],
+    "dns.silen.org": [
+        "172.67.137.18",
+        "104.21.62.158"
+    ],
+    "dns.silentlybren.com": [
+        "104.21.53.69",
+        "172.67.209.173"
+    ],
+    "dns.sitdns.com": [
+        "119.237.175.2"
+    ],
+    "dns.skrep.eu": [
+        "5.2.72.7"
+    ],
+    "dns.slinkyman.net": [
+        "203.29.240.52"
+    ],
+    "clientdns3.softcom.net": [
+        "173.243.64.102"
+    ],
+    "spacedns.org": [
+        "54.37.137.4"
+    ],
+    "doh-01.spectrum.com": [
+        "24.240.146.7"
+    ],
+    "doh-02.spectrum.com": [
+        "24.240.146.8"
+    ],
+    "dns.startupstack.tech": [
+        "45.79.102.67"
+    ],
+    "dns.switch.ch": [
+        "130.59.31.248",
+        "130.59.31.251"
+    ],
+    "dns.syaifullah.com": [
+        "103.166.228.19"
+    ],
+    "ibksturm.synology.me": [
+        "213.196.191.96"
+    ],
+    "ihctw.synology.me": [
+        "220.134.236.85"
+    ],
+    "doh.syshero.org": [
+        "167.71.190.157"
+    ],
+    "dns.t53.de": [
+        "80.156.145.201"
+    ],
+    "dns.telekom.de": [
+        "217.0.43.114",
+        "217.0.43.50"
+    ],
+    "dns.therifleman.name": [
+        "172.104.206.174"
+    ],
+    "doh.tiar.app": [
+        "174.138.29.175"
+    ],
+    "jp.tiar.app": [
+        "172.104.93.80"
+    ],
+    "doh.tiarap.org": [
+        "172.67.173.59",
+        "104.21.30.162"
+    ],
+    "jp.tiarap.org": [
+        "172.67.173.59",
+        "104.21.30.162"
+    ],
+    "timmes.nl": [
+        "95.211.44.91"
+    ],
+    "dns.tls-data.de": [
+        "91.217.86.4"
+    ],
+    "adg.tshost.no": [
+        "130.61.149.26",
+        "144.24.182.35"
+    ],
+    "doh.ibr.cs.tu-bs.de": [
+        "134.169.34.57"
+    ],
+    "dns.twnic.tw": [
+        "101.101.101.101"
+    ],
+    "anycast.uncensoreddns.org": [
+        "91.239.100.100"
+    ],
+    "deic-lgb.anycast.uncensoreddns.org": [
+        "130.225.244.166"
+    ],
+    "deic-ore.anycast.uncensoreddns.org": [
+        "130.226.161.34"
+    ],
+    "kracon.anycast.uncensoreddns.org": [
+        "185.38.27.139"
+    ],
+    "rgnet-iad.anycast.uncensoreddns.org": [
+        "198.180.150.12"
+    ],
+    "unicast.uncensoreddns.org": [
+        "89.233.43.71"
+    ],
+    "resolver.unstoppable.io": [
+        "104.18.165.219",
+        "104.18.166.219"
+    ],
+    "dns.uplenk.com": [
+        "104.21.47.207",
+        "172.67.172.168"
+    ],
+    "adfree.usableprivacy.net": [
+        "78.47.163.141"
+    ],
+    "darkness.is.my.waifu.cz": [
+        "116.251.216.207"
+    ],
+    "dns.wang.art": [
+        "139.162.109.244"
+    ],
+    "abel.waringer-atg.de": [
+        "185.183.159.34"
     ],
     "wikimedia-dns.org": [
         "185.71.138.138"
     ],
-    "www.c-dns.com": [
-        "211.95.16.131"
+    "adb-home.xaoimoon.fr": [
+        "82.65.209.69"
     ],
-    "xray.krnl.eu": [
-        "89.58.41.122"
+    "doh.xcom.pro": [
+        "188.165.20.42"
     ],
-    "yarp.lefolgoc.net": [
-        "5.39.88.20"
+    "doh.xfinity.com": [
+        "75.75.77.99"
     ],
     "yovbak.com": [
         "3.75.122.89"
     ],
-    "zero.dns0.eu": [
-        "212.126.59.63",
-        "37.252.231.163"
+    "doh.zln.wtf": [
+        "176.124.199.239"
     ]
 }
