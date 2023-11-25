@@ -333,6 +333,8 @@ extended.dns.mullvad.net
 doh.mullvad.net
 adblock.doh.mullvad.net
 dns.feldy.my.id
+freedom.mydns.network
+paranoia.mydns.network
 blackhole.myon.lu
 n0.eu
 dns.nas-server.ru
