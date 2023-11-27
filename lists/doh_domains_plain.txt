@@ -333,6 +333,8 @@ extended.dns.mullvad.net
 doh.mullvad.net
 adblock.doh.mullvad.net
 dns.feldy.my.id
+adblock.mydns.network
+family.mydns.network
 freedom.mydns.network
 paranoia.mydns.network
 blackhole.myon.lu
