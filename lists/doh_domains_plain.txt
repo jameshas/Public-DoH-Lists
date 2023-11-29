@@ -407,6 +407,7 @@ doh.northeu.pi-dns.com
 doh.westus.pi-dns.com
 doh.powerdns.org
 lindung.pp.ua
+sundalandia.pp.ua
 virga.pp.ua
 dns.pumplex.com
 doh.qis.io
