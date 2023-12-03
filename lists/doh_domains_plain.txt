@@ -20,6 +20,7 @@ doh.aaaab3n.moe
 doh.dns.apple.com.v.aaplimg.com
 doh.abmb.win
 doh2.abmb.win
+vn.dns.abpvn.com
 res-acst3.absolight.net
 resolver3.absolight.net
 adl.adfilter.net
@@ -122,6 +123,7 @@ family.cloudflare-dns.com
 mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 dns.cmrg.net
+agh.workfordemo.co.in
 commons.host
 dns.comss.one
 dns.east.comss.one
@@ -303,6 +305,7 @@ adguard.konikoni428.com
 korzhov.dev
 dart.kpsn.org
 xray.krnl.eu
+agh.kul-lippek.de
 doh.lacontrevoie.fr
 lastentarvike.fi
 eu1.dns.lavate.ch
@@ -342,6 +345,7 @@ n0.eu
 dns.nas-server.ru
 dns.ndo.dev
 dns.aa.net.uk
+doh.max.net.id
 dns.neutopia.org
 doh.luigi.nexific.it
 dns.nextdns.io
@@ -495,5 +499,8 @@ wikimedia-dns.org
 adb-home.xaoimoon.fr
 doh.xcom.pro
 doh.xfinity.com
+common.dot.dns.yandex.net
+family.dot.dns.yandex.net
+safe.dot.dns.yandex.net
 yovbak.com
 doh.zln.wtf
