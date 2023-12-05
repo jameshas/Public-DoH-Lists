@@ -226,6 +226,7 @@ trf01.dnscry.pt
 tyo01.dnscry.pt
 vie01.dnscry.pt
 waw01.dnscry.pt
+waw02.dnscry.pt
 ycg01.dnscry.pt
 yul01.dnscry.pt
 zal01.dnscry.pt
