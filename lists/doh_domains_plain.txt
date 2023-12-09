@@ -306,7 +306,6 @@ adguard.konikoni428.com
 korzhov.dev
 dart.kpsn.org
 xray.krnl.eu
-agh.kul-lippek.de
 doh.lacontrevoie.fr
 lastentarvike.fi
 eu1.dns.lavate.ch
