@@ -56,6 +56,7 @@ doh.dns.apple.com
 applied-privacy.net
 doh.applied-privacy.net
 doh.appliedprivacy.net
+dns.aquilenet.fr
 dns.arapurayil.com
 dns.artikel10.org
 dandelionsprout.asuscomm.com
