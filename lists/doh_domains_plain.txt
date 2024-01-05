@@ -124,7 +124,6 @@ family.cloudflare-dns.com
 mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 dns.cmrg.net
-agh.workfordemo.co.in
 commons.host
 dns.comss.one
 dns.east.comss.one
