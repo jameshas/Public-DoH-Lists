@@ -74,7 +74,6 @@ dns.atsilva.link
 dohtrial.att.net
 secure.avastdns.com
 adguard.avdkishore.dev
-ayasesayuki.shop
 doh.azoris.ovh
 doh1.b-cdn.net
 doh2.b-cdn.net
@@ -313,7 +312,6 @@ eliatofani.ovh
 dns.emiliyan.com
 dns01.enginyring.com
 home.enjoymylife.net
-adguard.eoghan-net.com
 shield1.eranext.net
 dns.fullaccesstointernet.jp.eu.org
 www.memorialus.eu.org
@@ -324,13 +322,11 @@ dns.f97.xyz
 pdns.faelix.net
 rdns.faelix.net
 dns.fancyorg.at
-faradns.net
 ns0.fdn.fr
 ns1.fdn.fr
 fezgate.ovh
 ag.ff0x.ca
 doh.ffmuc.net
-adguard.fija-web.net
 dns01.flm9.net
 agh.fltn.us
 dash.flylcc.cc
@@ -353,9 +349,6 @@ privacydns.go6lab.si
 dns.google.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
-doh.fatucloud.gosprout.org
-blitzd.gotdns.ch
-raffoz-pve.gotdns.ch
 jp.gridns.xyz
 dns.haboy.top
 dns.hahnjo.de
@@ -364,7 +357,6 @@ query.hdns.io
 ordns.he.net
 adguard.helpdesk38.ru
 dns.henek.ovh
-socolov.home.ro
 admin.homedns.uk
 dns.internal.hosmatic.com
 dns.hostux.net
@@ -376,7 +368,6 @@ doth.huque.com
 dns.huseynov.work
 ad.huyct.net
 dns.huyhoangit.net
-dns.hva.li
 opennic.i2pd.xyz
 vd.i81.ru
 mask.icloud.com
@@ -396,14 +387,12 @@ www.inpssh.online
 qlf-doh.inria.fr
 dns.interhub.cc
 dns.cloud.ionutl.ro
-dns.ithg.ru
 pdns.itxe.net
 ivnkn.xyz
 jackyes.ovh
 dns.jcdn.site
 jcdns.fun
 adguard.jfchenier.ca
-dns.jhangy.us
 adguardo.jimtay.uk
 opencdn.jomodns.com
 dns.jstockley.com
@@ -482,9 +471,7 @@ base.dns.mullvad.net
 extended.dns.mullvad.net
 doh.mullvad.net
 adblock.doh.mullvad.net
-be2aja.my.id
 dns.feldy.my.id
-dns.freddys.my.id
 adguard.lista.my.id
 dns.lista.my.id
 onic-doh.lista.my.id
@@ -516,9 +503,7 @@ dns2.nhgnet.de
 dns.nhtsky.com
 doh.nic.lv
 odvr.nic.cz
-nickcan.xyz
 dns1.nielsdb.be
-nilanjan.me
 adblock.any.dns.nixnet.xyz
 uncensored.any.dns.nixnet.xyz
 adblock.lux1.dns.nixnet.xyz
@@ -638,9 +623,7 @@ dns1.ryan-palmer.com
 dns2.saferbfc.org
 safeservedns.com
 doh.safesurfer.io
-dns.sainternet.xyz
 dns.sarak.as
-dns.sbstructure.ir
 dns.scarx.net
 filter.das.sch.id
 dns.schlagheck.berlin
@@ -669,7 +652,6 @@ dns.skrzypiec.pl
 dns.slinkyman.net
 clientdns3.softcom.net
 dns.solonodes.net
-free.sootoon.xyz
 spacedns.org
 adguard.sparshbajaj.me
 doh-01.spectrum.com
@@ -689,7 +671,6 @@ ihctw.synology.me
 doh.syshero.org
 vanced.sytes.net
 dns.t53.de
-dns.tb4.me
 dns.telekom.de
 dns.thebuckners.org
 dns.therifleman.name
@@ -698,15 +679,12 @@ doh.tiar.app
 jp.tiar.app
 doh.tiarap.org
 jp.tiarap.org
-dns.timboeh.me
 timedns.org
 timmes.nl
 dns.timvo.net
 dns.tls-data.de
 dot.tooli.ca
 dns.trifanov-online.ru
-dns-1.trust2it.ch
-dns-2.trust2it.ch
 dns.trust404.win
 dns.tryk.app
 adg.tshost.no
@@ -728,7 +706,6 @@ dns.uplenk.com
 uradoori.org
 urology.wiki
 adfree.usableprivacy.net
-id.local.v.ua
 dns.vlo.cc
 dns.wahr.top
 aqua.is.my.waifu.cz
@@ -738,13 +715,11 @@ yunyun.is.my.waifu.cz
 dns.wang.art
 dns.wargan.io
 abel.waringer-atg.de
-web-rated.ie
 zuhause.webteufel.net
 resov.wehao.net
 wikimedia-dns.org
 clearweb.woodbridge.club
 home.wriedts.de
-dns.wryhf.net
 adb-home.xaoimoon.fr
 doh.xcom.pro
 doh.xfinity.com
