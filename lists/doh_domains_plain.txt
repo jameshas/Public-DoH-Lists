@@ -142,7 +142,6 @@ adult-filter-dns.cleanbrowsing.org
 doh.cleanbrowsing.org
 family-filter-dns.cleanbrowsing.org
 security-filter-dns.cleanbrowsing.org
-ys.cloud-sekeng.com
 dns.cloudflare.com
 cloudflare-dns.com
 1dot1dot1dot1.cloudflare-dns.com
@@ -151,7 +150,6 @@ dns64.cloudflare-dns.com
 family.cloudflare-dns.com
 mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
-dns.adguard0808.cloudns.ph
 dns.cloudseriousshit.com
 dns-fr-psv1.cloudsides.com
 dns.cmrg.net
@@ -167,8 +165,6 @@ doh.viatech.com.tw
 commons.host
 dns.comss.one
 dns.east.comss.one
-jp.conana.info
-los.conana.info
 freedns.controld.com
 family.freedns.controld.com
 p0.freedns.controld.com
@@ -194,7 +190,6 @@ dns.decloudus.com
 doh.defaultroutes.de
 de.deghy.ir
 adguard.lege.despagne.net
-adguard.rennes.despagne.net
 doh-primary-pool.detoxifypornblocker.com
 digitale-gesellschaft.ch
 dns.digitale-gesellschaft.ch
@@ -310,7 +305,6 @@ dukun.de
 edgy-dns.com
 eliatofani.ovh
 dns.emiliyan.com
-dns01.enginyring.com
 home.enjoymylife.net
 shield1.eranext.net
 dns.fullaccesstointernet.jp.eu.org
@@ -380,7 +374,6 @@ ikarosalpha.xyz
 dns4.imkvq.com
 dns1.in-berlin.de
 dns.indybanipal.com
-dns.influa-dev.fr
 doh.infracell.net
 inpssh.online
 www.inpssh.online
@@ -410,7 +403,6 @@ doh.killtw.im
 blog.kimiblock.top
 dns1.klcd.eu
 dns2.klcd.eu
-dns.knightlsy.asia
 adguard.konikoni428.com
 korzhov.dev
 dart.kpsn.org
@@ -515,7 +507,6 @@ uncensored.ny1.dns.nixnet.xyz
 lux1.nixnet.xyz
 lv1.nixnet.xyz
 ny1.nixnet.xyz
-doh.niyaru.online
 doh.niyawe.de
 dns.njal.la
 resolver.noaddns.com
@@ -526,7 +517,6 @@ dns.novali.date
 ns3.com
 ns3.cx
 ns3.link
-irgrdns.nullapp.xyz
 5g.o0o.re
 dot.occ.top
 agh.odvpn.ru
@@ -651,7 +641,6 @@ dns.skrep.in
 dns.skrzypiec.pl
 dns.slinkyman.net
 clientdns3.softcom.net
-dns.solonodes.net
 spacedns.org
 adguard.sparshbajaj.me
 doh-01.spectrum.com
