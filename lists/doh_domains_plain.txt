@@ -26,7 +26,6 @@ adguard.abd.ong
 dns.abdullahabas.de
 doh.abmb.win
 doh2.abmb.win
-vn.dns.abpvn.com
 res-acst3.absolight.net
 resolver3.absolight.net
 adl.adfilter.net
@@ -80,12 +79,10 @@ doh2.b-cdn.net
 dns.b612.me
 fr-dns1.bancuh.com
 sg-dns1.bancuh.com
-dns2.bartoszturek.online
 antivirus.bebasid.com
 dns.bebasid.com
 internetsehat.bebasid.com
 dns.belnet.be
-dns.bir.ru
 ns3.bit-trail.nl
 dns.bitdefender.net
 doh-ch.blahdns.com
@@ -156,7 +153,6 @@ dns.cmrg.net
 ag.hostme.co.il
 ns.sblnetwork.co.id
 block.coconut.id
-dns.codarbyte.de
 pwjbrhie.chicagocomputers.com.ar
 dns.cloud88.com.au
 dns1.lothuscorp.com.br
@@ -188,7 +184,6 @@ doh.datahata.by
 dns.daw.dev
 dns.decloudus.com
 doh.defaultroutes.de
-de.deghy.ir
 adguard.lege.despagne.net
 doh-primary-pool.detoxifypornblocker.com
 digitale-gesellschaft.ch
@@ -396,7 +391,6 @@ dns.kamilszczepanski.com
 dns.karl.one
 dns.kernel-error.de
 dns.kescher.at
-dns.keskonet.com
 pihole.aws.ketan.dev
 adguard.kiboko.it
 doh.killtw.im
@@ -668,7 +662,6 @@ doh.tiar.app
 jp.tiar.app
 doh.tiarap.org
 jp.tiarap.org
-timedns.org
 timmes.nl
 dns.timvo.net
 dns.tls-data.de
@@ -704,7 +697,6 @@ yunyun.is.my.waifu.cz
 dns.wang.art
 dns.wargan.io
 abel.waringer-atg.de
-zuhause.webteufel.net
 resov.wehao.net
 wikimedia-dns.org
 clearweb.woodbridge.club
