@@ -66,7 +66,6 @@ doh.appliedprivacy.net
 dns.aquilenet.fr
 dns.arapurayil.com
 dns.ares-taiwan.com
-www.aridia.ru
 dns.artikel10.org
 dandelionsprout.asuscomm.com
 dns.atsilva.link
@@ -156,7 +155,6 @@ block.coconut.id
 pwjbrhie.chicagocomputers.com.ar
 dns.cloud88.com.au
 dns1.lothuscorp.com.br
-dns.netraptor.com.au
 doh.viatech.com.tw
 commons.host
 dns.comss.one
@@ -321,7 +319,6 @@ agh.fltn.us
 dash.flylcc.cc
 hkname.freecdn.one
 dns.freyja.pw
-dns.frguthrie.app
 dns.froth.zone
 awan.ftp.sh
 dns.furrydns.de
@@ -346,7 +343,6 @@ query.hdns.io
 ordns.he.net
 adguard.helpdesk38.ru
 dns.henek.ovh
-admin.homedns.uk
 dns.internal.hosmatic.com
 dns.hostux.net
 dns.hugo0.moe
@@ -378,14 +374,12 @@ dns.cloud.ionutl.ro
 pdns.itxe.net
 ivnkn.xyz
 jackyes.ovh
-dns.jcdn.site
 jcdns.fun
 adguard.jfchenier.ca
 adguardo.jimtay.uk
 opencdn.jomodns.com
 dns.jstockley.com
 dns.jundev.org
-dns.just-hosting.net
 ad.justincounts.com
 dns.kamilszczepanski.com
 dns.karl.one
@@ -615,7 +609,6 @@ dns.scuola.org
 doh.seby.io
 doh-2.seby.io
 privatnas.servebeer.com
-adguard-home.server-on.net
 dns.sev.monster
 d2.shabi.icu
 dns.shecan.ir
