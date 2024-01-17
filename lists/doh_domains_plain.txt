@@ -107,7 +107,6 @@ blast.broadband.ink
 doh.bt.com
 stratus.bugz.fr
 www.c-dns.com
-dns.c0ntroller.de
 callies-online.site
 captnemo.in
 doh.captnemo.in
@@ -150,7 +149,6 @@ dns.cloudseriousshit.com
 dns-fr-psv1.cloudsides.com
 dns.cmrg.net
 ag.hostme.co.il
-ns.sblnetwork.co.id
 block.coconut.id
 pwjbrhie.chicagocomputers.com.ar
 dns.cloud88.com.au
@@ -175,7 +173,6 @@ qual.cuprum.ru
 nanopi.cybergroove.net
 cynntex.fun
 dns.cynthialabs.net
-adguard.darrenhizon.com
 mail.data.haus
 doh.datacore.ch
 doh.datahata.by
@@ -282,7 +279,6 @@ a.safe.ns.dnslify.com
 b.safe.ns.dnslify.com
 dnslow.me
 dns.dnssilo.top
-dnsvs.ovh
 dns.dnswarden.com
 doh.dnswarden.com
 doh.li
@@ -291,8 +287,6 @@ doh.pub
 doh.sb
 dns.doh.best
 takhtakh.domyah.net
-server01.dr-adguard.de
-server03.dr-adguard.de
 doh.dscloud.me
 dukun.de
 edgy-dns.com
@@ -327,7 +321,6 @@ cluster-0.gac.edu
 cluster-1.gac.edu
 geshido.vpn.geshido.ru
 getdnsapi.net
-adguard.gewete.cloud
 h.gjrick.tw
 sdns22.gkonuralp.com
 dns.gnb09.id
@@ -413,7 +406,6 @@ doh.phdns2.lonet.org
 doh.phdns3.lonet.org
 doh.phdns4.lonet.org
 doh.phdns5.lonet.org
-lv.long-nguyen.info
 ns.lov.host
 dns.lvolland.fr
 orau.lz0724.com
@@ -434,7 +426,6 @@ dns.milkpie.one
 minilla.store
 netcup.mismat.ch
 doh.mmmalia.com
-doh.mn-bonn.de
 dns.mni.li
 dns.mo0on15.com
 query.mobyds.com
@@ -479,7 +470,6 @@ chromium.dns.nextdns.io
 firefox.dns.nextdns.io
 dns1.nextdns.io
 dns2.nextdns.io
-dns2.nhgnet.de
 dns.nhtsky.com
 doh.nic.lv
 odvr.nic.cz
@@ -638,7 +628,6 @@ dns.sstomp.nl
 dns.startupstack.tech
 local.sufly.top
 dns.superstefan.win
-surt.ovh
 dns.swin.pro
 dns.switch.ch
 dns.syaifullah.com
@@ -659,7 +648,6 @@ timmes.nl
 dns.timvo.net
 dns.tls-data.de
 dot.tooli.ca
-dns.trifanov-online.ru
 dns.trust404.win
 dns.tryk.app
 adg.tshost.no
