@@ -310,7 +310,6 @@ ag.ff0x.ca
 doh.ffmuc.net
 dns01.flm9.net
 agh.fltn.us
-dash.flylcc.cc
 hkname.freecdn.one
 dns.freyja.pw
 dns.froth.zone
@@ -431,7 +430,6 @@ dns.mo0on15.com
 query.mobyds.com
 nue2.moderateinfra.net
 ps1.modr.club
-locaweb.moleniuk.com
 dns.molinero.dev
 naganohara-yoimiya.momokko.moe
 ns.mtsoln.com
@@ -497,7 +495,6 @@ ns3.cx
 ns3.link
 5g.o0o.re
 dot.occ.top
-agh.odvpn.ru
 dns.ofdoom.net
 adguard.oms-ctr.ru
 one.one.one.one
@@ -691,6 +688,5 @@ family.dot.dns.yandex.net
 safe.dot.dns.yandex.net
 ychen.gq
 yovbak.com
-dns.yyaan.com
 res.zijji.com
 doh.zln.wtf
