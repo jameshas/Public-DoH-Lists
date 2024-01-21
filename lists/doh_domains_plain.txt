@@ -333,7 +333,6 @@ dns.hahnjo.de
 resolver-eu.haringstad.com
 query.hdns.io
 ordns.he.net
-adguard.helpdesk38.ru
 dns.henek.ovh
 dns.internal.hosmatic.com
 dns.hostux.net
@@ -601,7 +600,6 @@ d2.shabi.icu
 dns.shecan.ir
 free.shecan.ir
 pro.shecan.ir
-shijiu.asia
 ymjx.shimmerl.top
 adguard.shoupperuser.com
 adguard.shutgaming.net
