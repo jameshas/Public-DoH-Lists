@@ -9,13 +9,11 @@ ndns.233py.com
 sdns.233py.com
 wdns.233py.com
 dns.240527.xyz
-ad.257053.xyz
 dns.354688.xyz
 doh.360.cn
 dns.4-the.win
 doh.42l.fr
 dns.52306.org
-dns.58jdl.com
 family.5ososea.com
 kids.5ososea.com
 dns.888654.xyz
@@ -328,7 +326,6 @@ dns.google.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 jp.gridns.xyz
-dns.haboy.top
 dns.hahnjo.de
 resolver-eu.haringstad.com
 query.hdns.io
@@ -367,7 +364,6 @@ ivnkn.xyz
 jackyes.ovh
 jcdns.fun
 adguard.jfchenier.ca
-adguardo.jimtay.uk
 opencdn.jomodns.com
 dns.jstockley.com
 dns.jundev.org
@@ -430,7 +426,6 @@ query.mobyds.com
 nue2.moderateinfra.net
 ps1.modr.club
 dns.molinero.dev
-naganohara-yoimiya.momokko.moe
 ns.mtsoln.com
 dns.mullvad.net
 adblock.dns.mullvad.net
@@ -440,9 +435,10 @@ extended.dns.mullvad.net
 doh.mullvad.net
 adblock.doh.mullvad.net
 dns.feldy.my.id
-adguard.lista.my.id
 dns.lista.my.id
-onic-doh.lista.my.id
+hk-dns.lista.my.id
+id-dns.lista.my.id
+sg-dns.lista.my.id
 dns.mikrotikrumahan.my.id
 adblock.mydns.network
 family.mydns.network
@@ -573,7 +569,6 @@ max.rethinkdns.com
 sky.rethinkdns.com
 doh.rezhajul.io
 resolver.rferee.dev
-dns.rhscz.eu
 dns.rin.sh
 dns.rotunneling.net
 o.rsaikat.com
@@ -640,7 +635,6 @@ jp.tiar.app
 doh.tiarap.org
 jp.tiarap.org
 timmes.nl
-dns.timvo.net
 dns.tls-data.de
 dot.tooli.ca
 dns.trust404.win
