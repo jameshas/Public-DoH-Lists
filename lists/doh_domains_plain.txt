@@ -358,7 +358,6 @@ inpssh.online
 www.inpssh.online
 qlf-doh.inria.fr
 dns.interhub.cc
-dns.cloud.ionutl.ro
 pdns.itxe.net
 ivnkn.xyz
 jackyes.ovh
@@ -404,7 +403,6 @@ ns.lov.host
 dns.lvolland.fr
 orau.lz0724.com
 addns1.m-it.ro
-adhome.maige.fun
 mailkyb.co
 adguard.marto.si
 masters-of-cloud.de
@@ -415,7 +413,6 @@ adguard.meddy94.de
 dns.meeo.win
 snoke.meganerd.nl
 dns.mestdag.fr
-dns.milangeorge.com
 dns.milkpie.one
 minilla.store
 netcup.mismat.ch
@@ -436,7 +433,6 @@ doh.mullvad.net
 adblock.doh.mullvad.net
 dns.feldy.my.id
 dns.lista.my.id
-hk-dns.lista.my.id
 id-dns.lista.my.id
 sg-dns.lista.my.id
 dns.mikrotikrumahan.my.id
@@ -537,7 +533,6 @@ orpi.privado.ovh
 www.pukanuragan.ru
 dns.pumplex.com
 dns-privacy.puregeni.us
-ad.pyio.top
 doh.qis.io
 ns1.qquack.org
 dns.quad9.net
@@ -667,7 +662,6 @@ yunyun.is.my.waifu.cz
 dns.wang.art
 dns.wargan.io
 abel.waringer-atg.de
-resov.wehao.net
 wikimedia-dns.org
 clearweb.woodbridge.club
 home.wriedts.de
