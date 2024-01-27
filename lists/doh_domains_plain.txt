@@ -288,7 +288,6 @@ takhtakh.domyah.net
 doh.dscloud.me
 dukun.de
 edgy-dns.com
-eliatofani.ovh
 dns.emiliyan.com
 home.enjoymylife.net
 shield1.eranext.net
@@ -432,9 +431,8 @@ extended.dns.mullvad.net
 doh.mullvad.net
 adblock.doh.mullvad.net
 dns.feldy.my.id
+adguard.lista.my.id
 dns.lista.my.id
-id-dns.lista.my.id
-sg-dns.lista.my.id
 dns.mikrotikrumahan.my.id
 adblock.mydns.network
 family.mydns.network
@@ -502,7 +500,6 @@ resolver1-fs.opendns.com
 resolver2.opendns.com
 resolver2-fs.opendns.com
 doh.sandbox.opendns.com
-noads.api.org.pl
 dns.oszx.co
 dns.ours.luxe
 outdoorchair.us
@@ -597,7 +594,6 @@ dns.silen.org
 dns.silentlybren.com
 dns.simplylinux.ch
 dns.sitdns.com
-adg.siudzinski.net
 dns.skrep.eu
 dns.skrep.in
 dns.skrzypiec.pl
