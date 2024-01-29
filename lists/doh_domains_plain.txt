@@ -66,7 +66,6 @@ dns.arapurayil.com
 dns.ares-taiwan.com
 dns.artikel10.org
 dandelionsprout.asuscomm.com
-dns.atsilva.link
 dohtrial.att.net
 secure.avastdns.com
 adguard.avdkishore.dev
@@ -147,8 +146,6 @@ dns.cloudseriousshit.com
 dns-fr-psv1.cloudsides.com
 dns.cmrg.net
 ag.hostme.co.il
-block.coconut.id
-pwjbrhie.chicagocomputers.com.ar
 dns.cloud88.com.au
 dns1.lothuscorp.com.br
 doh.viatech.com.tw
@@ -293,7 +290,6 @@ home.enjoymylife.net
 shield1.eranext.net
 dns.fullaccesstointernet.jp.eu.org
 www.memorialus.eu.org
-dns.sac.rebl.eu.org
 dns.extrawdw.net
 jp1.f7b6h9.tk
 dns.f97.xyz
@@ -448,7 +444,6 @@ dns.nas-server.ru
 dns.ndo.dev
 dns.aa.net.uk
 doh.max.net.id
-netcat.one
 dns.neutopia.org
 doh.luigi.nexific.it
 dns.nextdns.io
@@ -649,7 +644,6 @@ dns.uplenk.com
 uradoori.org
 urology.wiki
 adfree.usableprivacy.net
-dns.vlo.cc
 dns.wahr.top
 aqua.is.my.waifu.cz
 darkness.is.my.waifu.cz
