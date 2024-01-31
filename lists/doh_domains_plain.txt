@@ -100,7 +100,6 @@ dns.brahma.world
 bravedns.com
 basic.bravedns.com
 free.bravedns.com
-blast.broadband.ink
 doh.bt.com
 stratus.bugz.fr
 www.c-dns.com
@@ -152,6 +151,7 @@ doh.viatech.com.tw
 commons.host
 dns.comss.one
 dns.east.comss.one
+dns.controld.com
 freedns.controld.com
 family.freedns.controld.com
 p0.freedns.controld.com
@@ -169,6 +169,7 @@ nanopi.cybergroove.net
 cynntex.fun
 dns.cynthialabs.net
 mail.data.haus
+ns.data.haus
 doh.datacore.ch
 doh.datahata.by
 dns.daw.dev
@@ -193,7 +194,7 @@ doh.dns.sb
 public-dns-a.dns.sb
 public-dns-b.dns.sb
 dns-free.link
-dot.dns-ga.de
+doh.dns-ga.de
 tls-dns-u.odvr.dns-oarc.net
 dns0.eu
 kids.dns0.eu
@@ -264,6 +265,7 @@ dns1.dnscrypt.ca
 dns2.dnscrypt.ca
 dns-doh.dnsforfamily.com
 dnsforge.de
+clean.dnsforge.de
 dns.dnshome.de
 doh.dnslify.com
 a.ns.dnslify.com
@@ -410,11 +412,9 @@ snoke.meganerd.nl
 dns.mestdag.fr
 dns.milkpie.one
 minilla.store
-netcup.mismat.ch
 doh.mmmalia.com
 dns.mni.li
 dns.mo0on15.com
-query.mobyds.com
 nue2.moderateinfra.net
 ps1.modr.club
 dns.molinero.dev
@@ -438,7 +438,6 @@ blackhole.myon.lu
 fwgw.orangepipc.mywire.org
 n0.eu
 www.chungocoai.name.vn
-tokyodns.songnguyen.name.vn
 dns.narl.app
 dns.nas-server.ru
 dns.ndo.dev
@@ -571,7 +570,6 @@ safeservedns.com
 doh.safesurfer.io
 dns.sarak.as
 dns.scarx.net
-filter.das.sch.id
 dns.schlagheck.berlin
 dns.scuola.org
 doh.seby.io
@@ -591,7 +589,6 @@ dns.simplylinux.ch
 dns.sitdns.com
 dns.skrep.eu
 dns.skrep.in
-dns.skrzypiec.pl
 dns.slinkyman.net
 clientdns3.softcom.net
 spacedns.org
@@ -664,5 +661,4 @@ family.dot.dns.yandex.net
 safe.dot.dns.yandex.net
 ychen.gq
 yovbak.com
-res.zijji.com
 doh.zln.wtf
