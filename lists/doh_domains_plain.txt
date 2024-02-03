@@ -166,7 +166,6 @@ doh-ipv6.crypto.sx
 cubedns.com
 qual.cuprum.ru
 nanopi.cybergroove.net
-cynntex.fun
 dns.cynthialabs.net
 mail.data.haus
 ns.data.haus
@@ -331,7 +330,6 @@ dns.henek.ovh
 dns.internal.hosmatic.com
 dns.hostux.net
 dns.hugo0.moe
-dns.huizegunsing.nl
 dns.hujiayucc.cn
 ads.hunga1k47.com
 doth.huque.com
@@ -343,7 +341,6 @@ vd.i81.ru
 mask.icloud.com
 mask-h2.icloud.com
 tienpham.id.vn
-portal.iddqd.uk
 adguard.shuting.idv.tw
 public.dns.iij.jp
 ikarosalpha.xyz
@@ -427,8 +424,10 @@ extended.dns.mullvad.net
 doh.mullvad.net
 adblock.doh.mullvad.net
 dns.feldy.my.id
+ad-dns.lista.my.id
 adguard.lista.my.id
 dns.lista.my.id
+uf-dns.lista.my.id
 dns.mikrotikrumahan.my.id
 adblock.mydns.network
 family.mydns.network
@@ -580,7 +579,6 @@ d2.shabi.icu
 dns.shecan.ir
 free.shecan.ir
 pro.shecan.ir
-ymjx.shimmerl.top
 adguard.shoupperuser.com
 adguard.shutgaming.net
 dns.silen.org
