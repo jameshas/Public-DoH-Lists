@@ -24,6 +24,7 @@ adguard.abd.ong
 dns.abdullahabas.de
 doh.abmb.win
 doh2.abmb.win
+dns.abppro.ru
 res-acst3.absolight.net
 resolver3.absolight.net
 adl.adfilter.net
@@ -36,7 +37,6 @@ dns.adguard-dns.com
 family.adguard-dns.com
 unfiltered.adguard-dns.com
 dns.adrianlam.com
-dns.aerro.in
 blitz.ahadns.com
 doh.chi.ahadns.net
 doh.es.ahadns.net
@@ -176,6 +176,7 @@ dns.decloudus.com
 doh.defaultroutes.de
 adguard.lege.despagne.net
 doh-primary-pool.detoxifypornblocker.com
+dns.digitaladapt.com
 digitale-gesellschaft.ch
 dns.digitale-gesellschaft.ch
 dns1.digitale-gesellschaft.ch
@@ -290,7 +291,6 @@ dns.emiliyan.com
 home.enjoymylife.net
 shield1.eranext.net
 dns.fullaccesstointernet.jp.eu.org
-www.memorialus.eu.org
 dns.extrawdw.net
 jp1.f7b6h9.tk
 dns.f97.xyz
@@ -347,7 +347,6 @@ ikarosalpha.xyz
 dns4.imkvq.com
 dns1.in-berlin.de
 dns.indybanipal.com
-doh.infracell.net
 inpssh.online
 www.inpssh.online
 qlf-doh.inria.fr
@@ -357,6 +356,7 @@ ivnkn.xyz
 jackyes.ovh
 jcdns.fun
 adguard.jfchenier.ca
+green2.jnraptor.net
 opencdn.jomodns.com
 dns.jstockley.com
 dns.jundev.org
@@ -424,7 +424,6 @@ extended.dns.mullvad.net
 doh.mullvad.net
 adblock.doh.mullvad.net
 dns.feldy.my.id
-ad-dns.lista.my.id
 adguard.lista.my.id
 dns.lista.my.id
 uf-dns.lista.my.id
@@ -605,6 +604,7 @@ dns.syaifullah.com
 ibksturm.synology.me
 ihctw.synology.me
 doh.syshero.org
+ad.systemfall.ru
 vanced.sytes.net
 dns.t53.de
 dns.telekom.de
@@ -647,6 +647,7 @@ yunyun.is.my.waifu.cz
 dns.wang.art
 dns.wargan.io
 abel.waringer-atg.de
+dns.wellstsai.com
 wikimedia-dns.org
 clearweb.woodbridge.club
 home.wriedts.de
