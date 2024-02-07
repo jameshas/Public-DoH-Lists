@@ -54,6 +54,7 @@ dnsse.alekberg.net
 dnsse-noads.alekberg.net
 dns.alidns.com
 mailer.amlegion.org
+dns.andersfarms.ltd
 dns.andrewnw.xyz
 secure.anudeep.me
 doh.apad.pro
@@ -122,7 +123,6 @@ dns.chadeyron.fr
 chandr1000.net
 dns.charraud.eu
 dns.chenu.ch
-dns.chocolatezz.xyz
 family.canadianshield.cira.ca
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
@@ -381,7 +381,6 @@ dns.lashes-brow.ru
 lastentarvike.fi
 eu1.dns.lavate.ch
 us1.dns.lavate.ch
-adblock.leenit.kr
 yarp.lefolgoc.net
 resolver-eu.lelux.fi
 dns.lgprk.com
@@ -424,7 +423,6 @@ extended.dns.mullvad.net
 doh.mullvad.net
 adblock.doh.mullvad.net
 dns.feldy.my.id
-adguard.lista.my.id
 dns.lista.my.id
 uf-dns.lista.my.id
 dns.mikrotikrumahan.my.id
@@ -610,7 +608,6 @@ dns.t53.de
 dns.telekom.de
 dns.thebuckners.org
 dns.therifleman.name
-blocker.thethorsens.org
 doh.tiar.app
 jp.tiar.app
 doh.tiarap.org
@@ -636,7 +633,6 @@ jambi.undo.it
 resolver.unstoppable.io
 dns.unx.io
 dns.uplenk.com
-uradoori.org
 urology.wiki
 adfree.usableprivacy.net
 dns.wahr.top
