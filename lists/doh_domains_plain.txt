@@ -146,7 +146,6 @@ dns-fr-psv1.cloudsides.com
 dns.cmrg.net
 ag.hostme.co.il
 dns.cloud88.com.au
-dns1.lothuscorp.com.br
 doh.viatech.com.tw
 commons.host
 dns.comss.one
@@ -292,7 +291,6 @@ home.enjoymylife.net
 shield1.eranext.net
 dns.fullaccesstointernet.jp.eu.org
 dns.extrawdw.net
-jp1.f7b6h9.tk
 dns.f97.xyz
 pdns.faelix.net
 rdns.faelix.net
@@ -315,7 +313,6 @@ cluster-1.gac.edu
 geshido.vpn.geshido.ru
 getdnsapi.net
 h.gjrick.tw
-sdns22.gkonuralp.com
 dns.gnb09.id
 privacydns.go6lab.si
 dns.google.com
@@ -334,7 +331,6 @@ dns.hujiayucc.cn
 ads.hunga1k47.com
 doth.huque.com
 dns.huseynov.work
-ad.huyct.net
 dns.huyhoangit.net
 opennic.i2pd.xyz
 vd.i81.ru
@@ -399,13 +395,13 @@ addns1.m-it.ro
 mailkyb.co
 adguard.marto.si
 masters-of-cloud.de
-dns.mathewakhil.online
 adguard.mattiafenzi.uk
 www.maxfong.cc
 adguard.meddy94.de
 dns.meeo.win
 snoke.meganerd.nl
 dns.mestdag.fr
+dns.midping.ir
 dns.milkpie.one
 minilla.store
 doh.mmmalia.com
@@ -540,8 +536,6 @@ resolver.r0cket.net
 inde.ragnvindr.org
 ns.ral9005.org
 emby.rasp.tv
-jp.ray0512.win
-la.ray0512.win
 rayneau.fr
 dns.reckoningslug.name
 kaitain.restena.lu
@@ -654,6 +648,5 @@ v2.xx3210766.live
 common.dot.dns.yandex.net
 family.dot.dns.yandex.net
 safe.dot.dns.yandex.net
-ychen.gq
 yovbak.com
 doh.zln.wtf
