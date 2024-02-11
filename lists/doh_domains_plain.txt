@@ -101,6 +101,7 @@ dns.brahma.world
 bravedns.com
 basic.bravedns.com
 free.bravedns.com
+dns.bravoc.one
 doh.bt.com
 stratus.bugz.fr
 www.c-dns.com
@@ -121,7 +122,6 @@ dns.cfiec.net
 ibuki.cgnat.net
 dns.chadeyron.fr
 chandr1000.net
-dns.charraud.eu
 dns.chenu.ch
 family.canadianshield.cira.ca
 private.canadianshield.cira.ca
@@ -297,7 +297,6 @@ rdns.faelix.net
 dns.fancyorg.at
 ns0.fdn.fr
 ns1.fdn.fr
-fezgate.ovh
 ag.ff0x.ca
 doh.ffmuc.net
 dns01.flm9.net
@@ -324,7 +323,6 @@ resolver-eu.haringstad.com
 query.hdns.io
 ordns.he.net
 dns.henek.ovh
-dns.internal.hosmatic.com
 dns.hostux.net
 dns.hugo0.moe
 dns.hujiayucc.cn
@@ -403,7 +401,6 @@ snoke.meganerd.nl
 dns.mestdag.fr
 dns.midping.ir
 dns.milkpie.one
-minilla.store
 doh.mmmalia.com
 dns.mni.li
 dns.mo0on15.com
@@ -420,7 +417,6 @@ doh.mullvad.net
 adblock.doh.mullvad.net
 dns.feldy.my.id
 dns.lista.my.id
-uf-dns.lista.my.id
 dns.mikrotikrumahan.my.id
 adblock.mydns.network
 family.mydns.network
@@ -566,7 +562,6 @@ doh.seby.io
 doh-2.seby.io
 privatnas.servebeer.com
 dns.sev.monster
-d2.shabi.icu
 dns.shecan.ir
 free.shecan.ir
 pro.shecan.ir
@@ -599,6 +594,7 @@ doh.syshero.org
 ad.systemfall.ru
 vanced.sytes.net
 dns.t53.de
+family.dns.teknoholistik.com
 dns.telekom.de
 dns.thebuckners.org
 dns.therifleman.name
