@@ -467,7 +467,6 @@ ns3.link
 5g.o0o.re
 dot.occ.top
 dns.ofdoom.net
-adguard.oms-ctr.ru
 one.one.one.one
 doh.onedns.net
 secure.onedns.cc
@@ -581,7 +580,6 @@ doh-01.spectrum.com
 doh-02.spectrum.com
 sriedmueadguard.casa
 adguard.sscw.win
-dns.sstomp.nl
 dns.startupstack.tech
 local.sufly.top
 dns.superstefan.win
