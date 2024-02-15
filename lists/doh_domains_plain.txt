@@ -274,7 +274,6 @@ b.family.ns.dnslify.com
 a.safe.ns.dnslify.com
 b.safe.ns.dnslify.com
 dnslow.me
-dns.dnssilo.top
 dns.dnswarden.com
 doh.dnswarden.com
 doh.li
@@ -344,7 +343,6 @@ dns.indybanipal.com
 inpssh.online
 www.inpssh.online
 qlf-doh.inria.fr
-dns.interhub.cc
 pdns.itxe.net
 ivnkn.xyz
 jackyes.ovh
