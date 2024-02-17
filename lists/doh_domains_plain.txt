@@ -164,7 +164,6 @@ doh.crypto.sx
 doh-ipv6.crypto.sx
 cubedns.com
 qual.cuprum.ru
-nanopi.cybergroove.net
 dns.cynthialabs.net
 mail.data.haus
 ns.data.haus
@@ -330,7 +329,6 @@ doth.huque.com
 dns.huseynov.work
 dns.huyhoangit.net
 opennic.i2pd.xyz
-vd.i81.ru
 mask.icloud.com
 mask-h2.icloud.com
 tienpham.id.vn
@@ -411,6 +409,7 @@ adblock.dns.mullvad.net
 all.dns.mullvad.net
 base.dns.mullvad.net
 extended.dns.mullvad.net
+family.dns.mullvad.net
 doh.mullvad.net
 adblock.doh.mullvad.net
 dns.feldy.my.id
@@ -629,7 +628,6 @@ yunyun.is.my.waifu.cz
 dns.wang.art
 dns.wargan.io
 abel.waringer-atg.de
-dns.wellstsai.com
 wikimedia-dns.org
 clearweb.woodbridge.club
 home.wriedts.de
