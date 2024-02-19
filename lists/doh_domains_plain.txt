@@ -309,7 +309,6 @@ cluster-0.gac.edu
 cluster-1.gac.edu
 geshido.vpn.geshido.ru
 getdnsapi.net
-h.gjrick.tw
 dns.gnb09.id
 privacydns.go6lab.si
 dns.google.com
@@ -367,7 +366,6 @@ dart.kpsn.org
 xray.krnl.eu
 dns.l337.site
 doh.lacontrevoie.fr
-dns.lashes-brow.ru
 lastentarvike.fi
 eu1.dns.lavate.ch
 us1.dns.lavate.ch
@@ -396,10 +394,8 @@ dns.meeo.win
 snoke.meganerd.nl
 dns.mestdag.fr
 dns.midping.ir
-dns.milkpie.one
 doh.mmmalia.com
 dns.mni.li
-dns.mo0on15.com
 nue2.moderateinfra.net
 ps1.modr.club
 dns.molinero.dev
@@ -505,7 +501,6 @@ sundalandia.pp.ua
 virga.pp.ua
 dns.pragmasec.nl
 orpi.privado.ovh
-www.pukanuragan.ru
 dns.pumplex.com
 dns-privacy.puregeni.us
 doh.qis.io
@@ -630,7 +625,6 @@ dns.wargan.io
 abel.waringer-atg.de
 wikimedia-dns.org
 clearweb.woodbridge.club
-home.wriedts.de
 adb-home.xaoimoon.fr
 doh.xcom.pro
 doh.xfinity.com
