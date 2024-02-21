@@ -172,6 +172,7 @@ doh.datahata.by
 dns.daw.dev
 dns.decloudus.com
 doh.defaultroutes.de
+dns.dekedin.me
 adguard.lege.despagne.net
 doh-primary-pool.detoxifypornblocker.com
 dns.digitaladapt.com
@@ -358,8 +359,6 @@ pihole.aws.ketan.dev
 adguard.kiboko.it
 doh.killtw.im
 blog.kimiblock.top
-dns1.klcd.eu
-dns2.klcd.eu
 adguard.konikoni428.com
 korzhov.dev
 dart.kpsn.org
@@ -380,7 +379,6 @@ doh.phdns2.lonet.org
 doh.phdns3.lonet.org
 doh.phdns4.lonet.org
 doh.phdns5.lonet.org
-ns.lov.host
 dns.lvolland.fr
 orau.lz0724.com
 addns1.m-it.ro
