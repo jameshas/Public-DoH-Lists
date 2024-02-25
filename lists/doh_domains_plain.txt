@@ -305,7 +305,6 @@ dukun.de
 edgy-dns.com
 dns.emiliyan.com
 home.enjoymylife.net
-shield1.eranext.net
 dns.fullaccesstointernet.jp.eu.org
 adguard.minetown.eu.org
 sukidayo.eu.org
@@ -346,7 +345,6 @@ dns.hahnjo.de
 resolver-eu.haringstad.com
 query.hdns.io
 ordns.he.net
-dns.hempfoundation.net
 dns.henek.ovh
 dns.hostux.net
 dns.hugo0.moe
@@ -372,7 +370,6 @@ pdns.itxe.net
 dns.itya.xyz
 ivnkn.xyz
 jackyes.ovh
-adguard.jaye.sh
 jcdns.fun
 adguard.jfchenier.ca
 vps.jmarkin.ru
@@ -400,7 +397,6 @@ korzhov.dev
 dart.kpsn.org
 dns.kriswerry.nl
 xray.krnl.eu
-dns.l337.site
 doh.lacontrevoie.fr
 lastentarvike.fi
 eu1.dns.lavate.ch
