@@ -70,7 +70,6 @@ doh.applied-privacy.net
 doh.appliedprivacy.net
 dns.aquilenet.fr
 dns.arapurayil.com
-dns.ares-taiwan.com
 dns.artikel10.org
 dandelionsprout.asuscomm.com
 dohtrial.att.net
@@ -101,7 +100,6 @@ dns.blokada.org
 bluemood.me
 doh.boje8.me
 adguard.bonis.de
-adguard.bonsirven.eu
 borisov.page
 doh.bortzmeyer.fr
 cloudns.bosco.ovh
@@ -178,7 +176,6 @@ doh.crypto.sx
 doh-ipv6.crypto.sx
 cubedns.com
 qual.cuprum.ru
-dns-jp0.cyhsu.xyz
 dns.cynthialabs.net
 dns.danamas.net
 mail.data.haus
@@ -374,7 +371,6 @@ jcdns.fun
 adguard.jfchenier.ca
 vps.jmarkin.ru
 green2.jnraptor.net
-adguard.johndave.me
 ad.johnwick.me
 opencdn.jomodns.com
 agh.josephyap.me
@@ -497,6 +493,7 @@ dns.njal.la
 resolver.noaddns.com
 pi1.node15.com
 sink.nolo.ltd
+paulo.nom.za
 1.dns.noridev.moe
 dns.novali.date
 ns3.com
@@ -628,7 +625,6 @@ spacedns.org
 adguard.sparshbajaj.me
 doh-01.spectrum.com
 doh-02.spectrum.com
-sriedmueadguard.casa
 adguard.sscw.win
 dns.startupstack.tech
 dns.strassmair.org
