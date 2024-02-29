@@ -177,7 +177,6 @@ doh-ipv6.crypto.sx
 cubedns.com
 qual.cuprum.ru
 dns.cynthialabs.net
-dns.danamas.net
 mail.data.haus
 ns.data.haus
 doh.datacore.ch
@@ -303,7 +302,6 @@ edgy-dns.com
 dns.emiliyan.com
 home.enjoymylife.net
 dns.fullaccesstointernet.jp.eu.org
-adguard.minetown.eu.org
 sukidayo.eu.org
 dns.eumera.de
 dns.extrawdw.net
@@ -318,7 +316,6 @@ felipefalcao.ninja
 ag.ff0x.ca
 doh.ffmuc.net
 dns01.flm9.net
-agh.fltn.us
 life.flylcc.cc
 hkname.freecdn.one
 dns.freyja.pw
@@ -371,7 +368,6 @@ jcdns.fun
 adguard.jfchenier.ca
 vps.jmarkin.ru
 green2.jnraptor.net
-ad.johnwick.me
 opencdn.jomodns.com
 agh.josephyap.me
 dns.jstockley.com
@@ -499,7 +495,6 @@ dns.novali.date
 ns3.com
 ns3.cx
 ns3.link
-5g.o0o.re
 dns.oasg.xyz
 dot.occ.top
 dns.ofdoom.net
@@ -686,7 +681,6 @@ clearweb.woodbridge.club
 adb-home.xaoimoon.fr
 doh.xcom.pro
 doh.xfinity.com
-v2.xx3210766.live
 common.dot.dns.yandex.net
 family.dot.dns.yandex.net
 safe.dot.dns.yandex.net
