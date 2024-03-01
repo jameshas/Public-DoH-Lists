@@ -60,7 +60,6 @@ dnsse.alekberg.net
 dnsse-noads.alekberg.net
 dns.alidns.com
 mailer.amlegion.org
-dns.andersfarms.ltd
 dns.andrewnw.xyz
 secure.anudeep.me
 doh.apad.pro
@@ -303,7 +302,6 @@ dns.emiliyan.com
 home.enjoymylife.net
 dns.fullaccesstointernet.jp.eu.org
 sukidayo.eu.org
-dns.eumera.de
 dns.extrawdw.net
 dns.f97.xyz
 pdns.faelix.net
@@ -381,7 +379,6 @@ dns.kernel-error.de
 dns.kescher.at
 dns.keskinnetwork.com
 pihole.aws.ketan.dev
-adguard.kiboko.it
 doh.killtw.im
 blog.kimiblock.top
 adguard.konikoni428.com
