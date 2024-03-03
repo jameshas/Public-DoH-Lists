@@ -152,7 +152,6 @@ dns.cloudseriousshit.com
 dns-fr-psv1.cloudsides.com
 dns.cmrg.net
 ag.hostme.co.il
-dns.kloiber.co.at
 pooblet.co.za
 allain.com.br
 dns.cloud88.com.au
