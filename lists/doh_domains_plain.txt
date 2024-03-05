@@ -347,7 +347,6 @@ dns.huyhoangit.net
 opennic.i2pd.xyz
 mask.icloud.com
 mask-h2.icloud.com
-tienpham.id.vn
 adguard.shuting.idv.tw
 public.dns.iij.jp
 ikarosalpha.xyz
@@ -629,7 +628,6 @@ ibksturm.synology.me
 ihctw.synology.me
 doh.syshero.org
 ad.systemfall.ru
-vanced.sytes.net
 szyrzyk.pl
 dns.t53.de
 family.dns.teknoholistik.com
@@ -661,7 +659,6 @@ jambi.undo.it
 resolver.unstoppable.io
 dns.unx.io
 dns.uplenk.com
-urology.wiki
 adfree.usableprivacy.net
 noads.venovedo.ro
 dns.wahr.top
