@@ -298,7 +298,6 @@ doh.dscloud.me
 dukun.de
 edgy-dns.com
 dns.emiliyan.com
-home.enjoymylife.net
 dns.fullaccesstointernet.jp.eu.org
 sukidayo.eu.org
 dns.extrawdw.net
@@ -679,5 +678,4 @@ family.dot.dns.yandex.net
 safe.dot.dns.yandex.net
 yovbak.com
 dns.yumenashyi.com
-dns.zeinima.com
 doh.zln.wtf
