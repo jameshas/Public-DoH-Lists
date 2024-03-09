@@ -416,7 +416,6 @@ www.maxfong.cc
 adguard.meddy94.de
 dns.meeo.win
 testguard.meexx.de
-dns.mega-marimo.net
 snoke.meganerd.nl
 dns.mestdag.fr
 dns.midping.ir
@@ -604,7 +603,6 @@ adguard.shoupperuser.com
 adguard.shutgaming.net
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sitdns.com
 dns.skrep.eu
 dns.skrep.in
@@ -669,7 +667,6 @@ dns.wang.art
 dns.wargan.io
 abel.waringer-atg.de
 wikimedia-dns.org
-clearweb.woodbridge.club
 adb-home.xaoimoon.fr
 doh.xcom.pro
 doh.xfinity.com
