@@ -1,6 +1,5 @@
 ns.00dani.me
 cdn.0ms.dev
-dns.111311.xyz
 cloud.198.games
 dns.23-4.cn
 dns.233py.com
