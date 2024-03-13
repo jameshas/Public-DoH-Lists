@@ -166,7 +166,6 @@ p1.freedns.controld.com
 p2.freedns.controld.com
 p3.freedns.controld.com
 uncensored.freedns.controld.com
-doh.corpa.me
 doh.cox.net
 dohdot.coxlab.net
 doh.crypto.sx
@@ -312,7 +311,6 @@ ag.ff0x.ca
 doh.ffmuc.net
 dns01.flm9.net
 life.flylcc.cc
-hkname.freecdn.one
 dns.freyja.pw
 dns.froth.zone
 awan.ftp.sh
@@ -331,14 +329,12 @@ google-public-dns-b.google.com
 jp.gridns.xyz
 dns.guard.io
 dns.hahnjo.de
-resolver-eu.haringstad.com
 query.hdns.io
 ordns.he.net
 dns.henek.ovh
 dns.hostux.net
 dns.hugo0.moe
 dns.hujiayucc.cn
-ads.hunga1k47.com
 doth.huque.com
 dns.huseynov.work
 dns.huyhoangit.net
@@ -380,7 +376,6 @@ blog.kimiblock.top
 adguard.konikoni428.com
 korzhov.dev
 dart.kpsn.org
-dns.kriswerry.nl
 xray.krnl.eu
 doh.lacontrevoie.fr
 lastentarvike.fi
@@ -437,7 +432,6 @@ dns.danayasastore.my.id
 dns.feldy.my.id
 dns.lista.my.id
 dns.mikrotikrumahan.my.id
-dns.rbs.my.id
 adblock.mydns.network
 family.mydns.network
 freedom.mydns.network
@@ -547,7 +541,6 @@ dns11.quad9.net
 dns12.quad9.net
 dns13.quad9.net
 dns9.quad9.net
-quic.lol
 doh.quickline.ch
 ant.dns.qwer.pw
 dog.dns.qwer.pw
