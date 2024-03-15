@@ -10,7 +10,6 @@ sdns.233py.com
 wdns.233py.com
 dns.240527.xyz
 doh.2kil.com
-dns.354688.xyz
 doh.360.cn
 dns.4-the.win
 doh.42l.fr
@@ -128,7 +127,6 @@ ibuki.cgnat.net
 dns.chadeyron.fr
 chandr1000.net
 dns.chenu.ch
-dns.chillstice.com
 family.canadianshield.cira.ca
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
@@ -152,7 +150,6 @@ dns-fr-psv1.cloudsides.com
 dns.cmrg.net
 ag.hostme.co.il
 pooblet.co.za
-allain.com.br
 dns.cloud88.com.au
 doh.viatech.com.tw
 commons.host
@@ -320,7 +317,6 @@ cluster-0.gac.edu
 cluster-1.gac.edu
 geshido.vpn.geshido.ru
 getdnsapi.net
-dns.gmserv.cc
 dns.gnb09.id
 privacydns.go6lab.si
 dns.google.com
@@ -333,7 +329,6 @@ query.hdns.io
 ordns.he.net
 dns.henek.ovh
 dns.hostux.net
-dns.hugo0.moe
 dns.hujiayucc.cn
 doth.huque.com
 dns.huseynov.work
@@ -431,7 +426,6 @@ adblock.doh.mullvad.net
 dns.danayasastore.my.id
 dns.feldy.my.id
 dns.lista.my.id
-dns.mikrotikrumahan.my.id
 adblock.mydns.network
 family.mydns.network
 freedom.mydns.network
@@ -512,7 +506,6 @@ i.passcloud.xyz
 doh.gcp.pathofgrace.com
 dns.paxavemedia.com
 rpz-public-resolver1.rrdns.pch.net
-dns.pernika.net
 darya.persiannit.net
 doh.centraleu.pi-dns.com
 doh.eastas.pi-dns.com
@@ -581,7 +574,6 @@ dns.sarak.as
 dns.sarilouis.com
 dns.scarx.net
 dns.schlagheck.berlin
-scottdylewski.com
 dns.scuola.org
 doh.seby.io
 doh-2.seby.io
@@ -656,7 +648,6 @@ darkness.is.my.waifu.cz
 megumin.is.my.waifu.cz
 yunyun.is.my.waifu.cz
 dns.wang.art
-dns.wargan.io
 abel.waringer-atg.de
 wikimedia-dns.org
 adb-home.xaoimoon.fr
