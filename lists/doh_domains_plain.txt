@@ -358,7 +358,6 @@ agh.josephyap.me
 dns.jstockley.com
 dns.jundev.org
 ad.justincounts.com
-adguard.k-likhachev.ru
 dns.kamilszczepanski.com
 dns.karl.one
 kekv.fun
@@ -391,9 +390,7 @@ doh.phdns3.lonet.org
 doh.phdns4.lonet.org
 doh.phdns5.lonet.org
 dns.loony-tech.de
-dns.ltse.cloud
 dns.lupine.solutions
-dns.lvolland.fr
 orau.lz0724.com
 addns1.m-it.ro
 mailkyb.co
@@ -438,7 +435,6 @@ dns.narl.app
 dns.nas-server.ru
 dns.ndo.dev
 dns.aa.net.uk
-doh.max.net.id
 dns.neutopia.org
 doh.luigi.nexific.it
 dns.nextdns.io
@@ -569,7 +565,6 @@ dns1.ryan-palmer.com
 dns2.saferbfc.org
 safeservedns.com
 doh.safesurfer.io
-dns.sainte-foie.com
 dns.sarak.as
 dns.sarilouis.com
 dns.scarx.net
