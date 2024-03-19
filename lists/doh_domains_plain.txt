@@ -9,7 +9,6 @@ ndns.233py.com
 sdns.233py.com
 wdns.233py.com
 dns.240527.xyz
-doh.2kil.com
 doh.360.cn
 dns.4-the.win
 doh.42l.fr
@@ -51,7 +50,6 @@ doh.no.ahadns.net
 doh.ny.ahadns.net
 doh.pl.ahadns.net
 albertocognetti.com
-dns.albony.xyz
 dnsnl.alekberg.net
 dnsnl-noads.alekberg.net
 dnsse.alekberg.net
@@ -288,7 +286,6 @@ doh.pub
 doh.sb
 dns.doh.best
 takhtakh.domyah.net
-dns.dooks.uk
 doh.dscloud.me
 dukun.de
 edgy-dns.com
@@ -363,7 +360,6 @@ dns.karl.one
 kekv.fun
 dns.kernel-error.de
 dns.kescher.at
-dns.keskinnetwork.com
 pihole.aws.ketan.dev
 doh.killtw.im
 blog.kimiblock.top
@@ -403,7 +399,6 @@ adguard.meddy94.de
 dns.meeo.win
 testguard.meexx.de
 snoke.meganerd.nl
-dns.mestdag.fr
 dns.midping.ir
 doh.mmmalia.com
 dns.mni.li
@@ -518,7 +513,6 @@ lindung.pp.ua
 sundalandia.pp.ua
 virga.pp.ua
 dns.pragmasec.nl
-orpi.privado.ovh
 dns.pumplex.com
 dns-privacy.puregeni.us
 doh.qis.io
