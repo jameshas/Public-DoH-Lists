@@ -70,7 +70,6 @@ dandelionsprout.asuscomm.com
 dohtrial.att.net
 secure.avastdns.com
 adguard.avdkishore.dev
-axistechsupport.com
 doh.azoris.ovh
 doh1.b-cdn.net
 doh2.b-cdn.net
@@ -166,7 +165,6 @@ dohdot.coxlab.net
 doh.crypto.sx
 doh-ipv6.crypto.sx
 cubedns.com
-qual.cuprum.ru
 dns.cynthialabs.net
 mail.data.haus
 ns.data.haus
@@ -357,7 +355,6 @@ dns.jundev.org
 ad.justincounts.com
 dns.kamilszczepanski.com
 dns.karl.one
-kekv.fun
 dns.kernel-error.de
 dns.kescher.at
 pihole.aws.ketan.dev
@@ -535,7 +532,6 @@ ns.rabot.fi
 inde.ragnvindr.org
 int.ragnvindr.org
 ns.ral9005.org
-emby.rasp.tv
 rayneau.fr
 dns.reckoningslug.name
 kaitain.restena.lu
@@ -546,7 +542,6 @@ sky.rethinkdns.com
 doh.rezhajul.io
 resolver.rferee.dev
 dns.rin.sh
-dns.rjls.me
 dns.rotunneling.net
 o.rsaikat.com
 dns.rubyfish.cn
