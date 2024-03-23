@@ -18,7 +18,6 @@ family.5ososea.com
 kids.5ososea.com
 dns.888654.xyz
 8888.google
-sk.9727158.xyz
 doh.aaaab3n.moe
 doh.dns.apple.com.v.aaplimg.com
 adguard.abd.ong
@@ -26,6 +25,7 @@ dns.abdullahabas.de
 doh.abmb.win
 doh2.abmb.win
 dns.abppro.ru
+doh.abraservice.xyz
 res-acst3.absolight.net
 resolver3.absolight.net
 adbl-tslagter.nl
@@ -101,7 +101,6 @@ dns.brahma.world
 bravedns.com
 basic.bravedns.com
 free.bravedns.com
-dns.bravoc.one
 doh.bt.com
 stratus.bugz.fr
 www.c-dns.com
@@ -303,6 +302,7 @@ ag.ff0x.ca
 doh.ffmuc.net
 dns01.flm9.net
 life.flylcc.cc
+agent.frankutils.xyz
 dns.freyja.pw
 dns.froth.zone
 awan.ftp.sh
@@ -340,10 +340,12 @@ dns.indybanipal.com
 inpssh.online
 www.inpssh.online
 qlf-doh.inria.fr
+dns.ipty.de
 pdns.itxe.net
 dns.itya.xyz
 ivnkn.xyz
 jackyes.ovh
+adguard.jakinet.id
 jcdns.fun
 adguard.jfchenier.ca
 vps.jmarkin.ru
@@ -422,7 +424,6 @@ paranoia.mydns.network
 blackhole.myon.lu
 fwgw.orangepipc.mywire.org
 n0.eu
-www.chungocoai.name.vn
 dns.narl.app
 dns.nas-server.ru
 dns.ndo.dev
@@ -503,7 +504,6 @@ doh.northeu.pi-dns.com
 doh.westus.pi-dns.com
 dns1.pietjacobs.be
 secure-dns.pleumkungz.com
-dns.pointless.chat
 doh.powerdns.org
 dns.korzhyk.pp.ua
 lindung.pp.ua
@@ -528,6 +528,7 @@ frog.dns.qwer.pw
 lion.dns.qwer.pw
 tiger.dns.qwer.pw
 resolver.r0cket.net
+dns.r9x.cc
 ns.rabot.fi
 inde.ragnvindr.org
 int.ragnvindr.org
