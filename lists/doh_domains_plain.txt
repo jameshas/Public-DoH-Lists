@@ -46,7 +46,6 @@ doh.ny.ahadns.net
 doh.pl.ahadns.net
 dns.ahmgam.com
 hk.ahua.ltd
-albertocognetti.com
 dnsnl.alekberg.net
 dnsnl-noads.alekberg.net
 dnsse.alekberg.net
@@ -138,8 +137,6 @@ family.cloudflare-dns.com
 mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 voyage-s01.cloudku.technology
-dns.cloudseriousshit.com
-dns-fr-psv1.cloudsides.com
 dns.cmrg.net
 ag.hostme.co.il
 pooblet.co.za
@@ -162,7 +159,6 @@ doh.crypto.sx
 doh-ipv6.crypto.sx
 cubedns.com
 dns.cxl.moe
-dns2.cybrespace.net
 dns.cynthialabs.net
 mail.data.haus
 ns.data.haus
@@ -347,7 +343,6 @@ ikarosalpha.xyz
 dns1.in-berlin.de
 dns.indybanipal.com
 qlf-doh.inria.fr
-doh.iranet.cam
 isakula.space
 pdns.itxe.net
 ivnkn.xyz
@@ -357,9 +352,7 @@ jcdns.fun
 adguard.jfchenier.ca
 green2.jnraptor.net
 opencdn.jomodns.com
-agh.josephyap.me
 dns.jstockley.com
-dns.jundev.org
 ad.justincounts.com
 dns.kamilszczepanski.com
 dns.karl.one
@@ -381,7 +374,6 @@ yarp.lefolgoc.net
 resolver-eu.lelux.fi
 dns2.lezainski.com
 doh.libredns.gr
-dns2.linzefeng.top
 adguard.londonwebnerd.cloud
 doh.phdns1.lonet.org
 doh.phdns2.lonet.org
@@ -415,18 +407,12 @@ extended.dns.mullvad.net
 family.dns.mullvad.net
 doh.mullvad.net
 adblock.doh.mullvad.net
-doh.artsvr.my.id
 dns.feldy.my.id
 dns.lista.my.id
 math.netlab.my.id
 dns.repinger.my.id
 agh2.server.my.id
-adblock.mydns.network
-family.mydns.network
-freedom.mydns.network
-paranoia.mydns.network
 blackhole.myon.lu
-myv2ray.cn
 fwgw.orangepipc.mywire.org
 n0.eu
 adguard.quydang.name.vn
@@ -491,7 +477,6 @@ doh.sandbox.opendns.com
 dns.oszx.co
 dns.ours.luxe
 1a.ns.ozer.im
-dns.pacificmonster.com
 dns.paesa.es
 dns-ovh.panszelescik.pl
 a.passcloud.xyz
@@ -577,7 +562,6 @@ doh.seby.io
 doh-2.seby.io
 dns.serdcebolit.ru
 dns.sev.monster
-d3.shabi.icu
 shalenkov.cc
 dns.shecan.ir
 free.shecan.ir
@@ -594,6 +578,7 @@ spacedns.org
 adguard.sparshbajaj.me
 doh-01.spectrum.com
 doh-02.spectrum.com
+dns.spirio.fr
 adguard.sscw.win
 dns.startupstack.tech
 adguard.stealbit.com
@@ -622,6 +607,7 @@ tigrons.ru
 timmes.nl
 dns.tls-data.de
 trovs.ru
+truta.org
 dns.tryk.app
 adg.tshost.no
 doh.ibr.cs.tu-bs.de
