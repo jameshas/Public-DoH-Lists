@@ -45,7 +45,6 @@ doh.no.ahadns.net
 doh.ny.ahadns.net
 doh.pl.ahadns.net
 dns.ahmgam.com
-hk.ahua.ltd
 dnsnl.alekberg.net
 dnsnl-noads.alekberg.net
 dnsse.alekberg.net
@@ -75,7 +74,6 @@ antivirus.bebasid.com
 dns.bebasid.com
 internetsehat.bebasid.com
 dns.belnet.be
-bigart.su
 ns3.bit-trail.nl
 dns.bitdefender.net
 doh-ch.blahdns.com
@@ -223,7 +221,6 @@ fra01.dnscry.pt
 geg01.dnscry.pt
 hkg01.dnscry.pt
 ist01.dnscry.pt
-jkt01.dnscry.pt
 jnb01.dnscry.pt
 kiv01.dnscry.pt
 las01.dnscry.pt
@@ -231,7 +228,6 @@ lax01.dnscry.pt
 lax02.dnscry.pt
 llk01.dnscry.pt
 lon01.dnscry.pt
-los01.dnscry.pt
 mad01.dnscry.pt
 mia01.dnscry.pt
 muc01.dnscry.pt
@@ -306,7 +302,6 @@ ag.ff0x.ca
 doh.ffmuc.net
 dns01.flm9.net
 life.flylcc.cc
-agent.frankutils.xyz
 dns.freyja.pw
 dns.froth.zone
 awan.ftp.sh
@@ -329,7 +324,6 @@ hanniel.tech
 query.hdns.io
 ordns.he.net
 dns.henek.ovh
-jpdns.hker.me
 dns.hostux.net
 doth.huque.com
 dns.huseynov.work
@@ -380,9 +374,7 @@ doh.phdns2.lonet.org
 doh.phdns3.lonet.org
 doh.phdns4.lonet.org
 doh.phdns5.lonet.org
-dns.lupine.solutions
 orau.lz0724.com
-addns1.m-it.ro
 mailkyb.co
 dns.mandre.dev
 ag.marschi.de
@@ -409,7 +401,6 @@ doh.mullvad.net
 adblock.doh.mullvad.net
 dns.feldy.my.id
 dns.lista.my.id
-math.netlab.my.id
 dns.repinger.my.id
 agh2.server.my.id
 blackhole.myon.lu
@@ -496,7 +487,6 @@ dns1.pietjacobs.be
 doh.plaawan.uk
 adguard.pmoebi.xyz
 doh.powerdns.org
-dns.korzhyk.pp.ua
 lindung.pp.ua
 sundalandia.pp.ua
 virga.pp.ua
@@ -519,7 +509,6 @@ frog.dns.qwer.pw
 lion.dns.qwer.pw
 tiger.dns.qwer.pw
 resolver.r0cket.net
-int.ragnvindr.org
 ns.ral9005.org
 rayneau.fr
 dns.reckoningslug.name
@@ -555,7 +544,6 @@ doh.safesurfer.io
 dns.sarak.as
 dns.sarilouis.com
 ns1.sc-lezhi.com
-dns.scarx.net
 dns.schlagheck.berlin
 dns.scuola.org
 doh.seby.io
