@@ -156,7 +156,6 @@ dohdot.coxlab.net
 doh.crypto.sx
 doh-ipv6.crypto.sx
 cubedns.com
-dns.cxl.moe
 dns.cynthialabs.net
 mail.data.haus
 ns.data.haus
@@ -168,7 +167,6 @@ doh.defaultroutes.de
 dns.dekedin.me
 adguard.lege.despagne.net
 doh-primary-pool.detoxifypornblocker.com
-dns.digitaladapt.com
 digitale-gesellschaft.ch
 dns.digitale-gesellschaft.ch
 dns1.digitale-gesellschaft.ch
@@ -308,8 +306,6 @@ awan.ftp.sh
 doh.futa.gg
 cluster-0.gac.edu
 cluster-1.gac.edu
-dns.pbs.gentility.org
-geshido.vpn.geshido.ru
 getdnsapi.net
 dns.gnb09.id
 privacydns.go6lab.si
@@ -341,7 +337,6 @@ isakula.space
 pdns.itxe.net
 ivnkn.xyz
 jackyes.ovh
-adguard.jakinet.id
 jcdns.fun
 adguard.jfchenier.ca
 green2.jnraptor.net
@@ -403,6 +398,10 @@ dns.feldy.my.id
 dns.lista.my.id
 dns.repinger.my.id
 agh2.server.my.id
+adblock.mydns.network
+family.mydns.network
+freedom.mydns.network
+paranoia.mydns.network
 blackhole.myon.lu
 fwgw.orangepipc.mywire.org
 n0.eu
@@ -608,7 +607,6 @@ deic-ore.anycast.uncensoreddns.org
 kracon.anycast.uncensoreddns.org
 rgnet-iad.anycast.uncensoreddns.org
 unicast.uncensoreddns.org
-jambi.undo.it
 resolver.unstoppable.io
 dns.unx.io
 dns.uplenk.com
