@@ -139,7 +139,6 @@ dns.cmrg.net
 ag.hostme.co.il
 pooblet.co.za
 dns.cloud88.com.au
-doh.viatech.com.tw
 commons.host
 dns.comss.one
 dns.east.comss.one
@@ -283,7 +282,6 @@ dukun.de
 edgy-dns.com
 dns.emiliyan.com
 dns.esnube.es
-pi.adblocker.eu.org
 dns.fullaccesstointernet.jp.eu.org
 sukidayo.eu.org
 cdn.thetcs.eu.org
@@ -323,7 +321,6 @@ dns.henek.ovh
 dns.hostux.net
 doth.huque.com
 dns.huseynov.work
-dns.huyhoangit.net
 opennic.i2pd.xyz
 mask.icloud.com
 mask-h2.icloud.com
@@ -378,7 +375,6 @@ adguard.meddy94.de
 dns.meeo.win
 testguard.meexx.de
 snoke.meganerd.nl
-ukns.milangas2.top
 doh.mmmalia.com
 dns.mni.li
 nue2.moderateinfra.net
@@ -483,7 +479,6 @@ doh.eastus.pi-dns.com
 doh.northeu.pi-dns.com
 doh.westus.pi-dns.com
 dns1.pietjacobs.be
-doh.plaawan.uk
 adguard.pmoebi.xyz
 doh.powerdns.org
 lindung.pp.ua
@@ -562,7 +557,6 @@ dns.skrep.eu
 dns.slinkyman.net
 clientdns3.softcom.net
 spacedns.org
-adguard.sparshbajaj.me
 doh-01.spectrum.com
 doh-02.spectrum.com
 dns.spirio.fr
