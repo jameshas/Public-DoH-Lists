@@ -44,7 +44,6 @@ doh.nl.ahadns.net
 doh.no.ahadns.net
 doh.ny.ahadns.net
 doh.pl.ahadns.net
-dns.ahmgam.com
 dnsnl.alekberg.net
 dnsnl-noads.alekberg.net
 dnsse.alekberg.net
@@ -284,7 +283,6 @@ dns.emiliyan.com
 dns.esnube.es
 dns.fullaccesstointernet.jp.eu.org
 sukidayo.eu.org
-cdn.thetcs.eu.org
 dns.extrawdw.net
 dns.ezyss.id
 pdns.faelix.net
@@ -439,7 +437,6 @@ paulo.nom.za
 1.dns.noridev.moe
 dns.novali.date
 dns.npsolution.it
-x.ns1net.com
 ns3.com
 ns3.cx
 ns3.link
@@ -461,14 +458,12 @@ resolver2.opendns.com
 resolver2-fs.opendns.com
 doh.sandbox.opendns.com
 dns.oszx.co
-dns.ours.luxe
 1a.ns.ozer.im
 dns.paesa.es
 dns-ovh.panszelescik.pl
 a.passcloud.xyz
 i.passcloud.xyz
 doh.gcp.pathofgrace.com
-dns.paxavemedia.com
 dns.pccoach.nl
 rpz-public-resolver1.rrdns.pch.net
 darya.persiannit.net
@@ -479,7 +474,6 @@ doh.eastus.pi-dns.com
 doh.northeu.pi-dns.com
 doh.westus.pi-dns.com
 dns1.pietjacobs.be
-adguard.pmoebi.xyz
 doh.powerdns.org
 lindung.pp.ua
 sundalandia.pp.ua
@@ -539,12 +533,10 @@ dns.sarak.as
 dns.sarilouis.com
 ns1.sc-lezhi.com
 dns.schlagheck.berlin
-dns.scuola.org
 doh.seby.io
 doh-2.seby.io
 dns.serdcebolit.ru
 dns.sev.monster
-shalenkov.cc
 dns.shecan.ir
 free.shecan.ir
 pro.shecan.ir
@@ -562,7 +554,6 @@ doh-02.spectrum.com
 dns.spirio.fr
 adguard.sscw.win
 dns.startupstack.tech
-adguard.stealbit.com
 dns.strassmair.org
 dns.streamvine.app
 resolver.sunet.se
@@ -573,8 +564,6 @@ dns.syaifullah.com
 ibksturm.synology.me
 ihctw.synology.me
 doh.syshero.org
-ad.systemfall.ru
-szyrzyk.pl
 dns.t53.de
 vpn.technicule.info
 dns.telekom.de
@@ -587,7 +576,6 @@ jp.tiarap.org
 tigrons.ru
 timmes.nl
 dns.tls-data.de
-trovs.ru
 truta.org
 dns.tryk.app
 adg.tshost.no
@@ -605,7 +593,6 @@ resolver.unstoppable.io
 dns.unx.io
 dns.uplenk.com
 adfree.usableprivacy.net
-adguard.vape.ong
 vtcuong.site
 dns.wahr.top
 aqua.is.my.waifu.cz
