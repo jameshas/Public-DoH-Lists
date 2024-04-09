@@ -291,7 +291,6 @@ dnsvps.familiamv.net
 dns.fancyorg.at
 ns0.fdn.fr
 ns1.fdn.fr
-felipefalcao.ninja
 ag.ff0x.ca
 doh.ffmuc.net
 dns01.flm9.net
@@ -328,7 +327,6 @@ ikarosalpha.xyz
 dns1.in-berlin.de
 dns.indybanipal.com
 qlf-doh.inria.fr
-isakula.space
 pdns.itxe.net
 ivnkn.xyz
 jackyes.ovh
@@ -377,7 +375,6 @@ doh.mmmalia.com
 dns.mni.li
 nue2.moderateinfra.net
 ps1.modr.club
-dns.moesite.top
 dns.molinero.dev
 ns.mtsoln.com
 dns.mullvad.net
@@ -391,7 +388,6 @@ adblock.doh.mullvad.net
 dns.feldy.my.id
 dns.lista.my.id
 dns.repinger.my.id
-agh2.server.my.id
 adblock.mydns.network
 family.mydns.network
 freedom.mydns.network
@@ -442,7 +438,6 @@ ns3.cx
 ns3.link
 dot.occ.top
 dns.ofdoom.net
-nydns.omada.cafe
 one.one.one.one
 doh.onedns.net
 secure.onedns.cc
