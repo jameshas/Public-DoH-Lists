@@ -96,7 +96,7 @@ free.bravedns.com
 doh.bt.com
 stratus.bugz.fr
 www.c-dns.com
-callies-online.site
+dns.caksono.com
 captnemo.in
 doh.captnemo.in
 console.carestyle.org
@@ -136,6 +136,7 @@ security.cloudflare-dns.com
 voyage-s01.cloudku.technology
 dns.cmrg.net
 ag.hostme.co.il
+dns.neilzone.co.uk
 pooblet.co.za
 dns.cloud88.com.au
 commons.host
@@ -165,6 +166,7 @@ doh.defaultroutes.de
 dns.dekedin.me
 adguard.lege.despagne.net
 doh-primary-pool.detoxifypornblocker.com
+dns.dev-umbrellagov.com
 digitale-gesellschaft.ch
 dns.digitale-gesellschaft.ch
 dns1.digitale-gesellschaft.ch
@@ -294,13 +296,13 @@ ns1.fdn.fr
 ag.ff0x.ca
 doh.ffmuc.net
 dns01.flm9.net
-life.flylcc.cc
 dns.freyja.pw
 dns.froth.zone
 awan.ftp.sh
 doh.futa.gg
 cluster-0.gac.edu
 cluster-1.gac.edu
+dns.gamban.com
 getdnsapi.net
 dns.gnb09.id
 privacydns.go6lab.si
@@ -338,12 +340,15 @@ dns.jstockley.com
 ad.justincounts.com
 dns.kamilszczepanski.com
 dns.karl.one
+dns.keke125.com
+doh.kel.pe
 dns.kernel-error.de
 dns.kescher.at
 pihole.aws.ketan.dev
 doh.killtw.im
 blog.kimiblock.top
 adguard.konikoni428.com
+doh.kooman.org
 korzhov.dev
 dart.kpsn.org
 xray.krnl.eu
@@ -354,8 +359,10 @@ us1.dns.lavate.ch
 adguard.leadseason.eu
 yarp.lefolgoc.net
 resolver-eu.lelux.fi
+dns.levonet.sk
 dns2.lezainski.com
 doh.libredns.gr
+dns.lobbygod.com
 adguard.londonwebnerd.cloud
 doh.phdns1.lonet.org
 doh.phdns2.lonet.org
@@ -366,11 +373,13 @@ orau.lz0724.com
 mailkyb.co
 dns.mandre.dev
 ag.marschi.de
+doh.maskab.com
 masters-of-cloud.de
 adguard.meddy94.de
 dns.meeo.win
 testguard.meexx.de
 snoke.meganerd.nl
+dns.mihanentalpo.me
 doh.mmmalia.com
 dns.mni.li
 nue2.moderateinfra.net
@@ -430,6 +439,8 @@ resolver.noaddns.com
 pi1.node15.com
 sink.nolo.ltd
 paulo.nom.za
+dns-cybersec.nordthreatprotection.com
+dns-malwaresec.nordthreatprotection.com
 1.dns.noridev.moe
 dns.novali.date
 dns.npsolution.it
@@ -452,8 +463,10 @@ resolver1-fs.opendns.com
 resolver2.opendns.com
 resolver2-fs.opendns.com
 doh.sandbox.opendns.com
+dns.oryxlabs.com
 dns.oszx.co
 1a.ns.ozer.im
+dns.p3k.sk
 dns.paesa.es
 dns-ovh.panszelescik.pl
 a.passcloud.xyz
@@ -528,6 +541,7 @@ dns.sarak.as
 dns.sarilouis.com
 ns1.sc-lezhi.com
 dns.schlagheck.berlin
+adguard.sealyserver.com
 doh.seby.io
 doh-2.seby.io
 dns.serdcebolit.ru
@@ -535,6 +549,7 @@ dns.sev.monster
 dns.shecan.ir
 free.shecan.ir
 pro.shecan.ir
+dns.sheggi.ch
 adguard.shoupperuser.com
 adguard.shutgaming.net
 dns.silen.org
@@ -550,7 +565,6 @@ dns.spirio.fr
 adguard.sscw.win
 dns.startupstack.tech
 dns.strassmair.org
-dns.streamvine.app
 resolver.sunet.se
 sunnygyl.com
 dns.superstefan.win
@@ -563,6 +577,7 @@ dns.t53.de
 vpn.technicule.info
 dns.telekom.de
 dns.thebuckners.org
+dns.thegoodsource.net
 dns.therifleman.name
 doh.tiar.app
 jp.tiar.app
@@ -587,6 +602,7 @@ unicast.uncensoreddns.org
 resolver.unstoppable.io
 dns.unx.io
 dns.uplenk.com
+dns.koala.us.to
 adfree.usableprivacy.net
 vtcuong.site
 dns.wahr.top
@@ -602,6 +618,5 @@ doh.xcom.pro
 doh.xfinity.com
 dns.yatima.tv
 yovbak.com
-dns.yumenashyi.com
 dns.daemon.za.net
 doh.zln.wtf
