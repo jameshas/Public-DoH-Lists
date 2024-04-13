@@ -10,6 +10,7 @@ sdns.233py.com
 wdns.233py.com
 dns.240527.xyz
 doh.360.cn
+3dns.eu
 dns.4-the.win
 doh.42l.fr
 dns.52306.org
@@ -49,6 +50,7 @@ dnsnl-noads.alekberg.net
 dnsse.alekberg.net
 dnsse-noads.alekberg.net
 dns.alidns.com
+alleesph.online
 mailer.amlegion.org
 dns.andrewnw.xyz
 secure.anudeep.me
@@ -75,6 +77,7 @@ internetsehat.bebasid.com
 dns.belnet.be
 ns3.bit-trail.nl
 dns.bitdefender.net
+dns.bitservices.io
 doh-ch.blahdns.com
 doh-de.blahdns.com
 doh-fi.blahdns.com
@@ -137,6 +140,7 @@ voyage-s01.cloudku.technology
 dns.cmrg.net
 ag.hostme.co.il
 dns.neilzone.co.uk
+dns.oliviertv.co.za
 pooblet.co.za
 dns.cloud88.com.au
 commons.host
@@ -320,18 +324,23 @@ dns.henek.ovh
 dns.hostux.net
 doth.huque.com
 dns.huseynov.work
+dns.hypercute.eu
 opennic.i2pd.xyz
 mask.icloud.com
 mask-h2.icloud.com
 adguard.shuting.idv.tw
 public.dns.iij.jp
 ikarosalpha.xyz
+dns.immanuelschaffer.de
 dns1.in-berlin.de
+adblock.indianets.net
 dns.indybanipal.com
 qlf-doh.inria.fr
+diy.itsa.top
 pdns.itxe.net
 ivnkn.xyz
 jackyes.ovh
+dns.janl.eu
 jcdns.fun
 adguard.jfchenier.ca
 green2.jnraptor.net
@@ -341,7 +350,7 @@ ad.justincounts.com
 dns.kamilszczepanski.com
 dns.karl.one
 dns.keke125.com
-doh.kel.pe
+dns.kerekes.xyz
 dns.kernel-error.de
 dns.kescher.at
 pihole.aws.ketan.dev
@@ -395,7 +404,7 @@ family.dns.mullvad.net
 doh.mullvad.net
 adblock.doh.mullvad.net
 dns.feldy.my.id
-dns.lista.my.id
+dns.iki.my.id
 dns.repinger.my.id
 adblock.mydns.network
 family.mydns.network
@@ -441,6 +450,8 @@ sink.nolo.ltd
 paulo.nom.za
 dns-cybersec.nordthreatprotection.com
 dns-malwaresec.nordthreatprotection.com
+dns1.nordvpn.com
+dns2.nordvpn.com
 1.dns.noridev.moe
 dns.novali.date
 dns.npsolution.it
@@ -466,7 +477,6 @@ doh.sandbox.opendns.com
 dns.oryxlabs.com
 dns.oszx.co
 1a.ns.ozer.im
-dns.p3k.sk
 dns.paesa.es
 dns-ovh.panszelescik.pl
 a.passcloud.xyz
@@ -487,6 +497,7 @@ lindung.pp.ua
 sundalandia.pp.ua
 virga.pp.ua
 dns.pragmasec.nl
+dns2.prima-solusindo.com
 dns.pumplex.com
 dns-privacy.puregeni.us
 doh.qis.io
@@ -508,7 +519,6 @@ resolver.r0cket.net
 ns.ral9005.org
 rayneau.fr
 dns.reckoningslug.name
-dns.renardyre.com
 kaitain.restena.lu
 dns.retakecs.com
 basic.rethinkdns.com
@@ -532,6 +542,8 @@ ea-dns.rubyfish.cn
 uw-dns.rubyfish.cn
 v6.rubyfish.cn
 rumpelsepp.org
+doh.runsel.id
+drs.rustsword.com
 dns1.ryan-palmer.com
 dns1.saferbfc.org
 dns2.saferbfc.org
@@ -568,6 +580,7 @@ dns.strassmair.org
 resolver.sunet.se
 sunnygyl.com
 dns.superstefan.win
+dns.svoi.dev
 dns.switch.ch
 dns.syaifullah.com
 ibksturm.synology.me
@@ -612,6 +625,7 @@ megumin.is.my.waifu.cz
 yunyun.is.my.waifu.cz
 dns.wang.art
 abel.waringer-atg.de
+dns.warma.me
 wikimedia-dns.org
 adb-home.xaoimoon.fr
 doh.xcom.pro
