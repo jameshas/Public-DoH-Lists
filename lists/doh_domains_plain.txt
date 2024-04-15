@@ -1,5 +1,6 @@
 ns.00dani.me
 cdn.0ms.dev
+dns.0x55.net
 cloud.198.games
 dns.23-4.cn
 dns.233py.com
@@ -61,6 +62,7 @@ doh.applied-privacy.net
 doh.appliedprivacy.net
 dns.arapurayil.com
 dns.artikel10.org
+dns.asterimoon.com
 dandelionsprout.asuscomm.com
 dohtrial.att.net
 secure.avastdns.com
@@ -122,7 +124,6 @@ family.canadianshield.cira.ca
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
 dns.circl.lu
-circumitor.de
 dns.clanless.ovh
 adult-filter-dns.cleanbrowsing.org
 doh.cleanbrowsing.org
@@ -279,7 +280,6 @@ doh.pub
 doh.sb
 doh.xyz
 dns.doh.best
-dnsfilter.domotik.us
 takhtakh.domyah.net
 dns.dotnet.win
 doh.dscloud.me
@@ -323,7 +323,6 @@ ordns.he.net
 dns.henek.ovh
 dns.hostux.net
 doth.huque.com
-dns.huseynov.work
 dns.hypercute.eu
 opennic.i2pd.xyz
 mask.icloud.com
@@ -343,11 +342,11 @@ jackyes.ovh
 dns.janl.eu
 jcdns.fun
 adguard.jfchenier.ca
-green2.jnraptor.net
 opencdn.jomodns.com
 dns.jstockley.com
 ad.justincounts.com
 dns.kamilszczepanski.com
+dns.karfamily.net
 dns.karl.one
 dns.keke125.com
 dns.kerekes.xyz
@@ -361,15 +360,14 @@ doh.kooman.org
 korzhov.dev
 dart.kpsn.org
 xray.krnl.eu
+dns.kukal.cz
 doh.lacontrevoie.fr
 lastentarvike.fi
 eu1.dns.lavate.ch
 us1.dns.lavate.ch
-adguard.leadseason.eu
 yarp.lefolgoc.net
 resolver-eu.lelux.fi
 dns.levonet.sk
-dns2.lezainski.com
 doh.libredns.gr
 dns.lobbygod.com
 adguard.londonwebnerd.cloud
@@ -474,7 +472,6 @@ resolver1-fs.opendns.com
 resolver2.opendns.com
 resolver2-fs.opendns.com
 doh.sandbox.opendns.com
-dns.oryxlabs.com
 dns.oszx.co
 1a.ns.ozer.im
 dns.paesa.es
@@ -485,6 +482,7 @@ doh.gcp.pathofgrace.com
 dns.pccoach.nl
 rpz-public-resolver1.rrdns.pch.net
 darya.persiannit.net
+dns.pesaventofilippo.com
 doh.centraleu.pi-dns.com
 doh.eastas.pi-dns.com
 doh.eastau.pi-dns.com
@@ -519,6 +517,7 @@ resolver.r0cket.net
 ns.ral9005.org
 rayneau.fr
 dns.reckoningslug.name
+dnspub.restena.lu
 kaitain.restena.lu
 dns.retakecs.com
 basic.rethinkdns.com
