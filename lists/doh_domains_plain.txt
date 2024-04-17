@@ -18,6 +18,8 @@ dns.52306.org
 family.5ososea.com
 kids.5ososea.com
 8888.google
+dns.9999.sg
+dns.a47.me
 doh.aaaab3n.moe
 doh.dns.apple.com.v.aaplimg.com
 adguard.abd.ong
@@ -29,6 +31,7 @@ resolver3.absolight.net
 adl.adfilter.net
 per.adfilter.net
 syd.adfilter.net
+adfreedns.top
 dns.adguard.com
 dns-family.adguard.com
 dns-unfiltered.adguard.com
@@ -280,8 +283,8 @@ doh.pub
 doh.sb
 doh.xyz
 dns.doh.best
-takhtakh.domyah.net
 dns.dotnet.win
+family.dns.doubleangels.com
 doh.dscloud.me
 dukun.de
 edgy-dns.com
@@ -360,7 +363,9 @@ doh.kooman.org
 korzhov.dev
 dart.kpsn.org
 xray.krnl.eu
+dns.kugoapps.com
 dns.kukal.cz
+dns.labnekotest.site
 doh.lacontrevoie.fr
 lastentarvike.fi
 eu1.dns.lavate.ch
@@ -401,8 +406,10 @@ extended.dns.mullvad.net
 family.dns.mullvad.net
 doh.mullvad.net
 adblock.doh.mullvad.net
+polisidns.4ch.my.id
 dns.feldy.my.id
 dns.iki.my.id
+dns.pnh.my.id
 dns.repinger.my.id
 adblock.mydns.network
 family.mydns.network
@@ -411,6 +418,7 @@ paranoia.mydns.network
 blackhole.myon.lu
 fwgw.orangepipc.mywire.org
 n0.eu
+doh-ca.naftalie.net
 adguard.quydang.name.vn
 dns.narl.app
 dns.nas-server.ru
@@ -500,6 +508,7 @@ dns.pumplex.com
 dns-privacy.puregeni.us
 doh.qis.io
 ns1.qquack.org
+hostdare.qtxd.net
 dns.quad9.net
 dns-nosec.quad9.net
 dns10.quad9.net
@@ -536,10 +545,12 @@ jp.rslvr.eu
 nl.rslvr.eu
 sg.rslvr.eu
 us.rslvr.eu
+adguard.ruby.ci
 dns.rubyfish.cn
 ea-dns.rubyfish.cn
 uw-dns.rubyfish.cn
 v6.rubyfish.cn
+adg.rueiliu.space
 rumpelsepp.org
 doh.runsel.id
 drs.rustsword.com
@@ -568,6 +579,7 @@ dns.silentlybren.com
 dns.sitdns.com
 dns.skrep.eu
 dns.slinkyman.net
+dns.smartguard.io
 clientdns3.softcom.net
 spacedns.org
 doh-01.spectrum.com
@@ -616,6 +628,7 @@ dns.unx.io
 dns.uplenk.com
 dns.koala.us.to
 adfree.usableprivacy.net
+doh.valscosmos.com
 vtcuong.site
 dns.wahr.top
 aqua.is.my.waifu.cz
@@ -632,4 +645,6 @@ doh.xfinity.com
 dns.yatima.tv
 yovbak.com
 dns.daemon.za.net
+www.zburger.top
 doh.zln.wtf
+a.zpn.me
