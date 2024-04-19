@@ -142,6 +142,7 @@ mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 voyage-s01.cloudku.technology
 dns.cmrg.net
+doh.cnetwork.cloud
 ag.hostme.co.il
 dns.neilzone.co.uk
 dns.oliviertv.co.za
@@ -324,10 +325,12 @@ hanniel.tech
 query.hdns.io
 ordns.he.net
 dns.henek.ovh
+dns.horcrux.vip
 dns.hostux.net
 doth.huque.com
 dns.hypercute.eu
 opennic.i2pd.xyz
+dns.ian.rocks
 mask.icloud.com
 mask-h2.icloud.com
 adguard.shuting.idv.tw
@@ -491,6 +494,7 @@ dns.pccoach.nl
 rpz-public-resolver1.rrdns.pch.net
 darya.persiannit.net
 dns.pesaventofilippo.com
+dns.phillipjberry.net
 doh.centraleu.pi-dns.com
 doh.eastas.pi-dns.com
 doh.eastau.pi-dns.com
@@ -539,7 +543,6 @@ dns.rootlab.top
 dns.rotunneling.net
 o.rsaikat.com
 au.rslvr.eu
-bg.rslvr.eu
 hk.rslvr.eu
 jp.rslvr.eu
 nl.rslvr.eu
@@ -562,7 +565,6 @@ doh.safesurfer.io
 dns.sarak.as
 dns.sarilouis.com
 ns1.sc-lezhi.com
-dns.schlagheck.berlin
 adguard.sealyserver.com
 doh.seby.io
 doh-2.seby.io
@@ -642,6 +644,7 @@ wikimedia-dns.org
 adb-home.xaoimoon.fr
 doh.xcom.pro
 doh.xfinity.com
+dns.xwdmw.xyz
 dns.yatima.tv
 yovbak.com
 dns.daemon.za.net
