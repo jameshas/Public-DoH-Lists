@@ -321,7 +321,6 @@ jp.gridns.xyz
 dns.guard.io
 dns2.guidocioni.it
 dns.hahnjo.de
-hanniel.tech
 query.hdns.io
 ordns.he.net
 dns.henek.ovh
@@ -341,7 +340,6 @@ dns1.in-berlin.de
 adblock.indianets.net
 dns.indybanipal.com
 qlf-doh.inria.fr
-diy.itsa.top
 pdns.itxe.net
 ivnkn.xyz
 jackyes.ovh
@@ -352,7 +350,6 @@ opencdn.jomodns.com
 dns.jstockley.com
 ad.justincounts.com
 dns.kamilszczepanski.com
-dns.karfamily.net
 dns.karl.one
 dns.keke125.com
 dns.kerekes.xyz
@@ -419,7 +416,6 @@ family.mydns.network
 freedom.mydns.network
 paranoia.mydns.network
 blackhole.myon.lu
-fwgw.orangepipc.mywire.org
 n0.eu
 doh-ca.naftalie.net
 adguard.quydang.name.vn
@@ -562,13 +558,13 @@ dns1.saferbfc.org
 dns2.saferbfc.org
 safeservedns.com
 doh.safesurfer.io
+adguard.samonte.ovh
 dns.sarak.as
 dns.sarilouis.com
 ns1.sc-lezhi.com
 adguard.sealyserver.com
 doh.seby.io
 doh-2.seby.io
-dns.serdcebolit.ru
 dns.sev.monster
 dns.shecan.ir
 free.shecan.ir
@@ -617,6 +613,7 @@ dns.tryk.app
 adg.tshost.no
 doh.ibr.cs.tu-bs.de
 dns.twnic.tw
+adguard.twotigers.xyz
 dns.txq.life
 doh.umbrella.com
 anycast.uncensoreddns.org
