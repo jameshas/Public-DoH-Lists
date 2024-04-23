@@ -140,7 +140,6 @@ dns64.cloudflare-dns.com
 family.cloudflare-dns.com
 mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
-voyage-s01.cloudku.technology
 dns.cmrg.net
 doh.cnetwork.cloud
 ag.hostme.co.il
@@ -503,7 +502,6 @@ lindung.pp.ua
 sundalandia.pp.ua
 virga.pp.ua
 dns.pragmasec.nl
-dns2.prima-solusindo.com
 dns.pumplex.com
 dns-privacy.puregeni.us
 doh.qis.io
@@ -554,11 +552,8 @@ rumpelsepp.org
 doh.runsel.id
 drs.rustsword.com
 dns1.ryan-palmer.com
-dns1.saferbfc.org
-dns2.saferbfc.org
 safeservedns.com
 doh.safesurfer.io
-adguard.samonte.ovh
 dns.sarak.as
 dns.sarilouis.com
 ns1.sc-lezhi.com
