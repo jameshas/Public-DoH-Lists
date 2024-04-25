@@ -1,4 +1,5 @@
 ns.00dani.me
+0ms.dev
 cdn.0ms.dev
 dns.0x55.net
 cloud.198.games
@@ -72,6 +73,7 @@ secure.avastdns.com
 adguard.avdkishore.dev
 doh1.b-cdn.net
 doh2.b-cdn.net
+b-ii.com
 dns.b612.me
 dns.baishiyuan.cn
 fr-dns1.bancuh.com
@@ -289,11 +291,12 @@ doh.dscloud.me
 dukun.de
 edgy-dns.com
 dns.emiliyan.com
+dns.enzonix.com
+bl.eq.md
 dns.esnube.es
 dns.fullaccesstointernet.jp.eu.org
 sukidayo.eu.org
 dns.extrawdw.net
-dns.ezyss.id
 pdns.faelix.net
 rdns.faelix.net
 dnsvps.familiamv.net
@@ -593,7 +596,6 @@ doh.syshero.org
 dns.t53.de
 vpn.technicule.info
 dns.telekom.de
-dns.thebuckners.org
 dns.thegoodsource.net
 dns.therifleman.name
 doh.tiar.app
