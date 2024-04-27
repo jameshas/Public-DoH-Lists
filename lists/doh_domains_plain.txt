@@ -29,6 +29,7 @@ doh2.abmb.win
 doh.abraservice.xyz
 res-acst3.absolight.net
 resolver3.absolight.net
+adblockersite.com
 adl.adfilter.net
 per.adfilter.net
 syd.adfilter.net
@@ -65,6 +66,7 @@ applied-privacy.net
 doh.applied-privacy.net
 doh.appliedprivacy.net
 dns.arapurayil.com
+doh.archuser.org
 dns.artikel10.org
 dns.asterimoon.com
 dandelionsprout.asuscomm.com
@@ -82,6 +84,7 @@ antivirus.bebasid.com
 dns.bebasid.com
 internetsehat.bebasid.com
 dns.belnet.be
+dns.bemag.app
 ns3.bit-trail.nl
 dns.bitdefender.net
 dns.bitservices.io
@@ -92,7 +95,6 @@ doh-jp.blahdns.com
 doh-sg.blahdns.com
 doh1.blahdns.com
 doh2.blahdns.com
-dns.blaze-sk.ru
 dns.blokada.org
 bluemood.me
 doh.boje8.me
@@ -354,6 +356,7 @@ ad.justincounts.com
 dns.kamilszczepanski.com
 dns.karl.one
 dns.keke125.com
+doh.kekew.info
 dns.kerekes.xyz
 dns.kernel-error.de
 dns.kescher.at
@@ -367,6 +370,7 @@ dart.kpsn.org
 xray.krnl.eu
 dns.kugoapps.com
 dns.kukal.cz
+dns.kusoneko.moe
 dns.labnekotest.site
 doh.lacontrevoie.fr
 lastentarvike.fi
@@ -383,6 +387,7 @@ doh.phdns2.lonet.org
 doh.phdns3.lonet.org
 doh.phdns4.lonet.org
 doh.phdns5.lonet.org
+lostradns.de
 orau.lz0724.com
 mailkyb.co
 dns.mandre.dev
@@ -408,7 +413,6 @@ extended.dns.mullvad.net
 family.dns.mullvad.net
 doh.mullvad.net
 adblock.doh.mullvad.net
-polisidns.4ch.my.id
 dns.feldy.my.id
 dns.iki.my.id
 dns.pnh.my.id
@@ -427,6 +431,11 @@ dns.ndo.dev
 nenam.eu
 dns.aa.net.uk
 dns.neutopia.org
+dns1.au.newpangea.de
+dns1.cl.newpangea.de
+dns1.in.newpangea.de
+dns1.sg.newpangea.de
+dns1.us.newpangea.de
 doh.luigi.nexific.it
 dns.nextdns.io
 anycast.dns.nextdns.io
@@ -526,6 +535,7 @@ tiger.dns.qwer.pw
 resolver.r0cket.net
 ns.ral9005.org
 rayneau.fr
+dns.rbn.gr
 dns.reckoningslug.name
 dnspub.restena.lu
 kaitain.restena.lu
@@ -563,6 +573,7 @@ ns1.sc-lezhi.com
 adguard.sealyserver.com
 doh.seby.io
 doh-2.seby.io
+dns.seiffert.me
 dns.sev.monster
 dns.shecan.ir
 free.shecan.ir
@@ -602,7 +613,6 @@ doh.tiar.app
 jp.tiar.app
 doh.tiarap.org
 jp.tiarap.org
-tigrons.ru
 timmes.nl
 dns.tls-data.de
 truta.org
