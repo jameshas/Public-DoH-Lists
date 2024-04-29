@@ -84,7 +84,6 @@ antivirus.bebasid.com
 dns.bebasid.com
 internetsehat.bebasid.com
 dns.belnet.be
-dns.bemag.app
 ns3.bit-trail.nl
 dns.bitdefender.net
 dns.bitservices.io
@@ -108,7 +107,6 @@ free.bravedns.com
 doh.bt.com
 stratus.bugz.fr
 www.c-dns.com
-dns.caksono.com
 captnemo.in
 doh.captnemo.in
 console.carestyle.org
@@ -146,7 +144,6 @@ mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 dns.cmrg.net
 doh.cnetwork.cloud
-ag.hostme.co.il
 dns.neilzone.co.uk
 dns.oliviertv.co.za
 pooblet.co.za
@@ -295,7 +292,6 @@ edgy-dns.com
 dns.emiliyan.com
 dns.enzonix.com
 bl.eq.md
-dns.esnube.es
 dns.fullaccesstointernet.jp.eu.org
 sukidayo.eu.org
 dns.extrawdw.net
@@ -339,7 +335,6 @@ mask-h2.icloud.com
 adguard.shuting.idv.tw
 public.dns.iij.jp
 ikarosalpha.xyz
-dns.immanuelschaffer.de
 dns1.in-berlin.de
 adblock.indianets.net
 dns.indybanipal.com
@@ -387,7 +382,6 @@ doh.phdns2.lonet.org
 doh.phdns3.lonet.org
 doh.phdns4.lonet.org
 doh.phdns5.lonet.org
-lostradns.de
 orau.lz0724.com
 mailkyb.co
 dns.mandre.dev
@@ -570,7 +564,6 @@ doh.safesurfer.io
 dns.sarak.as
 dns.sarilouis.com
 ns1.sc-lezhi.com
-adguard.sealyserver.com
 doh.seby.io
 doh-2.seby.io
 dns.seiffert.me
@@ -606,6 +599,7 @@ ihctw.synology.me
 doh.syshero.org
 dns.t53.de
 vpn.technicule.info
+dns.technostriker.com
 dns.telekom.de
 dns.thegoodsource.net
 dns.therifleman.name
