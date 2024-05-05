@@ -109,7 +109,6 @@ stratus.bugz.fr
 www.c-dns.com
 captnemo.in
 doh.captnemo.in
-console.carestyle.org
 dns.carson-family.com
 dns.carter.me
 catdns.org
@@ -509,7 +508,6 @@ dns.pumplex.com
 dns-privacy.puregeni.us
 doh.qis.io
 ns1.qquack.org
-hostdare.qtxd.net
 dns.quad9.net
 dns-nosec.quad9.net
 dns10.quad9.net
@@ -537,7 +535,6 @@ sky.rethinkdns.com
 doh.rezhajul.io
 resolver.rferee.dev
 dns.rin.sh
-dns.rootlab.top
 dns.rotunneling.net
 o.rsaikat.com
 au.rslvr.eu
@@ -581,7 +578,6 @@ clientdns3.softcom.net
 spacedns.org
 doh-01.spectrum.com
 doh-02.spectrum.com
-adguard.sscw.win
 dns.startupstack.tech
 dns.strassmair.org
 resolver.sunet.se
@@ -643,4 +639,3 @@ yovbak.com
 dns.daemon.za.net
 www.zburger.top
 doh.zln.wtf
-a.zpn.me
