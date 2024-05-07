@@ -375,7 +375,6 @@ resolver-eu.lelux.fi
 dns.levonet.sk
 doh.libredns.gr
 dns.lobbygod.com
-adguard.londonwebnerd.cloud
 doh.phdns1.lonet.org
 doh.phdns2.lonet.org
 doh.phdns3.lonet.org
@@ -483,7 +482,6 @@ doh.sandbox.opendns.com
 dns.oszx.co
 1a.ns.ozer.im
 dns.paesa.es
-dns-ovh.panszelescik.pl
 a.passcloud.xyz
 i.passcloud.xyz
 doh.gcp.pathofgrace.com
@@ -551,7 +549,6 @@ v6.rubyfish.cn
 adg.rueiliu.space
 rumpelsepp.org
 doh.runsel.id
-drs.rustsword.com
 dns1.ryan-palmer.com
 safeservedns.com
 doh.safesurfer.io
