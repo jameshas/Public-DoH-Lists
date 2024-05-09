@@ -346,6 +346,7 @@ jcdns.fun
 adguard.jfchenier.ca
 opencdn.jomodns.com
 dns.jstockley.com
+dns.jupitrdns.com
 ad.justincounts.com
 dns.kamilszczepanski.com
 dns.karl.one
@@ -383,7 +384,6 @@ doh.phdns5.lonet.org
 orau.lz0724.com
 mailkyb.co
 dns.mandre.dev
-ag.marschi.de
 doh.maskab.com
 masters-of-cloud.de
 adguard.meddy94.de
@@ -393,7 +393,6 @@ snoke.meganerd.nl
 dns.mihanentalpo.me
 doh.mmmalia.com
 dns.mni.li
-nue2.moderateinfra.net
 ps1.modr.club
 dns.molinero.dev
 ns.mtsoln.com
@@ -453,8 +452,6 @@ resolver.noaddns.com
 pi1.node15.com
 sink.nolo.ltd
 paulo.nom.za
-dns-cybersec.nordthreatprotection.com
-dns-malwaresec.nordthreatprotection.com
 dns1.nordvpn.com
 dns2.nordvpn.com
 1.dns.noridev.moe
