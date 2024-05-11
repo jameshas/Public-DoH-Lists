@@ -284,7 +284,6 @@ doh.sb
 doh.xyz
 dns.doh.best
 dns.dotnet.win
-family.dns.doubleangels.com
 doh.dscloud.me
 dukun.de
 edgy-dns.com
@@ -366,6 +365,7 @@ xray.krnl.eu
 dns.kugoapps.com
 dns.kukal.cz
 dns.kusoneko.moe
+dns.l6.ee
 dns.labnekotest.site
 doh.lacontrevoie.fr
 lastentarvike.fi
@@ -394,6 +394,7 @@ dns.mihanentalpo.me
 doh.mmmalia.com
 dns.mni.li
 ps1.modr.club
+dot.modsh.top
 dns.molinero.dev
 ns.mtsoln.com
 dns.mullvad.net
@@ -494,6 +495,7 @@ doh.eastus.pi-dns.com
 doh.northeu.pi-dns.com
 doh.westus.pi-dns.com
 dns1.pietjacobs.be
+dns.powerbs.net
 doh.powerdns.org
 lindung.pp.ua
 sundalandia.pp.ua
@@ -521,7 +523,6 @@ ns.ral9005.org
 rayneau.fr
 dns.rbn.gr
 dns.reckoningslug.name
-dnspub.restena.lu
 kaitain.restena.lu
 dns.retakecs.com
 basic.rethinkdns.com
@@ -624,6 +625,7 @@ yunyun.is.my.waifu.cz
 dns.wang.art
 abel.waringer-atg.de
 dns.warma.me
+dns.engineer.web.id
 wikimedia-dns.org
 adb-home.xaoimoon.fr
 doh.xcom.pro
