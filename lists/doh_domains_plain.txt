@@ -65,6 +65,7 @@ doh.dns.apple.com
 applied-privacy.net
 doh.applied-privacy.net
 doh.appliedprivacy.net
+dns.aquilenet.fr
 dns.arapurayil.com
 doh.archuser.org
 dns.artikel10.org
@@ -176,6 +177,7 @@ dns.dekedin.me
 adguard.lege.despagne.net
 doh-primary-pool.detoxifypornblocker.com
 dns.dev-umbrellagov.com
+dns.diarbagus.id
 digitale-gesellschaft.ch
 dns.digitale-gesellschaft.ch
 dns1.digitale-gesellschaft.ch
@@ -317,7 +319,6 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 jp.gridns.xyz
 dns.guard.io
-dns2.guidocioni.it
 dns.hahnjo.de
 query.hdns.io
 ordns.he.net
@@ -361,6 +362,7 @@ adguard.konikoni428.com
 doh.kooman.org
 korzhov.dev
 dart.kpsn.org
+pdns.krctechnologies.net
 xray.krnl.eu
 dns.kugoapps.com
 dns.kukal.cz
@@ -384,6 +386,7 @@ doh.phdns5.lonet.org
 orau.lz0724.com
 mailkyb.co
 dns.mandre.dev
+doh.manish.ltd
 doh.maskab.com
 masters-of-cloud.de
 adguard.meddy94.de
@@ -392,6 +395,7 @@ testguard.meexx.de
 snoke.meganerd.nl
 dns.mihanentalpo.me
 doh.mmmalia.com
+dns.mnet-online.de
 dns.mni.li
 ps1.modr.club
 dot.modsh.top
@@ -457,10 +461,10 @@ dns1.nordvpn.com
 dns2.nordvpn.com
 1.dns.noridev.moe
 dns.novali.date
-dns.npsolution.it
 ns3.com
 ns3.cx
 ns3.link
+dns.nydau.fr
 dot.occ.top
 dns.ofdoom.net
 one.one.one.one
@@ -550,6 +554,7 @@ doh.runsel.id
 dns1.ryan-palmer.com
 safeservedns.com
 doh.safesurfer.io
+dns.saneaki.com
 dns.sarak.as
 dns.sarilouis.com
 ns1.sc-lezhi.com
