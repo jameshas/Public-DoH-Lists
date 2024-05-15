@@ -78,6 +78,7 @@ doh1.b-cdn.net
 doh2.b-cdn.net
 b-ii.com
 dns.b612.me
+doh.b86.nl
 dns.baishiyuan.cn
 fr-dns1.bancuh.com
 sg-dns1.bancuh.com
@@ -125,6 +126,7 @@ ibuki.cgnat.net
 dns.chadeyron.fr
 chandr1000.net
 dns.chenu.ch
+doh.cippapp.com
 family.canadianshield.cira.ca
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
@@ -143,11 +145,11 @@ family.cloudflare-dns.com
 mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 dns.cmrg.net
-doh.cnetwork.cloud
 dns.neilzone.co.uk
 dns.oliviertv.co.za
 pooblet.co.za
 dns.cloud88.com.au
+doh.viatech.com.tw
 commons.host
 dns.comss.one
 dns.east.comss.one
@@ -207,7 +209,9 @@ ca01.dns4me.net
 ca02.dns4me.net
 nz01.dns4me.net
 sa01.dns4me.net
+sg01.dns4me.net
 uk01.dns4me.net
+us01.dns4me.net
 dns8.org
 ns1.recursive.dnsbycomodo.com
 ns2.recursive.dnsbycomodo.com
@@ -323,6 +327,7 @@ dns.hahnjo.de
 query.hdns.io
 ordns.he.net
 dns.henek.ovh
+dns.hinet.net
 dns.horcrux.vip
 dns.hostux.net
 doth.huque.com
@@ -335,7 +340,6 @@ adguard.shuting.idv.tw
 public.dns.iij.jp
 ikarosalpha.xyz
 dns1.in-berlin.de
-adblock.indianets.net
 dns.indybanipal.com
 qlf-doh.inria.fr
 pdns.itxe.net
@@ -410,6 +414,7 @@ family.dns.mullvad.net
 doh.mullvad.net
 adblock.doh.mullvad.net
 dns.feldy.my.id
+dns.lista.my.id
 adblock.mydns.network
 family.mydns.network
 freedom.mydns.network
@@ -423,6 +428,7 @@ dns.nas-server.ru
 dns.ndo.dev
 nenam.eu
 dns.aa.net.uk
+doh.max.net.id
 dns.neutopia.org
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
@@ -461,6 +467,7 @@ dns1.nordvpn.com
 dns2.nordvpn.com
 1.dns.noridev.moe
 dns.novali.date
+dns.novg.net
 ns3.com
 ns3.cx
 ns3.link
@@ -499,6 +506,7 @@ doh.eastus.pi-dns.com
 doh.northeu.pi-dns.com
 doh.westus.pi-dns.com
 dns1.pietjacobs.be
+privacy.plumedns.com
 dns.powerbs.net
 doh.powerdns.org
 lindung.pp.ua
@@ -527,6 +535,7 @@ ns.ral9005.org
 rayneau.fr
 dns.rbn.gr
 dns.reckoningslug.name
+dnspub.restena.lu
 kaitain.restena.lu
 dns.retakecs.com
 basic.rethinkdns.com
@@ -579,7 +588,6 @@ spacedns.org
 doh-01.spectrum.com
 doh-02.spectrum.com
 dns.startupstack.tech
-dns.strassmair.org
 resolver.sunet.se
 sunnygyl.com
 dns.superstefan.win
@@ -607,7 +615,6 @@ adg.tshost.no
 doh.ibr.cs.tu-bs.de
 dns.twnic.tw
 adguard.twotigers.xyz
-dns.txq.life
 doh.umbrella.com
 anycast.uncensoreddns.org
 deic-lgb.anycast.uncensoreddns.org
