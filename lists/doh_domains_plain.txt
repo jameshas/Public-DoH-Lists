@@ -145,6 +145,7 @@ family.cloudflare-dns.com
 mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 dns.cmrg.net
+dns.eliv.co.kr
 dns.neilzone.co.uk
 dns.oliviertv.co.za
 pooblet.co.za
@@ -293,6 +294,7 @@ dns.dotnet.win
 doh.dscloud.me
 dukun.de
 edgy-dns.com
+dns.editechstudio.com
 dns.emiliyan.com
 dns.enzonix.com
 bl.eq.md
@@ -393,6 +395,7 @@ dns.mandre.dev
 doh.manish.ltd
 doh.maskab.com
 masters-of-cloud.de
+dns.mateo.ovh
 adguard.meddy94.de
 dns.meeo.win
 testguard.meexx.de
@@ -415,6 +418,8 @@ doh.mullvad.net
 adblock.doh.mullvad.net
 dns.feldy.my.id
 dns.lista.my.id
+dns.repinger.my.id
+dns.velyn.my.id
 adblock.mydns.network
 family.mydns.network
 freedom.mydns.network
@@ -428,6 +433,8 @@ dns.nas-server.ru
 dns.ndo.dev
 nenam.eu
 dns.aa.net.uk
+doh.infotek.net.id
+doh1.infotek.net.id
 doh.max.net.id
 dns.neutopia.org
 dns1.au.newpangea.de
@@ -547,7 +554,6 @@ dns.rin.sh
 dns.rotunneling.net
 o.rsaikat.com
 au.rslvr.eu
-hk.rslvr.eu
 jp.rslvr.eu
 nl.rslvr.eu
 sg.rslvr.eu
@@ -569,7 +575,6 @@ dns.sarilouis.com
 ns1.sc-lezhi.com
 doh.seby.io
 doh-2.seby.io
-dns.seiffert.me
 dns.sev.monster
 dns.shecan.ir
 free.shecan.ir
@@ -609,6 +614,7 @@ doh.tiarap.org
 jp.tiarap.org
 timmes.nl
 dns.tls-data.de
+ns.trcnet.fi
 truta.org
 dns.tryk.app
 adg.tshost.no
@@ -642,6 +648,9 @@ wikimedia-dns.org
 adb-home.xaoimoon.fr
 doh.xcom.pro
 doh.xfinity.com
+common.dot.dns.yandex.net
+family.dot.dns.yandex.net
+safe.dot.dns.yandex.net
 dns.yatima.tv
 yovbak.com
 dns.daemon.za.net
