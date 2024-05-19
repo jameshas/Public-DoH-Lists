@@ -383,6 +383,7 @@ yarp.lefolgoc.net
 resolver-eu.lelux.fi
 dns.levonet.sk
 doh.libredns.gr
+sby-doh.limotelu.org
 dns.lobbygod.com
 doh.phdns1.lonet.org
 doh.phdns2.lonet.org
@@ -513,6 +514,9 @@ doh.eastus.pi-dns.com
 doh.northeu.pi-dns.com
 doh.westus.pi-dns.com
 dns1.pietjacobs.be
+helios.plan9-dns.com
+kronos.plan9-dns.com
+pluton.plan9-dns.com
 privacy.plumedns.com
 dns.powerbs.net
 doh.powerdns.org
@@ -613,14 +617,17 @@ jp.tiar.app
 doh.tiarap.org
 jp.tiarap.org
 timmes.nl
+tirapan.top
 dns.tls-data.de
+resolv1.trash.net
+resolv2.trash.net
+resolv3.trash.net
 ns.trcnet.fi
 truta.org
 dns.tryk.app
 adg.tshost.no
 doh.ibr.cs.tu-bs.de
 dns.twnic.tw
-adguard.twotigers.xyz
 doh.umbrella.com
 anycast.uncensoreddns.org
 deic-lgb.anycast.uncensoreddns.org
@@ -645,6 +652,7 @@ abel.waringer-atg.de
 dns.warma.me
 dns.engineer.web.id
 wikimedia-dns.org
+dns.wixxm.asia
 adb-home.xaoimoon.fr
 doh.xcom.pro
 doh.xfinity.com
