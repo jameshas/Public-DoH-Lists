@@ -78,7 +78,6 @@ doh1.b-cdn.net
 doh2.b-cdn.net
 b-ii.com
 dns.b612.me
-doh.b86.nl
 dns.baishiyuan.cn
 fr-dns1.bancuh.com
 sg-dns1.bancuh.com
@@ -126,7 +125,6 @@ ibuki.cgnat.net
 dns.chadeyron.fr
 chandr1000.net
 dns.chenu.ch
-doh.cippapp.com
 family.canadianshield.cira.ca
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
@@ -176,7 +174,6 @@ doh.datahata.by
 dns.daw.dev
 dns.decloudus.com
 doh.defaultroutes.de
-dns.dekedin.me
 adguard.lege.despagne.net
 doh-primary-pool.detoxifypornblocker.com
 dns.dev-umbrellagov.com
@@ -383,7 +380,6 @@ yarp.lefolgoc.net
 resolver-eu.lelux.fi
 dns.levonet.sk
 doh.libredns.gr
-sby-doh.limotelu.org
 dns.lobbygod.com
 doh.phdns1.lonet.org
 doh.phdns2.lonet.org
@@ -439,9 +435,8 @@ doh1.infotek.net.id
 doh.max.net.id
 dns.neutopia.org
 dns1.au.newpangea.de
-dns1.cl.newpangea.de
 dns1.in.newpangea.de
-dns1.sg.newpangea.de
+dns1.pl.newpangea.de
 dns1.us.newpangea.de
 doh.luigi.nexific.it
 dns.nextdns.io
@@ -569,7 +564,6 @@ uw-dns.rubyfish.cn
 v6.rubyfish.cn
 adg.rueiliu.space
 rumpelsepp.org
-doh.runsel.id
 dns1.ryan-palmer.com
 safeservedns.com
 doh.safesurfer.io
@@ -641,7 +635,6 @@ dns.uplenk.com
 dns.koala.us.to
 adfree.usableprivacy.net
 doh.valscosmos.com
-vtcuong.site
 dns.wahr.top
 aqua.is.my.waifu.cz
 darkness.is.my.waifu.cz
@@ -649,7 +642,6 @@ megumin.is.my.waifu.cz
 yunyun.is.my.waifu.cz
 dns.wang.art
 abel.waringer-atg.de
-dns.warma.me
 dns.engineer.web.id
 wikimedia-dns.org
 dns.wixxm.asia
