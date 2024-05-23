@@ -315,6 +315,7 @@ cluster-0.gac.edu
 cluster-1.gac.edu
 dns.gamban.com
 getdnsapi.net
+dns.glorydns.com
 dns.gnb09.id
 privacydns.go6lab.si
 dns.google.com
@@ -344,7 +345,6 @@ qlf-doh.inria.fr
 pdns.itxe.net
 ivnkn.xyz
 jackyes.ovh
-dns.janl.eu
 jcdns.fun
 adguard.jfchenier.ca
 opencdn.jomodns.com
@@ -361,6 +361,7 @@ dns.kescher.at
 pihole.aws.ketan.dev
 doh.killtw.im
 blog.kimiblock.top
+noad.kipp.cool
 adguard.konikoni428.com
 doh.kooman.org
 korzhov.dev
@@ -381,6 +382,7 @@ resolver-eu.lelux.fi
 dns.levonet.sk
 doh.libredns.gr
 dns.lobbygod.com
+ca.loii.in
 doh.phdns1.lonet.org
 doh.phdns2.lonet.org
 doh.phdns3.lonet.org
@@ -389,7 +391,6 @@ doh.phdns5.lonet.org
 orau.lz0724.com
 mailkyb.co
 dns.mandre.dev
-doh.manish.ltd
 doh.maskab.com
 masters-of-cloud.de
 dns.mateo.ovh
@@ -415,8 +416,6 @@ doh.mullvad.net
 adblock.doh.mullvad.net
 dns.feldy.my.id
 dns.lista.my.id
-dns.repinger.my.id
-dns.velyn.my.id
 adblock.mydns.network
 family.mydns.network
 freedom.mydns.network
@@ -430,8 +429,6 @@ dns.nas-server.ru
 dns.ndo.dev
 nenam.eu
 dns.aa.net.uk
-doh.infotek.net.id
-doh1.infotek.net.id
 doh.max.net.id
 dns.neutopia.org
 dns1.au.newpangea.de
@@ -552,11 +549,6 @@ resolver.rferee.dev
 dns.rin.sh
 dns.rotunneling.net
 o.rsaikat.com
-au.rslvr.eu
-jp.rslvr.eu
-nl.rslvr.eu
-sg.rslvr.eu
-us.rslvr.eu
 adguard.ruby.ci
 dns.rubyfish.cn
 ea-dns.rubyfish.cn
@@ -580,6 +572,7 @@ pro.shecan.ir
 dns.sheggi.ch
 adguard.shoupperuser.com
 adguard.shutgaming.net
+signsservers.ru
 dns.silen.org
 dns.silentlybren.com
 dns.sitdns.com
