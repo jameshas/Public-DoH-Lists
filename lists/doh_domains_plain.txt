@@ -29,7 +29,6 @@ doh2.abmb.win
 doh.abraservice.xyz
 res-acst3.absolight.net
 resolver3.absolight.net
-adblockersite.com
 adl.adfilter.net
 per.adfilter.net
 syd.adfilter.net
@@ -162,7 +161,6 @@ p3.freedns.controld.com
 uncensored.freedns.controld.com
 doh.cox.net
 dohdot.coxlab.net
-dns.cr4zzy.xyz
 doh.crypto.sx
 doh-ipv6.crypto.sx
 cubedns.com
@@ -294,7 +292,6 @@ edgy-dns.com
 dns.editechstudio.com
 dns.emiliyan.com
 dns.enzonix.com
-bl.eq.md
 dns.fullaccesstointernet.jp.eu.org
 sukidayo.eu.org
 dns.extrawdw.net
@@ -328,7 +325,6 @@ query.hdns.io
 ordns.he.net
 dns.henek.ovh
 dns.hinet.net
-dns.horcrux.vip
 dns.hostux.net
 doth.huque.com
 dns.hypercute.eu
@@ -431,7 +427,6 @@ nenam.eu
 dns.aa.net.uk
 doh.max.net.id
 dns.neutopia.org
-dns1.au.newpangea.de
 dns1.in.newpangea.de
 dns1.pl.newpangea.de
 dns1.us.newpangea.de
