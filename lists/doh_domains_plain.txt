@@ -223,6 +223,7 @@ coe01.dnscry.pt
 cvt01.dnscry.pt
 den01.dnscry.pt
 dfw01.dnscry.pt
+dfw02.dnscry.pt
 dtw01.dnscry.pt
 dub01.dnscry.pt
 dus01.dnscry.pt
@@ -310,9 +311,9 @@ doh.pub
 doh.sb
 doh.xyz
 dns.doh.best
-dns.dotnet.win
 doh.dscloud.me
 dukun.de
+dns.dyn1.de
 edgy-dns.com
 dns.editechstudio.com
 dns.emiliyan.com
@@ -349,6 +350,7 @@ query.hdns.io
 ordns.he.net
 dns.henek.ovh
 dns.hinet.net
+hitian.me
 dns.hostux.net
 doth.huque.com
 dns.hypercute.eu
@@ -373,8 +375,8 @@ dns.jupitrdns.com
 ad.justincounts.com
 dns.kamilszczepanski.com
 dns.karl.one
+dns.kawa.tf
 dns.keke125.com
-doh.kekew.info
 dns.kerekes.xyz
 dns.kernel-error.de
 dns.kescher.at
@@ -393,6 +395,7 @@ dns.kukal.cz
 dns.kusoneko.moe
 dns.l6.ee
 doh.lacontrevoie.fr
+dns.lars-lehmann.net
 lastentarvike.fi
 eu1.dns.lavate.ch
 us1.dns.lavate.ch
@@ -417,6 +420,8 @@ adguard.meddy94.de
 dns.meeo.win
 testguard.meexx.de
 snoke.meganerd.nl
+testaghome.meshkov.info
+muli.stusta.mhn.de
 doh.mmmalia.com
 dns.mnet-online.de
 dns.mni.li
@@ -534,6 +539,7 @@ virga.pp.ua
 dns.pragmasec.nl
 dns.pumplex.com
 dns-privacy.puregeni.us
+vpsus3.pzhg.me
 doh.qis.io
 ns1.qquack.org
 dns.quad9.net
@@ -622,12 +628,12 @@ jp.tiarap.org
 timmes.nl
 tirapan.top
 dns.tls-data.de
+doh.totoro.pub
 resolv1.trash.net
 resolv2.trash.net
 resolv3.trash.net
 ns.trcnet.fi
 truta.org
-dns.tryk.app
 adg.tshost.no
 doh.ibr.cs.tu-bs.de
 dns.twnic.tw
@@ -642,15 +648,18 @@ resolver.unstoppable.io
 dns.unx.io
 dns.uplenk.com
 dns.koala.us.to
+nightlymoon.us.kg
 adfree.usableprivacy.net
 doh.valscosmos.com
+tor.vasi.li
+dns.vinnyp.xyz
 dns.wahr.top
 aqua.is.my.waifu.cz
 darkness.is.my.waifu.cz
 megumin.is.my.waifu.cz
-yunyun.is.my.waifu.cz
 dns.wang.art
 abel.waringer-atg.de
+dns.warpnine.de
 dns.engineer.web.id
 wikimedia-dns.org
 dns.wixxm.asia
@@ -661,6 +670,7 @@ common.dot.dns.yandex.net
 family.dot.dns.yandex.net
 safe.dot.dns.yandex.net
 dns.yatima.tv
+your-dns.run
 yovbak.com
 dns.daemon.za.net
 www.zburger.top
