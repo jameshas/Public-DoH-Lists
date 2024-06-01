@@ -167,6 +167,8 @@ pooblet.co.za
 agh.workfordemo.co.in
 dns.cloud88.com.au
 blackhole.gugainfo.com.br
+dns1.lothuscorp.com.br
+netraptor.com.au
 dns.rkjha.com.np
 doh.viatech.com.tw
 commons.host
@@ -415,6 +417,7 @@ ivnkn.xyz
 jackyes.ovh
 jcdns.fun
 adguard.jfchenier.ca
+dns.jhangy.us
 dns.jinwoo.dev
 jkdns.me
 opencdn.jomodns.com
@@ -444,6 +447,7 @@ dns.kugoapps.com
 dns.kukal.cz
 dns.kusoneko.moe
 agh.kyusang.win
+dns.l337.site
 dns.l6.ee
 doh.lacontrevoie.fr
 dns.lars-lehmann.net
@@ -462,8 +466,8 @@ doh.phdns3.lonet.org
 doh.phdns4.lonet.org
 doh.phdns5.lonet.org
 orau.lz0724.com
+addns1.m-it.ro
 mailkyb.co
-dns.mandre.dev
 doh.maskab.com
 masters-of-cloud.de
 dns.mateo.ovh
@@ -475,12 +479,15 @@ snoke.meganerd.nl
 testaghome.meshkov.info
 muli.stusta.mhn.de
 dns.mikeliu.org
+netcup.mismat.ch
 doh.mmmalia.com
 dns.mnet-online.de
 dns.mni.li
+nue2.moderateinfra.net
 ps1.modr.club
 dot.modsh.top
 dns.molinero.dev
+naganohara-yoimiya.momokko.moe
 ns.mtsoln.com
 dns.mullvad.net
 adblock.dns.mullvad.net
@@ -493,6 +500,7 @@ adblock.doh.mullvad.net
 d.apemlegit.my.id
 dns.feldy.my.id
 dns.lista.my.id
+dns.mikrotikrumahan.my.id
 adblock.mydns.network
 family.mydns.network
 freedom.mydns.network
@@ -551,6 +559,7 @@ ns3.com
 ns3.cx
 ns3.link
 dns.nydau.fr
+5g.o0o.re
 dot.occ.top
 dns.ofdoom.net
 one.one.one.one
@@ -568,6 +577,7 @@ resolver2.opendns.com
 resolver2-fs.opendns.com
 doh.sandbox.opendns.com
 dns.oszx.co
+dns.ours.luxe
 1a.ns.ozer.im
 dns.paesa.es
 dns.panszelescik.pl
@@ -591,6 +601,7 @@ pluton.plan9-dns.com
 privacy.plumedns.com
 dns.powerbs.net
 doh.powerdns.org
+dns.korzhyk.pp.ua
 lindung.pp.ua
 sundalandia.pp.ua
 virga.pp.ua
@@ -661,6 +672,7 @@ dns.silen.org
 dns.silentlybren.com
 dns.sitdns.com
 dns.skrep.eu
+dns.skrzypiec.pl
 dns.slinkyman.net
 dns.smartguard.io
 clientdns3.softcom.net
@@ -732,6 +744,7 @@ dns.warpnine.de
 dns.engineer.web.id
 wikimedia-dns.org
 dns.wixxm.asia
+home.wriedts.de
 adb-home.xaoimoon.fr
 doh.xcom.pro
 doh.xfinity.com
