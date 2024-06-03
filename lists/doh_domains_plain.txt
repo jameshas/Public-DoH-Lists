@@ -30,7 +30,6 @@ adguard.abd.ong
 vps.abgnetwork.es
 doh.abmb.win
 doh2.abmb.win
-vn.dns.abpvn.com
 doh.abraservice.xyz
 res-acst3.absolight.net
 resolver2.absolight.net
@@ -38,6 +37,7 @@ resolver3.absolight.net
 adl.adfilter.net
 per.adfilter.net
 syd.adfilter.net
+adfiltro.fun
 adfreedns.top
 dns.adguard.com
 dns-family.adguard.com
@@ -57,6 +57,8 @@ doh.nl.ahadns.net
 doh.no.ahadns.net
 doh.ny.ahadns.net
 doh.pl.ahadns.net
+hk.ahua.ltd
+albertocognetti.com
 dnsnl.alekberg.net
 dnsnl-noads.alekberg.net
 dnsse.alekberg.net
@@ -117,6 +119,7 @@ dns.brahma.world
 bravedns.com
 basic.bravedns.com
 free.bravedns.com
+dns.bravoc.one
 doh.bt.com
 stratus.bugz.fr
 www.c-dns.com
@@ -157,6 +160,8 @@ dns64.cloudflare-dns.com
 family.cloudflare-dns.com
 mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
+voyage-s01.cloudku.technology
+voyage-s02.cloudku.technology
 adguard.cloudmini.net
 dns.cmrg.net
 www.dnsadguard.co.uk
@@ -166,9 +171,7 @@ dns.oliviertv.co.za
 pooblet.co.za
 agh.workfordemo.co.in
 dns.cloud88.com.au
-blackhole.gugainfo.com.br
 dns1.lothuscorp.com.br
-netraptor.com.au
 dns.rkjha.com.np
 doh.viatech.com.tw
 commons.host
@@ -343,6 +346,8 @@ doh.sb
 doh.buzz
 doh.xyz
 dns.doh.best
+dns.dooks.uk
+dns.doserver.top
 ns1.dotls.org
 server01.dr-adguard.de
 doh.dscloud.me
@@ -361,6 +366,7 @@ shield1.eranext.net
 eth.link
 dns.fullaccesstointernet.jp.eu.org
 sukidayo.eu.org
+dns.everdns.tech
 dns.extrawdw.net
 pdns.faelix.net
 rdns.faelix.net
@@ -393,7 +399,6 @@ query.hdns.io
 ordns.he.net
 dns.henek.ovh
 dns.hinet.net
-hitian.me
 socolov.home.ro
 horus-team.com
 dns.hostux.net
@@ -420,6 +425,7 @@ adguard.jfchenier.ca
 dns.jhangy.us
 dns.jinwoo.dev
 jkdns.me
+ad.johnwick.me
 opencdn.jomodns.com
 addns.jpr.space
 dns.jstockley.com
@@ -435,7 +441,6 @@ dns.kescher.at
 pihole.aws.ketan.dev
 doh.killtw.im
 blog.kimiblock.top
-noad.kipp.cool
 adguard.konikoni428.com
 doh.kooman.org
 korzhov.dev
@@ -454,6 +459,7 @@ dns.lars-lehmann.net
 lastentarvike.fi
 eu1.dns.lavate.ch
 us1.dns.lavate.ch
+adguard.leadseason.eu
 yarp.lefolgoc.net
 resolver-eu.lelux.fi
 dns.levonet.sk
@@ -515,7 +521,6 @@ dns.nas-server.ru
 dns.ndo.dev
 nenam.eu
 dns.aa.net.uk
-doh.max.net.id
 dns.neutopia.org
 dns1.in.newpangea.de
 dns1.pl.newpangea.de
@@ -543,6 +548,7 @@ lux1.nixnet.xyz
 lv1.nixnet.xyz
 ny1.nixnet.xyz
 doh.niyawe.de
+dns.nj0.de
 dns.njal.la
 resolver.noaddns.com
 pi1.node15.com
@@ -560,6 +566,7 @@ ns3.cx
 ns3.link
 dns.nydau.fr
 5g.o0o.re
+dns.oasg.xyz
 dot.occ.top
 dns.ofdoom.net
 one.one.one.one
@@ -579,6 +586,7 @@ doh.sandbox.opendns.com
 dns.oszx.co
 dns.ours.luxe
 1a.ns.ozer.im
+dns.pacificmonster.com
 dns.paesa.es
 dns.panszelescik.pl
 a.passcloud.xyz
@@ -609,8 +617,6 @@ dns.pragmasec.nl
 dns.psociety.de
 dns.pumplex.com
 dns-privacy.puregeni.us
-at.pzhg.me
-vpsus3.pzhg.me
 doh.qis.io
 ns1.qquack.org
 dns.quad9.net
@@ -628,6 +634,7 @@ lion.dns.qwer.pw
 tiger.dns.qwer.pw
 resolver.r0cket.net
 ns.ral9005.org
+la.ray0512.win
 rayneau.fr
 dns.rbn.gr
 dns.reckoningslug.name
@@ -640,6 +647,7 @@ sky.rethinkdns.com
 doh.rezhajul.io
 resolver.rferee.dev
 dns.rin.sh
+dns.rjls.me
 dns.rotunneling.net
 adguard.rowdyengeesje.nl
 o.rsaikat.com
@@ -657,6 +665,9 @@ dns.saneaki.com
 dns.sarak.as
 dns.sarilouis.com
 ns1.sc-lezhi.com
+dns.scarx.net
+filter.das.sch.id
+dns.scuola.org
 doh.seby.io
 doh-2.seby.io
 dns.sev.monster
@@ -671,12 +682,14 @@ signsservers.ru
 dns.silen.org
 dns.silentlybren.com
 dns.sitdns.com
+adg.siudzinski.net
 dns.skrep.eu
 dns.skrzypiec.pl
 dns.slinkyman.net
 dns.smartguard.io
 clientdns3.softcom.net
 spacedns.org
+adguard.sparshbajaj.me
 doh-01.spectrum.com
 doh-02.spectrum.com
 dns.startupstack.tech
@@ -696,8 +709,10 @@ vpn.technicule.info
 dns.technostriker.com
 dns.telekom.de
 dns.tesem.dog
+dns.thebuckners.org
 dns.thegoodsource.net
 dns.therifleman.name
+blocker.thethorsens.org
 doh.tiar.app
 jp.tiar.app
 doh.tiarap.org
@@ -739,15 +754,19 @@ darkness.is.my.waifu.cz
 megumin.is.my.waifu.cz
 dns.wang.art
 wantaquddin.com
+dns.wargan.io
 abel.waringer-atg.de
 dns.warpnine.de
 dns.engineer.web.id
+zuhause.webteufel.net
+resov.wehao.net
 wikimedia-dns.org
 dns.wixxm.asia
 home.wriedts.de
 adb-home.xaoimoon.fr
 doh.xcom.pro
 doh.xfinity.com
+v2.xx3210766.live
 common.dot.dns.yandex.net
 family.dot.dns.yandex.net
 safe.dot.dns.yandex.net
@@ -755,6 +774,7 @@ dns.yatima.tv
 dns.yingroad.top
 your-dns.run
 yovbak.com
+dns.yumenashyi.com
 dns.daemon.za.net
 www.zburger.top
 adguard-kartoffel.zernico.de
