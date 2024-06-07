@@ -19,6 +19,7 @@ doh.360.cn
 dns.4-the.win
 doh.42l.fr
 dns.52306.org
+dns.56k.uy
 family.5ososea.com
 kids.5ososea.com
 8888.google
@@ -57,7 +58,6 @@ doh.no.ahadns.net
 doh.ny.ahadns.net
 doh.pl.ahadns.net
 hk.ahua.ltd
-albertocognetti.com
 dnsnl.alekberg.net
 dnsnl-noads.alekberg.net
 dnsse.alekberg.net
@@ -166,7 +166,6 @@ adguard.cloudmini.net
 dns.cmrg.net
 www.dnsadguard.co.uk
 dns.eliv.co.kr
-dns.neilzone.co.uk
 dns.oliviertv.co.za
 pooblet.co.za
 agh.workfordemo.co.in
@@ -359,6 +358,7 @@ doh.dscloud.me
 agh.dshubham.xyz
 dukun.de
 dns.dyn1.de
+doh.eddi.net
 edgy-dns.com
 dns.edison42.dev
 dns.editechstudio.com
@@ -386,6 +386,7 @@ dns.freyja.pw
 dns.froth.zone
 awan.ftp.sh
 doh.futa.gg
+doh.futa.app
 cluster-0.gac.edu
 cluster-1.gac.edu
 dns.gamban.com
@@ -409,6 +410,7 @@ horus-team.com
 dns.hostux.net
 dns.huas.me
 doth.huque.com
+dns.hyas.com
 dns.hypercute.eu
 opennic.i2pd.xyz
 dns.ian.rocks
@@ -520,6 +522,7 @@ dns.feldy.my.id
 dns.iki.my.id
 dns.lista.my.id
 dns.mikrotikrumahan.my.id
+dns.repinger.my.id
 adblock.mydns.network
 family.mydns.network
 freedom.mydns.network
@@ -535,8 +538,9 @@ dns.ndo.dev
 nenam.eu
 dns.aa.net.uk
 dns.neutopia.org
+dns1.au.newpangea.de
 dns1.in.newpangea.de
-dns1.pl.newpangea.de
+dns1.sg.newpangea.de
 dns1.us.newpangea.de
 doh.luigi.nexific.it
 dns.nextdns.io
@@ -742,7 +746,6 @@ timmes.nl
 dns.tipsy.coffee
 tirapan.top
 dns.tls-data.de
-d.toairs.com
 resolv1.trash.net
 resolv2.trash.net
 resolv3.trash.net
@@ -767,7 +770,7 @@ nightlymoon.us.kg
 adfree.usableprivacy.net
 doh.valscosmos.com
 tor.vasi.li
-dns.vinnyp.xyz
+dns.wael.name
 dns.wahr.top
 aqua.is.my.waifu.cz
 darkness.is.my.waifu.cz
@@ -780,6 +783,7 @@ dns.warpnine.de
 dns.engineer.web.id
 zuhause.webteufel.net
 resov.wehao.net
+doh-rs.whalebone.io
 wikimedia-dns.org
 home.wriedts.de
 adb-home.xaoimoon.fr
@@ -794,7 +798,7 @@ dns.yingroad.top
 your-dns.run
 yovbak.com
 dns.yumenashyi.com
-dns.daemon.za.net
 www.zburger.top
+zdn.ro
 adguard-kartoffel.zernico.de
 doh.zln.wtf
