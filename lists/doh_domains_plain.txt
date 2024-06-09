@@ -23,6 +23,7 @@ dns.56k.uy
 family.5ososea.com
 kids.5ososea.com
 8888.google
+doh.978159.xyz
 dns.9999.sg
 dns.a47.me
 doh.aaaab3n.moe
@@ -32,8 +33,10 @@ doh.abmb.win
 doh2.abmb.win
 doh.abraservice.xyz
 res-acst3.absolight.net
+resolver1.absolight.net
 resolver2.absolight.net
 resolver3.absolight.net
+doh.iucc.ac.il
 adl.adfilter.net
 per.adfilter.net
 syd.adfilter.net
@@ -58,6 +61,7 @@ doh.no.ahadns.net
 doh.ny.ahadns.net
 doh.pl.ahadns.net
 hk.ahua.ltd
+doh.airwaynet.cz
 dnsnl.alekberg.net
 dnsnl-noads.alekberg.net
 dnsse.alekberg.net
@@ -79,6 +83,7 @@ doh.appliedprivacy.net
 dns.aquilenet.fr
 dns.arapurayil.com
 doh.archuser.org
+nsec.arnor.org
 dns.artikel10.org
 dns.asterimoon.com
 dandelionsprout.asuscomm.com
@@ -108,6 +113,7 @@ doh-jp.blahdns.com
 doh-sg.blahdns.com
 doh1.blahdns.com
 doh2.blahdns.com
+us1.blissdns.net
 dns.blokada.org
 bluemood.me
 doh.boje8.me
@@ -128,6 +134,7 @@ dns.carson-family.com
 dns.carter.me
 catdns.org
 doh.ccb-net.it
+dns.cctld.kg
 anycast.censurfridns.dk
 deic-lgb.anycast.censurfridns.dk
 deic-ore.anycast.censurfridns.dk
@@ -136,6 +143,7 @@ rgnet-iad.anycast.censurfridns.dk
 unicast.censurfridns.dk
 dns.cfiec.net
 ibuki.cgnat.net
+dns.ch6se.com
 dns.chadeyron.fr
 chandr1000.net
 dns.chenu.ch
@@ -186,6 +194,7 @@ p3.freedns.controld.com
 uncensored.freedns.controld.com
 dns.cooluc.com
 doh.cornes.me
+resolve.corpa.me
 doh.cox.net
 dohdot.coxlab.net
 dns.cretu.xyz
@@ -202,6 +211,7 @@ dns.daw.dev
 dns.decky.eu
 dns.decloudus.com
 doh.defaultroutes.de
+doh.denypradana.com
 adguard.lege.despagne.net
 doh-primary-pool.detoxifypornblocker.com
 dns.dev-umbrellagov.com
@@ -340,6 +350,7 @@ b.family.ns.dnslify.com
 a.safe.ns.dnslify.com
 b.safe.ns.dnslify.com
 dnslow.me
+dnssilo.top
 dns.dnswarden.com
 doh.dnswarden.com
 dnswebvsn.com
@@ -351,7 +362,6 @@ doh.buzz
 doh.xyz
 dns.doh.best
 dns.dooks.uk
-dns.doserver.top
 ns1.dotls.org
 server01.dr-adguard.de
 doh.dscloud.me
@@ -367,6 +377,7 @@ dns.electrotm.org
 eliatofani.ovh
 dns.emiliyan.com
 dns.enzonix.com
+agh.ero-sayhi.com
 dns.esnube.es
 eth.link
 dns.fullaccesstointernet.jp.eu.org
@@ -385,6 +396,7 @@ dns01.flm9.net
 dns.freyja.pw
 dns.froth.zone
 awan.ftp.sh
+doh.funil.de
 doh.futa.gg
 doh.futa.app
 cluster-0.gac.edu
@@ -401,6 +413,7 @@ google-public-dns-b.google.com
 jp.gridns.xyz
 dns.guard.io
 dns.hahnjo.de
+dns1.hanahira.dev
 query.hdns.io
 ordns.he.net
 dns.henek.ovh
@@ -447,6 +460,7 @@ dns.karfamily.net
 dns.karl.one
 dns.kawa.tf
 dns.keke125.com
+doh.kel.pe
 dns.kerekes.xyz
 dns.kernel-error.de
 dns.kescher.at
@@ -484,7 +498,6 @@ doh.phdns3.lonet.org
 doh.phdns4.lonet.org
 doh.phdns5.lonet.org
 orau.lz0724.com
-addns1.m-it.ro
 mailkyb.co
 doh.manish.ltd
 doh.maskab.com
@@ -523,6 +536,7 @@ dns.iki.my.id
 dns.lista.my.id
 dns.mikrotikrumahan.my.id
 dns.repinger.my.id
+dns.velyn.my.id
 adblock.mydns.network
 family.mydns.network
 freedom.mydns.network
@@ -536,11 +550,11 @@ dns.narl.app
 dns.nas-server.ru
 dns.ndo.dev
 nenam.eu
+dns.neowutran.ovh
 dns.aa.net.uk
 dns.neutopia.org
 dns1.au.newpangea.de
 dns1.in.newpangea.de
-dns1.sg.newpangea.de
 dns1.us.newpangea.de
 doh.luigi.nexific.it
 dns.nextdns.io
@@ -553,6 +567,8 @@ dns.nhtsky.com
 doh.nic.lv
 odvr.nic.cz
 dns1.nielsdb.be
+dns.ningkelle.id
+family.dns.ningkelle.id
 adblock.any.dns.nixnet.xyz
 uncensored.any.dns.nixnet.xyz
 adblock.lux1.dns.nixnet.xyz
@@ -654,6 +670,7 @@ frog.dns.qwer.pw
 lion.dns.qwer.pw
 tiger.dns.qwer.pw
 resolver.r0cket.net
+dns.rafn.is
 ns.ral9005.org
 la.ray0512.win
 rayneau.fr
@@ -729,6 +746,7 @@ ibksturm.synology.me
 ihctw.synology.me
 doh.syshero.org
 dns.t53.de
+adguard.tcpu.io
 vpn.technicule.info
 dns.technostriker.com
 dns.telekom.de
@@ -768,6 +786,7 @@ dns.uplenk.com
 dns.koala.us.to
 nightlymoon.us.kg
 adfree.usableprivacy.net
+outdoor.v6.army
 doh.valscosmos.com
 tor.vasi.li
 dns.wael.name
