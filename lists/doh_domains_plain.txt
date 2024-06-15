@@ -68,7 +68,6 @@ dnsse.alekberg.net
 dnsse-noads.alekberg.net
 dns.alidns.com
 mailer.amlegion.org
-doh.amonsul.net
 dns.andrewnw.xyz
 secure.anudeep.me
 doh.apad.pro
@@ -88,7 +87,6 @@ dandelionsprout.asuscomm.com
 dohtrial.att.net
 secure.avastdns.com
 adguard.avdkishore.dev
-dns.axto.me
 ayasesayuki.shop
 doh1.b-cdn.net
 doh2.b-cdn.net
@@ -177,7 +175,6 @@ dns.oliviertv.co.za
 pooblet.co.za
 agh.workfordemo.co.in
 dns1.lothuscorp.com.br
-dns.rkjha.com.np
 doh.viatech.com.tw
 commons.host
 dns.comss.one
@@ -211,7 +208,6 @@ doh.datahata.by
 dns.daw.dev
 dns.decky.eu
 dns.decloudus.com
-public.deepdns.net
 doh.defaultroutes.de
 doh.denypradana.com
 adguard.lege.despagne.net
@@ -368,7 +364,6 @@ server01.dr-adguard.de
 doh.dscloud.me
 agh.dshubham.xyz
 dukun.de
-dns.dyn1.de
 doh.eddi.net
 edgy-dns.com
 dns.edison42.dev
@@ -449,7 +444,6 @@ dns.janl.eu
 jcdns.fun
 adguard.jfchenier.ca
 dns.jhangy.us
-dns.jinwoo.dev
 jkdns.me
 ad.johnwick.me
 opencdn.jomodns.com
@@ -801,15 +795,12 @@ adfree.usableprivacy.net
 dns.utangard.net
 tor.vasi.li
 dns.wael.name
-dns.wahr.top
 aqua.is.my.waifu.cz
 darkness.is.my.waifu.cz
 megumin.is.my.waifu.cz
 dns.wang.art
-wantaquddin.com
 dns.wargan.io
 abel.waringer-atg.de
-dns.warpnine.de
 dns.engineer.web.id
 doh.webnmail.de
 zuhause.webteufel.net
