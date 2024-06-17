@@ -32,7 +32,6 @@ doh.dns.apple.com.v.aaplimg.com
 adguard.abd.ong
 doh.abmb.win
 doh2.abmb.win
-doh.abraservice.xyz
 res-acst3.absolight.net
 resolver1.absolight.net
 resolver2.absolight.net
@@ -61,7 +60,6 @@ doh.nl.ahadns.net
 doh.no.ahadns.net
 doh.ny.ahadns.net
 doh.pl.ahadns.net
-doh.airwaynet.cz
 dnsnl.alekberg.net
 dnsnl-noads.alekberg.net
 dnsse.alekberg.net
@@ -168,7 +166,6 @@ mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 voyage-s01.cloudku.technology
 voyage-s02.cloudku.technology
-adguard.cloudmini.net
 dns.cmrg.net
 dns.eliv.co.kr
 dns.oliviertv.co.za
@@ -192,7 +189,6 @@ doh.cornes.me
 resolve.corpa.me
 doh.cox.net
 dohdot.coxlab.net
-dns.cretu.xyz
 doh.crypto.sx
 doh-ipv6.crypto.sx
 dns.csa-rz.de
@@ -544,7 +540,6 @@ blackhole.myon.lu
 n0.eu
 dns.n23.io
 doh-ca.naftalie.net
-adguard.quydang.name.vn
 dns.narl.app
 dns.nas-server.ru
 dns.ndo.dev
@@ -672,7 +667,6 @@ frog.dns.qwer.pw
 lion.dns.qwer.pw
 tiger.dns.qwer.pw
 resolver.r0cket.net
-dns.rafn.is
 ns.ral9005.org
 la.ray0512.win
 rayneau.fr
@@ -805,7 +799,6 @@ dns.engineer.web.id
 doh.webnmail.de
 zuhause.webteufel.net
 resov.wehao.net
-doh-rs.whalebone.io
 wikimedia-dns.org
 dns-1.wil.cloud
 dns-2.wil.cloud
