@@ -49,7 +49,6 @@ dns.adguard-dns.com
 family.adguard-dns.com
 unfiltered.adguard-dns.com
 dns.adrianlam.com
-testadguardhome.adtidy.net
 blitz.ahadns.com
 doh.chi.ahadns.net
 doh.es.ahadns.net
@@ -75,7 +74,6 @@ dns.applewebkit.dev
 applied-privacy.net
 doh.applied-privacy.net
 doh.appliedprivacy.net
-dns.aquilenet.fr
 dns.arapurayil.com
 doh.archuser.org
 nsec.arnor.org
@@ -140,8 +138,6 @@ unicast.censurfridns.dk
 dns.cert.ee
 dns.cfiec.net
 ibuki.cgnat.net
-dns.ch6se.com
-dns.chadeyron.fr
 chandr1000.net
 dns.chenu.ch
 oraclejp2.chungyu.com
@@ -345,7 +341,6 @@ b.safe.ns.dnslify.com
 dnslow.me
 dns.dnswarden.com
 doh.dnswarden.com
-dnswebvsn.com
 doh.li
 doh.lv
 doh.pub
@@ -383,7 +378,6 @@ ns1.fdn.fr
 ag.ff0x.ca
 doh.ffmuc.net
 dns01.flm9.net
-adguard.foxcross.de
 dns.freyja.pw
 dns.froth.zone
 awan.ftp.sh
@@ -426,7 +420,6 @@ public.dns.iij.jp
 ikarosalpha.xyz
 dns.immanuelschaffer.de
 dns1.in-berlin.de
-adblock.indianets.net
 dns.indybanipal.com
 dns.inforlogia.com
 qlf-doh.inria.fr
@@ -447,7 +440,6 @@ dns.jstockley.com
 dns.jupitrdns.com
 ad.justincounts.com
 dns.kamilszczepanski.com
-dns.karfamily.net
 dns.karl.one
 dns.kawa.tf
 dns.keke125.com
@@ -471,8 +463,6 @@ dns.kukal.cz
 dns.kusoneko.moe
 dns.kuuhaku.moe
 agh.kyusang.win
-dns.l337.site
-dns.l6.ee
 doh.lacontrevoie.fr
 dns.lars-lehmann.net
 lastentarvike.fi
@@ -612,7 +602,6 @@ ns1.opennameserver.org
 ns3.opennameserver.org
 ns4.opennameserver.org
 dns.oszx.co
-dns.ours.luxe
 1a.ns.ozer.im
 dns.pacificmonster.com
 dns.paesa.es
@@ -623,7 +612,6 @@ doh.gcp.pathofgrace.com
 dns.pccoach.nl
 rpz-public-resolver1.rrdns.pch.net
 darya.persiannit.net
-dns.pesaventofilippo.com
 dns.phillipjberry.net
 doh.centraleu.pi-dns.com
 doh.eastas.pi-dns.com
@@ -638,7 +626,6 @@ kronos.plan9-dns.com
 pluton.plan9-dns.com
 dns.ple91.uk
 privacy.plumedns.com
-dns.powerbs.net
 doh.powerdns.org
 dns.korzhyk.pp.ua
 lindung.pp.ua
@@ -693,7 +680,6 @@ dns.rubyfish.cn
 ea-dns.rubyfish.cn
 uw-dns.rubyfish.cn
 v6.rubyfish.cn
-adg.rueiliu.space
 rumpelsepp.org
 doh.runsel.id
 dns1.ryan-palmer.com
@@ -786,9 +772,7 @@ luna-is.so-gorgeo.us.kg
 nana-is.so-gorgeo.us.kg
 tetty-is.so-gorgeo.us.kg
 adfree.usableprivacy.net
-dns.utangard.net
 tor.vasi.li
-dns.wael.name
 aqua.is.my.waifu.cz
 darkness.is.my.waifu.cz
 megumin.is.my.waifu.cz
