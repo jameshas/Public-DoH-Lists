@@ -22,7 +22,6 @@ dns.52306.org
 dns.56k.uy
 family.5ososea.com
 kids.5ososea.com
-dns.886886886.xyz
 8888.google
 doh.978159.xyz
 dns.9999.sg
@@ -201,6 +200,7 @@ dns.daw.dev
 dns.decky.eu
 dns.decloudus.com
 doh.defaultroutes.de
+delegated-ipfs.dev
 doh.denypradana.com
 adguard.lege.despagne.net
 doh-primary-pool.detoxifypornblocker.com
@@ -295,7 +295,6 @@ nue01.dnscry.pt
 nyc01.dnscry.pt
 omr01.dnscry.pt
 ord01.dnscry.pt
-ott01.dnscry.pt
 par01.dnscry.pt
 pdx01.dnscry.pt
 ped01.dnscry.pt
@@ -428,7 +427,6 @@ pdns.itxe.net
 ivnkn.xyz
 www.jabber-germany.de
 jackyes.ovh
-adguard.jakinet.id
 dns.janl.eu
 jcdns.fun
 adguard.jfchenier.ca
@@ -609,7 +607,6 @@ dns.panszelescik.pl
 a.passcloud.xyz
 i.passcloud.xyz
 doh.gcp.pathofgrace.com
-dns.pccoach.nl
 rpz-public-resolver1.rrdns.pch.net
 darya.persiannit.net
 dns.phillipjberry.net
@@ -764,7 +761,6 @@ kracon.anycast.uncensoreddns.org
 rgnet-iad.anycast.uncensoreddns.org
 unicast.uncensoreddns.org
 resolver.unstoppable.io
-dns.unx.io
 dns.uplenk.com
 dns.koala.us.to
 nightlymoon.us.kg
