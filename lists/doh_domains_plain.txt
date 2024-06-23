@@ -159,8 +159,6 @@ dns64.cloudflare-dns.com
 family.cloudflare-dns.com
 mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
-voyage-s01.cloudku.technology
-voyage-s02.cloudku.technology
 dns.cmrg.net
 dns.eliv.co.kr
 dns.oliviertv.co.za
@@ -346,6 +344,7 @@ doh.pub
 doh.sb
 doh.beauty
 doh.buzz
+doh.pink
 doh.xyz
 dns.doh.best
 dns.dooks.uk
@@ -518,7 +517,6 @@ dns.feldy.my.id
 dns.iki.my.id
 dns.lista.my.id
 dns.mikrotikrumahan.my.id
-dns.repinger.my.id
 dns.velyn.my.id
 adblock.mydns.network
 family.mydns.network
@@ -533,7 +531,6 @@ dns.nas-server.ru
 dns.ndo.dev
 dns.neowutran.ovh
 dns.aa.net.uk
-adguard.netkolik.org
 dns.neutopia.org
 dns1.au.newpangea.de
 dns1.us.newpangea.de
@@ -658,6 +655,7 @@ dns.rbn.gr
 dns.reckoningslug.name
 adguard.relskor.com
 dns.renardyre.com
+dns.repinger.com
 dnspub.restena.lu
 kaitain.restena.lu
 dns.retakecs.com
@@ -694,6 +692,7 @@ doh-2.seby.io
 dns.sec511.com
 dns.seiffert.me
 dns.sev.monster
+dns.shaftinc.fr
 dns.shecan.ir
 free.shecan.ir
 pro.shecan.ir
@@ -736,7 +735,6 @@ dns.thebuckners.org
 guard.thefather.cloud
 dns.thegoodsource.net
 dns.therifleman.name
-blocker.thethorsens.org
 doh.tiar.app
 jp.tiar.app
 doh.tiarap.org
