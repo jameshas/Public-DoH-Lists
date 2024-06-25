@@ -457,7 +457,6 @@ pdns.krctechnologies.net
 xray.krnl.eu
 dns.kugoapps.com
 dns.kukal.cz
-dns.kusoneko.moe
 dns.kuuhaku.moe
 agh.kyusang.win
 doh.lacontrevoie.fr
@@ -482,7 +481,6 @@ doh.phdns4.lonet.org
 doh.phdns5.lonet.org
 orau.lz0724.com
 mailkyb.co
-doh.manish.ltd
 doh.maskab.com
 masters-of-cloud.de
 dns.mateo.ovh
@@ -576,7 +574,6 @@ ns3.com
 ns3.cx
 ns3.link
 5g.o0o.re
-dns.oasg.xyz
 dot.occ.top
 dns.ofdoom.net
 one.one.one.one
@@ -767,7 +764,6 @@ nana-is.so-gorgeo.us.kg
 tetty-is.so-gorgeo.us.kg
 adfree.usableprivacy.net
 tor.vasi.li
-aqua.is.my.waifu.cz
 darkness.is.my.waifu.cz
 megumin.is.my.waifu.cz
 dns.wang.art
