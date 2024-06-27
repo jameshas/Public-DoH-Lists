@@ -22,6 +22,7 @@ dns.52306.org
 dns.56k.uy
 family.5ososea.com
 kids.5ososea.com
+doh.5u3.org
 8888.google
 doh.978159.xyz
 dns.9999.sg
@@ -48,6 +49,8 @@ dns.adguard-dns.com
 family.adguard-dns.com
 unfiltered.adguard-dns.com
 dns.adrianlam.com
+aerodrorne.live
+aerodrorne.vip
 blitz.ahadns.com
 doh.chi.ahadns.net
 doh.es.ahadns.net
@@ -247,7 +250,6 @@ asia.dnscepat.id
 eropa.dnscepat.id
 abe01.dnscry.pt
 abn01.dnscry.pt
-adl01.dnscry.pt
 ams01.dnscry.pt
 ams02.dnscry.pt
 ath01.dnscry.pt
@@ -295,7 +297,6 @@ omr01.dnscry.pt
 ord01.dnscry.pt
 par01.dnscry.pt
 pdx01.dnscry.pt
-ped01.dnscry.pt
 phl01.dnscry.pt
 phx01.dnscry.pt
 rdu01.dnscry.pt
@@ -437,6 +438,7 @@ dns.jstockley.com
 dns.jupitrdns.com
 ad.justincounts.com
 dns.kamilszczepanski.com
+dns.kapite.in
 dns.karl.one
 dns.kawa.tf
 dns.keke125.com
@@ -493,6 +495,7 @@ testaghome.meshkov.info
 muli.stusta.mhn.de
 mikatos.de
 dns.mikeliu.org
+dns.milftech.xyz
 netcup.mismat.ch
 doh.mmmalia.com
 dns.mnet-online.de
@@ -568,11 +571,11 @@ dns2.nordvpn.com
 2.dns.noridev.moe
 dns.novali.date
 dns.novg.net
-dns.npe.bz
 dns.npsolution.it
 ns3.com
 ns3.cx
 ns3.link
+dns.numerus.com
 5g.o0o.re
 dot.occ.top
 dns.ofdoom.net
@@ -615,7 +618,6 @@ doh.plaawan.uk
 helios.plan9-dns.com
 kronos.plan9-dns.com
 pluton.plan9-dns.com
-dns.ple91.uk
 privacy.plumedns.com
 doh.powerdns.org
 dns.korzhyk.pp.ua
@@ -665,7 +667,6 @@ dns.richoux.me
 dns.rin.sh
 dns.rjls.me
 dns.rotunneling.net
-adguard.rowdyengeesje.nl
 o.rsaikat.com
 adguard.ruby.ci
 dns.rubyfish.cn
@@ -673,7 +674,6 @@ ea-dns.rubyfish.cn
 uw-dns.rubyfish.cn
 v6.rubyfish.cn
 rumpelsepp.org
-doh.runsel.id
 dns1.ryan-palmer.com
 safeservedns.com
 doh.safesurfer.io
@@ -683,7 +683,6 @@ dns.sarilouis.com
 ns1.sc-lezhi.com
 dns.scarx.net
 filter.das.sch.id
-adguard.sealyserver.com
 doh.seby.io
 doh-2.seby.io
 dns.sec511.com
@@ -729,8 +728,6 @@ dns.technostriker.com
 dns.telekom.de
 dns.tesem.dog
 dns.thebuckners.org
-guard.thefather.cloud
-dns.thegoodsource.net
 dns.therifleman.name
 doh.tiar.app
 jp.tiar.app
@@ -755,6 +752,7 @@ deic-ore.anycast.uncensoreddns.org
 kracon.anycast.uncensoreddns.org
 rgnet-iad.anycast.uncensoreddns.org
 unicast.uncensoreddns.org
+uni5wap.info
 resolver.unstoppable.io
 dns.uplenk.com
 dns.koala.us.to
