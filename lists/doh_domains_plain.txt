@@ -70,6 +70,7 @@ dnsse-noads.alekberg.net
 dns.alidns.com
 mailer.amlegion.org
 dns.andrewnw.xyz
+doh.angry.im
 secure.anudeep.me
 doh.apad.pro
 ag.apollohct.com
@@ -175,7 +176,6 @@ dns.oliviertv.co.za
 pooblet.co.za
 agh.workfordemo.co.in
 dns1.lothuscorp.com.br
-doh.viatech.com.tw
 commons.host
 dns.comss.one
 dns.east.comss.one
@@ -358,6 +358,7 @@ doh.lv
 doh.pub
 doh.sb
 doh.beauty
+doh.best
 doh.buzz
 doh.pink
 doh.xyz
@@ -386,12 +387,14 @@ sukidayo.eu.org
 dns.extrawdw.net
 pdns.faelix.net
 rdns.faelix.net
+dns.faked.org
 dnsvps.familiamv.net
 dns.fancyorg.at
 ns0.fdn.fr
 ns1.fdn.fr
 ag.ff0x.ca
 doh.ffmuc.net
+dns.fizz.studio
 dns01.flm9.net
 biying.flymlc.com
 dns.freyja.pw
@@ -422,7 +425,6 @@ query.hdns.io
 ordns.he.net
 dns.henek.ovh
 dns.hinet.net
-horus-team.com
 dns.hostux.net
 dns.huas.me
 doth.huque.com
@@ -441,6 +443,7 @@ dns.indybanipal.com
 dns.inforlogia.com
 qlf-doh.inria.fr
 dns.cloud.ionutl.ro
+dns.ipoac.nl
 pdns.itxe.net
 ivnkn.xyz
 www.jabber-germany.de
@@ -453,7 +456,6 @@ jkdns.me
 ad.johnwick.me
 opencdn.jomodns.com
 dns.jstockley.com
-doh.jtcargokebumen.com
 dns.jupitrdns.com
 ad.justincounts.com
 dns.kamilszczepanski.com
@@ -491,8 +493,10 @@ yarp.lefolgoc.net
 resolver-eu.lelux.fi
 dns.levonet.sk
 doh.libredns.gr
+doh.linngde.com
 africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
+loadlow.me
 dns.lobbygod.com
 ca.loii.in
 doh.phdns1.lonet.org
@@ -501,6 +505,7 @@ doh.phdns3.lonet.org
 doh.phdns4.lonet.org
 doh.phdns5.lonet.org
 orau.lz0724.com
+maherhost.uk
 mailkyb.co
 doh.maskab.com
 masters-of-cloud.de
@@ -519,6 +524,7 @@ netcup.mismat.ch
 doh.mmmalia.com
 dns.mnet-online.de
 dns.mni.li
+mnrv.trade
 nue2.moderateinfra.net
 ps1.modr.club
 dot.modsh.top
@@ -536,7 +542,6 @@ doh.mullvad.net
 adblock.doh.mullvad.net
 antarlangit.my.id
 dns.feldy.my.id
-dns.iki.my.id
 dns.lista.my.id
 dns.mikrotikrumahan.my.id
 dns.velyn.my.id
@@ -598,8 +603,6 @@ dns.ndo.dev
 dns.neowutran.ovh
 dns.aa.net.uk
 dns.neutopia.org
-dns1.au.newpangea.de
-dns1.us.newpangea.de
 doh.luigi.nexific.it
 dns.nextdns.io
 anycast.dns.nextdns.io
@@ -610,6 +613,7 @@ dns2.nextdns.io
 dns.nhtsky.com
 doh.nic.lv
 odvr.nic.cz
+dns.nick-slowinski.de
 dns1.nielsdb.be
 adblock.any.dns.nixnet.xyz
 uncensored.any.dns.nixnet.xyz
@@ -643,6 +647,7 @@ ns3.link
 dns.numerus.com
 5g.o0o.re
 dot.occ.top
+dns.odinpl.com
 dns.ofdoom.net
 one.one.one.one
 doh.onedns.net
@@ -713,6 +718,9 @@ frog.dns.qwer.pw
 lion.dns.qwer.pw
 tiger.dns.qwer.pw
 resolver.r0cket.net
+dns.rabbitdns.org
+family.rabbitdns.org
+security.rabbitdns.org
 ns.ral9005.org
 la.ray0512.win
 rayneau.fr
@@ -779,6 +787,7 @@ doh-01.spectrum.com
 doh-02.spectrum.com
 dns.startupstack.tech
 dns.stevenz.net
+dns.stirringphoto.com
 adguard.streamlas.fr
 dns.suhaila.dev
 resolver.sunet.se
@@ -802,6 +811,7 @@ doh.tiar.app
 jp.tiar.app
 doh.tiarap.org
 jp.tiarap.org
+dns.tierradeayala.com
 timmes.nl
 dns.tipsy.coffee
 tirapan.top
@@ -831,7 +841,10 @@ nana-is.so-gorgeo.us.kg
 tetty-is.so-gorgeo.us.kg
 adfree.usableprivacy.net
 tor.vasi.li
+dns.vojtat.cz
+dns.volatile.ovh
 bigora2.vuhai.de
+dns.w3ctag.org
 darkness.is.my.waifu.cz
 megumin.is.my.waifu.cz
 dns.wang.art
