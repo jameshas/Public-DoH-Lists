@@ -374,10 +374,8 @@ edgy-dns.com
 dns.edison42.dev
 dns.editechstudio.com
 hole.elbschloss.xyz
-dns.electrotm.org
 eliatofani.ovh
 dns.emiliyan.com
-home.enjoymylife.net
 agh.ero-sayhi.com
 dns.esnube.es
 eth.link
@@ -788,7 +786,6 @@ doh-02.spectrum.com
 dns.startupstack.tech
 dns.stevenz.net
 dns.stirringphoto.com
-adguard.streamlas.fr
 dns.suhaila.dev
 resolver.sunet.se
 sunnygyl.com
