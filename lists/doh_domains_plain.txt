@@ -25,7 +25,6 @@ dns.52306.org
 dns.56k.uy
 family.5ososea.com
 kids.5ososea.com
-doh.5u3.org
 8888.google
 doh.978159.xyz
 dns.9999.sg
@@ -53,6 +52,8 @@ family.adguard-dns.com
 unfiltered.adguard-dns.com
 dns.adrianlam.com
 aerodrorne.vip
+affcdn.net
+affsoft.cc
 blitz.ahadns.com
 doh.chi.ahadns.net
 doh.es.ahadns.net
@@ -63,6 +64,7 @@ doh.nl.ahadns.net
 doh.no.ahadns.net
 doh.ny.ahadns.net
 doh.pl.ahadns.net
+ahoj.email
 dnsnl.alekberg.net
 dnsnl-noads.alekberg.net
 dnsse.alekberg.net
@@ -93,11 +95,11 @@ ayasesayuki.shop
 doh1.b-cdn.net
 doh2.b-cdn.net
 b-ii.com
-dns.b33.network
 dns.b612.me
 dns.baishiyuan.cn
 fr-dns1.bancuh.com
 sg-dns1.bancuh.com
+dns.beardic.cn
 antivirus.bebasid.com
 dns.bebasid.com
 internetsehat.bebasid.com
@@ -126,8 +128,9 @@ bravedns.com
 basic.bravedns.com
 free.bravedns.com
 dns.bravoc.one
+dns.brian-wee.com
 doh.bt.com
-btb.dog
+bth.dance
 stratus.bugz.fr
 dns.busold.ws
 www.c-dns.com
@@ -172,6 +175,7 @@ mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 dns.cmrg.net
 dns.eliv.co.kr
+dns.gayanalysing.co.uk
 dns.oliviertv.co.za
 pooblet.co.za
 agh.workfordemo.co.in
@@ -192,6 +196,7 @@ doh.cornes.me
 resolve.corpa.me
 doh.cox.net
 dohdot.coxlab.net
+dns.criena.net
 doh.crypto.sx
 doh-ipv6.crypto.sx
 dns.csa-rz.de
@@ -369,6 +374,7 @@ server01.dr-adguard.de
 doh.dscloud.me
 agh.dshubham.xyz
 dukun.de
+ns1.e-virtus.com
 doh.eddi.net
 edgy-dns.com
 dns.edison42.dev
@@ -386,6 +392,7 @@ dns.extrawdw.net
 pdns.faelix.net
 rdns.faelix.net
 dns.faked.org
+dns.falkenthal.org
 dnsvps.familiamv.net
 dns.fancyorg.at
 ns0.fdn.fr
@@ -418,7 +425,6 @@ secure-dns.gridlax.com
 jp.gridns.xyz
 dns.guard.io
 dns.hahnjo.de
-dns1.hanahira.dev
 query.hdns.io
 ordns.he.net
 dns.henek.ovh
@@ -450,6 +456,7 @@ dns.janl.eu
 jcdns.fun
 adguard.jfchenier.ca
 dns.jhangy.us
+dns.jichi.io
 jkdns.me
 ad.johnwick.me
 opencdn.jomodns.com
@@ -479,7 +486,6 @@ dart.kpsn.org
 pdns.krctechnologies.net
 xray.krnl.eu
 dns.kugoapps.com
-dns.kukal.cz
 dns.kuuhaku.moe
 agh.kyusang.win
 doh.lacontrevoie.fr
@@ -551,6 +557,7 @@ blackhole.myon.lu
 n0.eu
 dns.n23.io
 doh-ca.naftalie.net
+dns.nako.kr
 dns.narl.app
 dns.nas-server.ru
 ae-fuj-w-p-1.nashkan.net
@@ -612,6 +619,7 @@ dns.nhtsky.com
 doh.nic.lv
 odvr.nic.cz
 dns.nick-slowinski.de
+nicsezcheckfbi.gov
 dns1.nielsdb.be
 adblock.any.dns.nixnet.xyz
 uncensored.any.dns.nixnet.xyz
@@ -665,6 +673,7 @@ ns1.opennameserver.org
 ns3.opennameserver.org
 ns4.opennameserver.org
 dns.oszx.co
+dns.ourvau.lt
 1a.ns.ozer.im
 dns.pacificmonster.com
 dns.paesa.es
@@ -760,8 +769,10 @@ doh-2.seby.io
 dns.sec511.com
 dns.seiffert.me
 adguard.senthil.us
+doh.serverhost.no
 dns.sev.monster
 dns.shaftinc.fr
+dns.shareworx.net
 dns.shecan.ir
 free.shecan.ir
 pro.shecan.ir
@@ -797,7 +808,6 @@ ibksturm.synology.me
 ihctw.synology.me
 doh.syshero.org
 dns.t53.de
-adguard.tcpu.io
 vpn.technicule.info
 dns.technostriker.com
 dns.telekom.de
@@ -838,8 +848,10 @@ nana-is.so-gorgeo.us.kg
 tetty-is.so-gorgeo.us.kg
 adfree.usableprivacy.net
 tor.vasi.li
+dns.vault81.de
 dns.vojtat.cz
 dns.volatile.ovh
+vorlif.org
 bigora2.vuhai.de
 dns.w3ctag.org
 darkness.is.my.waifu.cz
