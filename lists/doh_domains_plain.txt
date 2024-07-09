@@ -22,7 +22,6 @@ doh.42l.fr
 ns1.4netguides.org
 ns2.4netguides.org
 dns.52306.org
-dns.56k.uy
 family.5ososea.com
 kids.5ososea.com
 8888.google
@@ -182,6 +181,7 @@ dns.gayanalysing.co.uk
 dns.oliviertv.co.za
 pooblet.co.za
 agh.workfordemo.co.in
+adguard.frutuozo.com.br
 dns1.lothuscorp.com.br
 commons.host
 dns.comss.one
@@ -389,6 +389,7 @@ dns.emiliyan.com
 agh.ero-sayhi.com
 dns.esnube.es
 eth.link
+doh.excdn.eu.org
 dns.fullaccesstointernet.jp.eu.org
 dns.mayx.eu.org
 sukidayo.eu.org
@@ -465,6 +466,7 @@ dns.jichi.io
 jkdns.me
 ad.johnwick.me
 opencdn.jomodns.com
+dns.benoit.jp.net
 dns.jstockley.com
 dns.jupitrdns.com
 ad.justincounts.com
@@ -737,6 +739,7 @@ rayneau.fr
 dns.rbn.gr
 dns.reckoningslug.name
 dns.redvau.lt
+dns.reitmeier.me
 adguard.relskor.com
 dns.renardyre.com
 dns.repinger.com
@@ -874,6 +877,7 @@ adb-home.xaoimoon.fr
 doh.xcom.pro
 doh.xfinity.com
 dns.xiumu.org
+dns.xlion.tw
 xn--durhre-yxa.de
 v2.xx3210766.live
 common.dot.dns.yandex.net
