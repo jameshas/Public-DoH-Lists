@@ -154,6 +154,7 @@ ibuki.cgnat.net
 chandr1000.net
 dns.chenu.ch
 dns.christerwaren.fi
+dns.chriswservers.com
 oraclejp2.chungyu.com
 c.cicitt.ch
 doh.cippapp.com
@@ -176,7 +177,6 @@ family.cloudflare-dns.com
 mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 dns.cmrg.net
-dns.eliv.co.kr
 dns.gayanalysing.co.uk
 dns.oliviertv.co.za
 pooblet.co.za
@@ -385,6 +385,7 @@ dns.edison42.dev
 dns.editechstudio.com
 hole.elbschloss.xyz
 eliatofani.ovh
+dns.eliv.kr
 dns.emiliyan.com
 agh.ero-sayhi.com
 dns.esnube.es
@@ -405,6 +406,7 @@ ns1.fdn.fr
 ag.ff0x.ca
 doh.ffmuc.net
 dns.fizz.studio
+dns.flightspace.net
 dns01.flm9.net
 biying.flymlc.com
 dns.freyja.pw
@@ -613,6 +615,7 @@ us-saj-w-p-1.nashkan.net
 dns.ndo.dev
 dns.neowutran.ovh
 dns.aa.net.uk
+dns.netvpn.net
 dns.neutopia.org
 doh.luigi.nexific.it
 dns.nextdns.io
@@ -680,7 +683,6 @@ ns4.opennameserver.org
 dns.oszx.co
 dns.ourvau.lt
 1a.ns.ozer.im
-dns.pacificmonster.com
 dns.paesa.es
 dns.panszelescik.pl
 a.passcloud.xyz
@@ -714,6 +716,7 @@ nl.dns.privex.io
 dns.psociety.de
 dns.pumplex.com
 dns-privacy.puregeni.us
+pygos.space
 doh.qis.io
 ns1.qquack.org
 dns.quad9.net
@@ -816,7 +819,6 @@ ihctw.synology.me
 doh.syshero.org
 dns.t53.de
 vpn.technicule.info
-dns.technostriker.com
 dns.telekom.de
 dns.tesem.dog
 dns.thebuckners.org
@@ -854,6 +856,7 @@ luna-is.so-gorgeo.us.kg
 nana-is.so-gorgeo.us.kg
 tetty-is.so-gorgeo.us.kg
 adfree.usableprivacy.net
+dns.vaioswolke.xyz
 tor.vasi.li
 dns.vault81.de
 dns.vojtat.cz
@@ -873,13 +876,13 @@ wikimedia-dns.org
 dns-1.wil.cloud
 dns-2.wil.cloud
 home.wriedts.de
+x2ox.com
 adb-home.xaoimoon.fr
 doh.xcom.pro
 doh.xfinity.com
 dns.xiumu.org
 dns.xlion.tw
 xn--durhre-yxa.de
-v2.xx3210766.live
 common.dot.dns.yandex.net
 family.dot.dns.yandex.net
 safe.dot.dns.yandex.net
