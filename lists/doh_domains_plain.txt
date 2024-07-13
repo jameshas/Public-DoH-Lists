@@ -64,6 +64,7 @@ doh.no.ahadns.net
 doh.ny.ahadns.net
 doh.pl.ahadns.net
 ahoj.email
+dns.alanpearce.eu
 dnsnl.alekberg.net
 dnsnl-noads.alekberg.net
 dnsse.alekberg.net
@@ -104,6 +105,7 @@ antivirus.bebasid.com
 dns.bebasid.com
 internetsehat.bebasid.com
 dns.belnet.be
+dns.bermeitinger.eu
 ns3.bit-trail.nl
 dns.bitdefender.net
 dns.bitservices.io
@@ -120,6 +122,7 @@ dns.blokada.org
 rfree1.blue-shield.at
 rfree2.blue-shield.at
 bluemood.me
+dns.bmwhocking.com
 doh.boje8.me
 adguard.bonis.de
 doh.bortzmeyer.fr
@@ -162,7 +165,6 @@ family.canadianshield.cira.ca
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
 dns.circl.lu
-m-cm.circumitor.de
 dns.clanless.ovh
 adult-filter-dns.cleanbrowsing.org
 doh.cleanbrowsing.org
@@ -196,7 +198,6 @@ p3.freedns.controld.com
 uncensored.freedns.controld.com
 dns.cooluc.com
 doh.cornes.me
-resolve.corpa.me
 doh.cox.net
 dohdot.coxlab.net
 dns.criena.net
@@ -334,7 +335,6 @@ trf01.dnscry.pt
 tsm01.dnscry.pt
 tyo01.dnscry.pt
 tyo02.dnscry.pt
-tyo03.dnscry.pt
 vie01.dnscry.pt
 vno01.dnscry.pt
 waw01.dnscry.pt
@@ -371,9 +371,9 @@ doh.buzz
 doh.pink
 doh.xyz
 dns.doh.best
+doh.domreg.lt
 dns.dooks.uk
 ns1.dotls.org
-server01.dr-adguard.de
 doh.dscloud.me
 agh.dshubham.xyz
 dukun.de
@@ -528,7 +528,6 @@ dns.mateo.ovh
 doh.mcasviper.de
 adguard.meddy94.de
 dns.meeo.win
-testguard.meexx.de
 snoke.meganerd.nl
 testaghome.meshkov.info
 muli.stusta.mhn.de
@@ -655,7 +654,6 @@ dns2.nordvpn.com
 2.dns.noridev.moe
 dns.novali.date
 dns.novg.net
-dns.npsolution.it
 ns3.com
 ns3.cx
 ns3.link
@@ -767,12 +765,10 @@ rumpelsepp.org
 dns1.ryan-palmer.com
 safeservedns.com
 doh.safesurfer.io
-dns.saneaki.com
 dns.sarak.as
 dns.sarilouis.com
 ns1.sc-lezhi.com
 dns.scarx.net
-filter.das.sch.id
 doh.seby.io
 doh-2.seby.io
 dns.sec511.com
@@ -876,7 +872,6 @@ wikimedia-dns.org
 dns-1.wil.cloud
 dns-2.wil.cloud
 home.wriedts.de
-x2ox.com
 adb-home.xaoimoon.fr
 doh.xcom.pro
 doh.xfinity.com
@@ -887,7 +882,6 @@ common.dot.dns.yandex.net
 family.dot.dns.yandex.net
 safe.dot.dns.yandex.net
 dns.yatima.tv
-yeralin.net
 dns.yingroad.top
 your-dns.run
 yovbak.com
@@ -898,5 +892,5 @@ zdn.ro
 blocker.zebrzydowa110.eu
 dns.zemows.industries
 adguard-kartoffel.zernico.de
-dns1.zettawize.xyz
 doh.zln.wtf
+doh.ztbro.com
