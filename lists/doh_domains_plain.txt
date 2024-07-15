@@ -94,9 +94,9 @@ adguard.avdkishore.dev
 ayasesayuki.shop
 doh1.b-cdn.net
 doh2.b-cdn.net
-b-ii.com
 dns.b612.me
 dns.b72.com
+dns.backschues.net
 dns.baishiyuan.cn
 fr-dns1.bancuh.com
 sg-dns1.bancuh.com
@@ -185,6 +185,7 @@ pooblet.co.za
 agh.workfordemo.co.in
 adguard.frutuozo.com.br
 dns1.lothuscorp.com.br
+dns.comff.net
 commons.host
 dns.comss.one
 dns.east.comss.one
@@ -383,6 +384,7 @@ doh.eddi.net
 edgy-dns.com
 dns.edison42.dev
 dns.editechstudio.com
+elarvee.xyz
 hole.elbschloss.xyz
 eliatofani.ovh
 dns.eliv.kr
@@ -393,7 +395,6 @@ eth.link
 doh.excdn.eu.org
 dns.fullaccesstointernet.jp.eu.org
 dns.mayx.eu.org
-sukidayo.eu.org
 dns.extrawdw.net
 pdns.faelix.net
 rdns.faelix.net
@@ -431,6 +432,7 @@ google-public-dns-b.google.com
 secure-dns.gridlax.com
 jp.gridns.xyz
 dns.guard.io
+dns.h3z.jp
 dns.hahnjo.de
 dns.haka.se
 query.hdns.io
@@ -503,6 +505,7 @@ dns.lars-lehmann.net
 lastentarvike.fi
 eu1.dns.lavate.ch
 us1.dns.lavate.ch
+dns.learningman.top
 yarp.lefolgoc.net
 resolver-eu.lelux.fi
 dns.levonet.sk
@@ -533,7 +536,6 @@ testaghome.meshkov.info
 muli.stusta.mhn.de
 mikatos.de
 dns.mikeliu.org
-dns.milftech.xyz
 netcup.mismat.ch
 doh.mmmalia.com
 dns.mnet-online.de
@@ -697,7 +699,6 @@ doh.eastus.pi-dns.com
 doh.northeu.pi-dns.com
 doh.westus.pi-dns.com
 dns1.pietjacobs.be
-doh.plaawan.uk
 helios.plan9-dns.com
 kronos.plan9-dns.com
 pluton.plan9-dns.com
@@ -769,6 +770,7 @@ dns.sarak.as
 dns.sarilouis.com
 ns1.sc-lezhi.com
 dns.scarx.net
+dns.scott-smith.us
 doh.seby.io
 doh-2.seby.io
 dns.sec511.com
@@ -803,6 +805,7 @@ doh-02.spectrum.com
 dns.startupstack.tech
 dns.stevenz.net
 dns.stirringphoto.com
+doh.suche.org
 dns.suhaila.dev
 resolver.sunet.se
 sunnygyl.com
@@ -826,13 +829,14 @@ jp.tiarap.org
 dns.tierradeayala.com
 timmes.nl
 dns.tipsy.coffee
-tirapan.top
 dns.tls-data.de
 resolv1.trash.net
 resolv2.trash.net
 resolv3.trash.net
 ns.trcnet.fi
+tributh.net
 truta.org
+tsc.gov
 adg.tshost.no
 doh.ibr.cs.tu-bs.de
 dns.twnic.tw
@@ -878,6 +882,7 @@ doh.xfinity.com
 dns.xiumu.org
 dns.xlion.tw
 xn--durhre-yxa.de
+dns.xuming.studio
 common.dot.dns.yandex.net
 family.dot.dns.yandex.net
 safe.dot.dns.yandex.net
