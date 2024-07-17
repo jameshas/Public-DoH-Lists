@@ -100,6 +100,7 @@ dns.backschues.net
 dns.baishiyuan.cn
 fr-dns1.bancuh.com
 sg-dns1.bancuh.com
+bazooki-infra.dev
 dns.beardic.cn
 antivirus.bebasid.com
 dns.bebasid.com
@@ -389,6 +390,7 @@ hole.elbschloss.xyz
 eliatofani.ovh
 dns.eliv.kr
 dns.emiliyan.com
+ad.eren.homes
 agh.ero-sayhi.com
 dns.esnube.es
 eth.link
@@ -424,6 +426,7 @@ adg.geili.me
 getdnsapi.net
 adguard.maison.gifino.fr
 dns.girino.org
+agh.gloom.nexus
 dns.gnb09.id
 privacydns.go6lab.si
 dns.google.com
@@ -460,6 +463,7 @@ dns.cloud.ionutl.ro
 dns.ipoac.nl
 pdns.itxe.net
 ivnkn.xyz
+adguard.izapi4.fr
 www.jabber-germany.de
 jackyes.ovh
 dns.janl.eu
@@ -468,6 +472,7 @@ adguard.jfchenier.ca
 dns.jhangy.us
 dns.jichi.io
 jkdns.me
+adguard.johanliebert.top
 ad.johnwick.me
 opencdn.jomodns.com
 dns.benoit.jp.net
@@ -490,6 +495,7 @@ doh.kidzonet.io
 doh.killtw.im
 blog.kimiblock.top
 adguard.konikoni428.com
+konpetr6.site
 doh.kooman.org
 korzhov.dev
 dns.kosan.moe
@@ -516,7 +522,6 @@ africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
 loadlow.me
 dns.lobbygod.com
-ca.loii.in
 doh.phdns1.lonet.org
 doh.phdns2.lonet.org
 doh.phdns3.lonet.org
@@ -579,8 +584,6 @@ at-wie-w-p-1.nashkan.net
 au-syd-w-f-1.nashkan.net
 au-syd-w-p-1.nashkan.net
 de-fra-w-p-1.nashkan.net
-de-fsn-w-f-4.nashkan.net
-de-fsn-w-f-5.nashkan.net
 de-fsn-w-p-1.nashkan.net
 fi-hel-w-f-2.nashkan.net
 fr-gra-w-f-1.nashkan.net
@@ -614,6 +617,7 @@ us-nyc-w-p-1.nashkan.net
 us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
 dns.ndo.dev
+nekomiya-sama.top
 dns.neowutran.ovh
 dns.aa.net.uk
 dns.netvpn.net
@@ -643,7 +647,6 @@ lux1.nixnet.xyz
 lv1.nixnet.xyz
 ny1.nixnet.xyz
 doh.niyawe.de
-dns.nj0.de
 dns.njal.la
 resolver.noaddns.com
 pi1.node15.com
@@ -663,6 +666,7 @@ ns3.link
 dot.occ.top
 dns.odinpl.com
 dns.ofdoom.net
+dns.olpploiopkuyhiopsfrt.info
 one.one.one.one
 doh.onedns.net
 secure.onedns.cc
@@ -777,7 +781,6 @@ dns.sec511.com
 dns.seiffert.me
 adguard.senthil.us
 doh.serverhost.no
-servis4u.top
 dns.sev.monster
 dns.shaftinc.fr
 dns.shareworx.net
@@ -839,6 +842,7 @@ truta.org
 tsc.gov
 adg.tshost.no
 doh.ibr.cs.tu-bs.de
+tuskythehusky.tech
 dns.twnic.tw
 doh.umbrella.com
 anycast.uncensoreddns.org
@@ -867,7 +871,6 @@ dns.w3ctag.org
 darkness.is.my.waifu.cz
 megumin.is.my.waifu.cz
 dns.wang.art
-dns.wargan.io
 abel.waringer-atg.de
 dns.engineer.web.id
 doh.webnmail.de
@@ -883,6 +886,7 @@ dns.xiumu.org
 dns.xlion.tw
 xn--durhre-yxa.de
 dns.xuming.studio
+dns.xusqui.com
 common.dot.dns.yandex.net
 family.dot.dns.yandex.net
 safe.dot.dns.yandex.net
