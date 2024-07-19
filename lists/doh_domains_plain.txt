@@ -1,9 +1,10 @@
+003153.xyz
 ns.00dani.me
 0ms.dev
 cdn.0ms.dev
 dns.0ooo.icu
-1.0rz.space
 2.0rz.space
+dns.0rz.ing
 dns.0x55.net
 cloud.198.games
 dns.23-4.cn
@@ -16,10 +17,10 @@ wdns.233py.com
 dns.240527.xyz
 dhlifeus-micro1.dns.3456.kr
 doh.360.cn
+3dcosas.xyz
 3dns.eu
 dns.4-the.win
 doh.42l.fr
-ns1.4netguides.org
 ns2.4netguides.org
 dns.52306.org
 family.5ososea.com
@@ -85,10 +86,10 @@ dns.arapurayil.com
 doh.archuser.org
 nsec.arnor.org
 dns.artikel10.org
+dns.aslk685qwda.com
 dns.asterimoon.com
 dandelionsprout.asuscomm.com
 dohtrial.att.net
-atws2425.xyz
 secure.avastdns.com
 adguard.avdkishore.dev
 ayasesayuki.shop
@@ -107,6 +108,7 @@ dns.bebasid.com
 internetsehat.bebasid.com
 dns.belnet.be
 dns.bermeitinger.eu
+bestwon203.com
 ns3.bit-trail.nl
 dns.bitdefender.net
 dns.bitservices.io
@@ -379,13 +381,11 @@ ns1.dotls.org
 doh.dscloud.me
 agh.dshubham.xyz
 dukun.de
-ns1.e-virtus.com
 adguard.easez.net
 doh.eddi.net
 edgy-dns.com
 dns.edison42.dev
 dns.editechstudio.com
-elarvee.xyz
 hole.elbschloss.xyz
 eliatofani.ovh
 dns.eliv.kr
@@ -467,13 +467,13 @@ adguard.izapi4.fr
 www.jabber-germany.de
 jackyes.ovh
 dns.janl.eu
+doh.javi.lat
 jcdns.fun
 adguard.jfchenier.ca
 dns.jhangy.us
 dns.jichi.io
 jkdns.me
 adguard.johanliebert.top
-ad.johnwick.me
 opencdn.jomodns.com
 dns.benoit.jp.net
 dns.jstockley.com
@@ -490,6 +490,7 @@ dns.kerekes.xyz
 dns.kernel-error.de
 dns.kescher.at
 pihole.aws.ketan.dev
+dns.keviland.com
 adg.khon.dev
 doh.kidzonet.io
 doh.killtw.im
@@ -499,9 +500,7 @@ konpetr6.site
 doh.kooman.org
 korzhov.dev
 dns.kosan.moe
-kostik-66.online
 dart.kpsn.org
-pdns.krctechnologies.net
 xray.krnl.eu
 dns.kugoapps.com
 dns.kuuhaku.moe
@@ -537,6 +536,7 @@ doh.mcasviper.de
 adguard.meddy94.de
 dns.meeo.win
 snoke.meganerd.nl
+mendozasdelivery.com
 testaghome.meshkov.info
 muli.stusta.mhn.de
 mikatos.de
@@ -548,7 +548,6 @@ dns.mni.li
 mnrv.trade
 nue2.moderateinfra.net
 ps1.modr.club
-dot.modsh.top
 dns.molinero.dev
 naganohara-yoimiya.momokko.moe
 dns.mtoo.vip
@@ -603,7 +602,6 @@ ro-buc-w-f-1.nashkan.net
 ro-buc-w-p-1.nashkan.net
 sg-w-f-1.nashkan.net
 sg-w-p-1.nashkan.net
-tr-ist-w-p-2.nashkan.net
 us-chi-w-f-1.nashkan.net
 us-chi-w-p-1.nashkan.net
 us-hil-w-f-1.nashkan.net
@@ -832,6 +830,7 @@ jp.tiarap.org
 dns.tierradeayala.com
 timmes.nl
 dns.tipsy.coffee
+adguard.tldn.org
 dns.tls-data.de
 resolv1.trash.net
 resolv2.trash.net
