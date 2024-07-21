@@ -16,6 +16,7 @@ sdns.233py.com
 wdns.233py.com
 dns.240527.xyz
 dhlifeus-micro1.dns.3456.kr
+351242444.xyz
 doh.360.cn
 3dcosas.xyz
 3dns.eu
@@ -155,13 +156,13 @@ kracon.anycast.censurfridns.dk
 rgnet-iad.anycast.censurfridns.dk
 unicast.censurfridns.dk
 dns.cert.ee
+cfdjb.org
 dns.cfiec.net
 ibuki.cgnat.net
 chandr1000.net
 dns.chenu.ch
 dns.christerwaren.fi
 dns.chriswservers.com
-oraclejp2.chungyu.com
 c.cicitt.ch
 doh.cippapp.com
 family.canadianshield.cira.ca
@@ -192,6 +193,7 @@ dns.comff.net
 commons.host
 dns.comss.one
 dns.east.comss.one
+contentwritingservice.tech
 dns.controld.com
 freedns.controld.com
 family.freedns.controld.com
@@ -218,6 +220,7 @@ ns.data.haus
 doh.datacore.ch
 doh.datahata.by
 dns.daw.dev
+dns.ddasdka678asdsa.com
 dns.decky.eu
 dns.decloudus.com
 doh.defaultroutes.de
@@ -275,6 +278,7 @@ ams02.dnscry.pt
 ath01.dnscry.pt
 atl01.dnscry.pt
 bom01.dnscry.pt
+bts01.dnscry.pt
 coe01.dnscry.pt
 cph01.dnscry.pt
 cvt01.dnscry.pt
@@ -438,6 +442,7 @@ dns.guard.io
 dns.h3z.jp
 dns.hahnjo.de
 dns.haka.se
+adguard.hartley.cloud
 query.hdns.io
 ordns.he.net
 dns.henek.ovh
@@ -453,7 +458,9 @@ mask-h2.icloud.com
 adguard.shuting.idv.tw
 public.dns.iij.jp
 ikarosalpha.xyz
+dns.ikataruto.com
 dns.immanuelschaffer.de
+doh.immerda.ch
 dns1.in-berlin.de
 dns.inclusioproject.com
 dns.indybanipal.com
@@ -464,7 +471,6 @@ dns.ipoac.nl
 pdns.itxe.net
 ivnkn.xyz
 adguard.izapi4.fr
-www.jabber-germany.de
 jackyes.ovh
 dns.janl.eu
 doh.javi.lat
@@ -484,7 +490,6 @@ dns.kamilszczepanski.com
 dns.kapite.in
 dns.karl.one
 dns.kawa.tf
-dns.keke125.com
 doh.kel.pe
 dns.kerekes.xyz
 dns.kernel-error.de
@@ -560,11 +565,11 @@ extended.dns.mullvad.net
 family.dns.mullvad.net
 doh.mullvad.net
 adblock.doh.mullvad.net
-antarlangit.my.id
 dns.feldy.my.id
 dns.lista.my.id
 dns.mikrotikrumahan.my.id
 dns.velyn.my.id
+my-private-cdn.com
 adblock.mydns.network
 family.mydns.network
 freedom.mydns.network
@@ -687,6 +692,7 @@ dns.ourvau.lt
 1a.ns.ozer.im
 dns.paesa.es
 dns.panszelescik.pl
+pashagame456.com
 a.passcloud.xyz
 i.passcloud.xyz
 doh.gcp.pathofgrace.com
@@ -711,13 +717,13 @@ lindung.pp.ua
 sundalandia.pp.ua
 virga.pp.ua
 dns.pragmasec.nl
+dns.princex.net
 princez.uk
 de.dns.privex.io
 nl.dns.privex.io
 dns.psociety.de
 dns.pumplex.com
 dns-privacy.puregeni.us
-pygos.space
 doh.qis.io
 ns1.qquack.org
 dns.quad9.net
@@ -789,7 +795,6 @@ dns.sheggi.ch
 dns.shimul.me
 adguard.shoupperuser.com
 adguard.shutgaming.net
-signsservers.ru
 dns.silen.org
 dns.silentlybren.com
 dns.sindominio.net
@@ -830,7 +835,6 @@ jp.tiarap.org
 dns.tierradeayala.com
 timmes.nl
 dns.tipsy.coffee
-adguard.tldn.org
 dns.tls-data.de
 resolv1.trash.net
 resolv2.trash.net
@@ -850,7 +854,6 @@ deic-ore.anycast.uncensoreddns.org
 kracon.anycast.uncensoreddns.org
 rgnet-iad.anycast.uncensoreddns.org
 unicast.uncensoreddns.org
-uni5wap.info
 resolver.unstoppable.io
 dns.uplenk.com
 dns.koala.us.to
