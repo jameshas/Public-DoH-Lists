@@ -3,9 +3,9 @@ ns.00dani.me
 0ms.dev
 cdn.0ms.dev
 dns.0ooo.icu
-2.0rz.space
 dns.0rz.ing
 dns.0x55.net
+123000123.xyz
 cloud.198.games
 dns.23-4.cn
 dns.233py.com
@@ -537,14 +537,12 @@ mailkyb.co
 doh.maskab.com
 masters-of-cloud.de
 dns.mateo.ovh
-doh.mcasviper.de
 adguard.meddy94.de
 dns.meeo.win
 snoke.meganerd.nl
 mendozasdelivery.com
 testaghome.meshkov.info
 muli.stusta.mhn.de
-mikatos.de
 dns.mikeliu.org
 netcup.mismat.ch
 doh.mmmalia.com
@@ -669,6 +667,7 @@ ns3.link
 dot.occ.top
 dns.odinpl.com
 dns.ofdoom.net
+dns.olgui.net
 dns.olpploiopkuyhiopsfrt.info
 one.one.one.one
 doh.onedns.net
@@ -685,7 +684,6 @@ resolver2.opendns.com
 resolver2-fs.opendns.com
 doh.sandbox.opendns.com
 ns1.opennameserver.org
-ns3.opennameserver.org
 ns4.opennameserver.org
 dns.oszx.co
 dns.ourvau.lt
@@ -744,7 +742,6 @@ dns.rabbitdns.org
 family.rabbitdns.org
 security.rabbitdns.org
 ns.ral9005.org
-la.ray0512.win
 rayneau.fr
 dns.rbn.gr
 dns.reckoningslug.name
@@ -866,7 +863,6 @@ dns.vaioswolke.xyz
 tor.vasi.li
 dns.vault81.de
 dns.vojtat.cz
-dns.volatile.ovh
 vorlif.org
 bigora2.vuhai.de
 dns.w3ctag.org
@@ -876,6 +872,7 @@ dns.wang.art
 abel.waringer-atg.de
 dns.engineer.web.id
 doh.webnmail.de
+dns.webpotato.nl
 resov.wehao.net
 wikimedia-dns.org
 dns-1.wil.cloud
