@@ -32,7 +32,6 @@ dns.9999.sg
 dns.a47.me
 doh.aaaab3n.moe
 doh.dns.apple.com.v.aaplimg.com
-adguard.abd.ong
 doh.abmb.win
 doh2.abmb.win
 res-acst3.absolight.net
@@ -87,13 +86,11 @@ dns.arapurayil.com
 doh.archuser.org
 nsec.arnor.org
 dns.artikel10.org
-dns.aslk685qwda.com
 dns.asterimoon.com
 dandelionsprout.asuscomm.com
 dohtrial.att.net
 secure.avastdns.com
 adguard.avdkishore.dev
-ayasesayuki.shop
 doh1.b-cdn.net
 doh2.b-cdn.net
 dns.b612.me
@@ -193,7 +190,6 @@ dns.comff.net
 commons.host
 dns.comss.one
 dns.east.comss.one
-contentwritingservice.tech
 dns.controld.com
 freedns.controld.com
 family.freedns.controld.com
@@ -220,7 +216,6 @@ ns.data.haus
 doh.datacore.ch
 doh.datahata.by
 dns.daw.dev
-dns.ddasdka678asdsa.com
 dns.decky.eu
 dns.decloudus.com
 doh.defaultroutes.de
@@ -376,7 +371,6 @@ doh.sb
 doh.beauty
 doh.best
 doh.buzz
-doh.pink
 doh.xyz
 dns.doh.best
 doh.domreg.lt
@@ -428,6 +422,7 @@ dns.gamban.com
 adguard.gambini.org
 adg.geili.me
 getdnsapi.net
+ghilmanaji.xyz
 adguard.maison.gifino.fr
 dns.girino.org
 agh.gloom.nexus
@@ -436,7 +431,6 @@ privacydns.go6lab.si
 dns.google.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
-secure-dns.gridlax.com
 jp.gridns.xyz
 dns.guard.io
 dns.h3z.jp
@@ -473,7 +467,6 @@ ivnkn.xyz
 adguard.izapi4.fr
 jackyes.ovh
 dns.janl.eu
-doh.javi.lat
 jcdns.fun
 adguard.jfchenier.ca
 dns.jhangy.us
@@ -501,7 +494,6 @@ doh.kidzonet.io
 doh.killtw.im
 blog.kimiblock.top
 adguard.konikoni428.com
-konpetr6.site
 doh.kooman.org
 korzhov.dev
 dns.kosan.moe
@@ -531,6 +523,9 @@ doh.phdns2.lonet.org
 doh.phdns3.lonet.org
 doh.phdns4.lonet.org
 doh.phdns5.lonet.org
+lukscasino-479-tr.xyz
+lukscasino-542-tr.xyz
+lukscasino-929-tr.xyz
 orau.lz0724.com
 maherhost.uk
 mailkyb.co
@@ -618,7 +613,6 @@ us-nyc-w-p-1.nashkan.net
 us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
 dns.ndo.dev
-nekomiya-sama.top
 dns.neowutran.ovh
 dns.aa.net.uk
 dns.netvpn.net
@@ -747,7 +741,6 @@ dns.rbn.gr
 dns.reckoningslug.name
 dns.redvau.lt
 dns.reitmeier.me
-adguard.relskor.com
 dns.renardyre.com
 dns.repinger.com
 dnspub.restena.lu
@@ -796,8 +789,8 @@ dns.silen.org
 dns.silentlybren.com
 dns.sindominio.net
 dns.sitdns.com
-adg.siudzinski.net
 dns.skrep.eu
+skydragoness.com
 dns.slinkyman.net
 dns.smartguard.io
 clientdns3.softcom.net
@@ -820,7 +813,9 @@ ibksturm.synology.me
 ihctw.synology.me
 doh.syshero.org
 dns.t53.de
+tecdrive.site
 vpn.technicule.info
+robin.techomespace.com
 dns.telekom.de
 dns.tesem.dog
 dns.thebuckners.org
@@ -839,7 +834,6 @@ resolv3.trash.net
 ns.trcnet.fi
 tributh.net
 truta.org
-tsc.gov
 adg.tshost.no
 doh.ibr.cs.tu-bs.de
 tuskythehusky.tech
