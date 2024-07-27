@@ -96,7 +96,6 @@ doh2.b-cdn.net
 dns.b612.me
 dns.b72.com
 dns.backschues.net
-dns.baishiyuan.cn
 fr-dns1.bancuh.com
 sg-dns1.bancuh.com
 bazooki-infra.dev
@@ -133,7 +132,6 @@ bravedns.com
 basic.bravedns.com
 free.bravedns.com
 dns.bravoc.one
-dns.brian-wee.com
 doh.bt.com
 bth.dance
 stratus.bugz.fr
@@ -209,6 +207,7 @@ dns.csa-rz.de
 cubedns.com
 dns.cynthialabs.net
 dns.d96.info
+get-resolution-ok-cdn.dahi.icu
 dns.dallinbryce.com
 adguard.dantynes.cyou
 mail.data.haus
@@ -229,7 +228,6 @@ dns.digitale-gesellschaft.ch
 dns1.digitale-gesellschaft.ch
 dns2.digitale-gesellschaft.ch
 dns.digitalsize.net
-eka.dilli.dev
 doh.disconnect.app
 fdns1.dismail.de
 fdns2.dismail.de
@@ -388,8 +386,6 @@ hole.elbschloss.xyz
 eliatofani.ovh
 dns.eliv.kr
 dns.emiliyan.com
-ad.eren.homes
-agh.ero-sayhi.com
 dns.esnube.es
 eth.link
 doh.excdn.eu.org
@@ -409,6 +405,7 @@ doh.ffmuc.net
 dns.fizz.studio
 dns.flightspace.net
 dns01.flm9.net
+dns.flymc.cc
 biying.flymlc.com
 dns.freyja.pw
 dns.froth.zone
@@ -461,7 +458,6 @@ dns.indybanipal.com
 dns.inforlogia.com
 qlf-doh.inria.fr
 dns.cloud.ionutl.ro
-dns.ipoac.nl
 pdns.itxe.net
 ivnkn.xyz
 adguard.izapi4.fr
@@ -562,7 +558,6 @@ dns.feldy.my.id
 dns.lista.my.id
 dns.mikrotikrumahan.my.id
 dns.velyn.my.id
-my-private-cdn.com
 adblock.mydns.network
 family.mydns.network
 freedom.mydns.network
@@ -684,6 +679,7 @@ dns.ourvau.lt
 1a.ns.ozer.im
 dns.paesa.es
 dns.panszelescik.pl
+dns.pari.network
 pashagame456.com
 a.passcloud.xyz
 i.passcloud.xyz
@@ -867,7 +863,6 @@ abel.waringer-atg.de
 dns.engineer.web.id
 doh.webnmail.de
 dns.webpotato.nl
-resov.wehao.net
 wikimedia-dns.org
 dns-1.wil.cloud
 dns-2.wil.cloud
