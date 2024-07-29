@@ -144,6 +144,7 @@ dns.carson-family.com
 dns.carter.me
 catdns.org
 doh.ccb-net.it
+dns.cctld.kg
 anycast.censurfridns.dk
 deic-lgb.anycast.censurfridns.dk
 deic-ore.anycast.censurfridns.dk
@@ -430,7 +431,6 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 jp.gridns.xyz
 dns.guard.io
-dns.h3z.jp
 dns.hahnjo.de
 dns.haka.se
 adguard.hartley.cloud
@@ -574,7 +574,6 @@ ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net
 at-wie-w-p-1.nashkan.net
 au-syd-w-f-1.nashkan.net
-au-syd-w-p-1.nashkan.net
 de-fra-w-p-1.nashkan.net
 de-fsn-w-p-1.nashkan.net
 fi-hel-w-f-2.nashkan.net
@@ -656,7 +655,6 @@ ns3.link
 dot.occ.top
 dns.odinpl.com
 dns.ofdoom.net
-dns.olgui.net
 dns.olpploiopkuyhiopsfrt.info
 one.one.one.one
 doh.onedns.net
@@ -778,7 +776,6 @@ dns.shecan.ir
 free.shecan.ir
 pro.shecan.ir
 dns.sheggi.ch
-dns.shimul.me
 adguard.shoupperuser.com
 adguard.shutgaming.net
 dns.silen.org
