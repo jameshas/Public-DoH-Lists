@@ -565,7 +565,6 @@ paranoia.mydns.network
 blackhole.myon.lu
 n0.eu
 dns.n23.io
-doh-ca.naftalie.net
 dns.nako.kr
 dns.narl.app
 dns.nas-server.ru
@@ -651,7 +650,6 @@ dns.novg.net
 ns3.com
 ns3.cx
 ns3.link
-5g.o0o.re
 dot.occ.top
 dns.odinpl.com
 dns.ofdoom.net
@@ -883,8 +881,6 @@ dns.yumenashyi.com
 zakaria.website
 www.zburger.top
 zdn.ro
-blocker.zebrzydowa110.eu
 dns.zemows.industries
 adguard-kartoffel.zernico.de
 doh.zln.wtf
-doh.ztbro.com
