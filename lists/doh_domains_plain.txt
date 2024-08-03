@@ -27,6 +27,7 @@ dns.52306.org
 family.5ososea.com
 kids.5ososea.com
 8888.google
+89433332.xyz
 doh.978159.xyz
 dns.9999.sg
 dns.a47.me
@@ -95,7 +96,6 @@ doh1.b-cdn.net
 doh2.b-cdn.net
 dns.b612.me
 dns.b72.com
-dns.backschues.net
 fr-dns1.bancuh.com
 sg-dns1.bancuh.com
 bazooki-infra.dev
@@ -133,7 +133,6 @@ basic.bravedns.com
 free.bravedns.com
 dns.bravoc.one
 doh.bt.com
-bth.dance
 stratus.bugz.fr
 dns.busold.ws
 www.c-dns.com
@@ -182,9 +181,9 @@ dns.cmrg.net
 dns.gayanalysing.co.uk
 dns.oliviertv.co.za
 pooblet.co.za
+adguard.speeddemon.co.za
 agh.workfordemo.co.in
 adguard.frutuozo.com.br
-dns1.lothuscorp.com.br
 dns.comff.net
 commons.host
 dns.comss.one
@@ -219,7 +218,6 @@ dns.daw.dev
 dns.decky.eu
 dns.decloudus.com
 doh.defaultroutes.de
-delegated-ipfs.dev
 doh.denypradana.com
 adguard.lege.despagne.net
 doh-primary-pool.detoxifypornblocker.com
@@ -429,6 +427,7 @@ privacydns.go6lab.si
 dns.google.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
+performance.gosami.xyz
 jp.gridns.xyz
 dns.guard.io
 dns.hahnjo.de
@@ -523,7 +522,7 @@ lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
 lukscasino-929-tr.xyz
 orau.lz0724.com
-maherhost.uk
+doh.magunyan.com
 mailkyb.co
 doh.maskab.com
 masters-of-cloud.de
@@ -557,6 +556,7 @@ adblock.doh.mullvad.net
 dns.feldy.my.id
 dns.lista.my.id
 dns.mikrotikrumahan.my.id
+dns1.server.my.id
 dns.velyn.my.id
 adblock.mydns.network
 family.mydns.network
@@ -587,8 +587,6 @@ jp-tyo-w-p-1.nashkan.net
 kz-pav-w-p-1.nashkan.net
 nl-dro-w-f-1.nashkan.net
 nl-dro-w-p-1.nashkan.net
-pl-waw-w-f-1.nashkan.net
-pl-waw-w-p-2.nashkan.net
 ro-buc-w-f-1.nashkan.net
 ro-buc-w-p-1.nashkan.net
 sg-w-f-1.nashkan.net
@@ -696,6 +694,7 @@ kronos.plan9-dns.com
 pluton.plan9-dns.com
 privacy.plumedns.com
 doh.powerdns.org
+dns.aeiou.pp.ua
 dns.korzhyk.pp.ua
 lindung.pp.ua
 sundalandia.pp.ua
@@ -758,7 +757,6 @@ safeservedns.com
 doh.safesurfer.io
 dns.sarak.as
 dns.sarilouis.com
-ns1.sc-lezhi.com
 dns.scarx.net
 dns.scott-smith.us
 doh.seby.io
@@ -877,7 +875,9 @@ dns.yatima.tv
 dns.yingroad.top
 your-dns.run
 yovbak.com
+dns.yrrev.com
 dns.yumenashyi.com
+yuvelirtut.website
 zakaria.website
 www.zburger.top
 zdn.ro
