@@ -217,6 +217,7 @@ doh.datahata.by
 dns.daw.dev
 dns.decky.eu
 dns.decloudus.com
+deep-henchman-excuse.cfd
 doh.defaultroutes.de
 doh.denypradana.com
 adguard.lege.despagne.net
@@ -456,7 +457,6 @@ dns.inclusioproject.com
 dns.indybanipal.com
 dns.inforlogia.com
 qlf-doh.inria.fr
-dns.cloud.ionutl.ro
 pdns.itxe.net
 ivnkn.xyz
 adguard.izapi4.fr
@@ -534,6 +534,7 @@ mendozasdelivery.com
 testaghome.meshkov.info
 muli.stusta.mhn.de
 dns.mikeliu.org
+mikezhang.xyz
 netcup.mismat.ch
 doh.mmmalia.com
 dns.mnet-online.de
