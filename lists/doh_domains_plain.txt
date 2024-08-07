@@ -15,7 +15,6 @@ ndns.233py.com
 sdns.233py.com
 wdns.233py.com
 dns.240527.xyz
-dhlifeus-micro1.dns.3456.kr
 351242444.xyz
 doh.360.cn
 3dcosas.xyz
@@ -66,7 +65,6 @@ doh.no.ahadns.net
 doh.ny.ahadns.net
 doh.pl.ahadns.net
 ahoj.email
-dns.alanpearce.eu
 dnsnl.alekberg.net
 dnsnl-noads.alekberg.net
 dnsse.alekberg.net
@@ -367,7 +365,6 @@ doh.lv
 doh.pub
 doh.sb
 doh.beauty
-doh.best
 doh.buzz
 doh.xyz
 dns.doh.best
@@ -419,7 +416,6 @@ dns.gamban.com
 adguard.gambini.org
 adg.geili.me
 getdnsapi.net
-ghilmanaji.xyz
 adguard.maison.gifino.fr
 dns.girino.org
 agh.gloom.nexus
@@ -508,6 +504,7 @@ resolver-eu.lelux.fi
 dns.levonet.sk
 doh.libredns.gr
 dns.lihj.me
+linkdiscord.xyz
 doh.linngde.com
 africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
@@ -533,7 +530,6 @@ snoke.meganerd.nl
 mendozasdelivery.com
 testaghome.meshkov.info
 muli.stusta.mhn.de
-dns.mikeliu.org
 mikezhang.xyz
 netcup.mismat.ch
 doh.mmmalia.com
@@ -754,6 +750,7 @@ uw-dns.rubyfish.cn
 v6.rubyfish.cn
 rumpelsepp.org
 dns1.ryan-palmer.com
+dns.s0ra.asia
 safeservedns.com
 doh.safesurfer.io
 dns.sarak.as
@@ -788,6 +785,7 @@ spacedns.org
 adguard.sparshbajaj.me
 doh-01.spectrum.com
 doh-02.spectrum.com
+squidmall.vip
 dns.startupstack.tech
 dns.stevenz.net
 dns.stirringphoto.com
@@ -856,7 +854,6 @@ dns.wang.art
 abel.waringer-atg.de
 dns.engineer.web.id
 doh.webnmail.de
-dns.webpotato.nl
 wikimedia-dns.org
 dns-1.wil.cloud
 dns-2.wil.cloud
@@ -877,7 +874,6 @@ dns.yingroad.top
 your-dns.run
 yovbak.com
 dns.yrrev.com
-dns.yumenashyi.com
 yuvelirtut.website
 zakaria.website
 www.zburger.top
