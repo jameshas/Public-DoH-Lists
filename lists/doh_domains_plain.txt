@@ -65,11 +65,13 @@ doh.no.ahadns.net
 doh.ny.ahadns.net
 doh.pl.ahadns.net
 ahoj.email
+adguard.ajinga.net
 dnsnl.alekberg.net
 dnsnl-noads.alekberg.net
 dnsse.alekberg.net
 dnsse-noads.alekberg.net
 dns.alidns.com
+adguard.alu.dog
 mailer.amlegion.org
 dns.andrewnw.xyz
 doh.angry.im
@@ -179,7 +181,6 @@ dns.cmrg.net
 dns.gayanalysing.co.uk
 dns.oliviertv.co.za
 pooblet.co.za
-adguard.speeddemon.co.za
 agh.workfordemo.co.in
 adguard.frutuozo.com.br
 dns.comff.net
@@ -383,7 +384,6 @@ hole.elbschloss.xyz
 eliatofani.ovh
 dns.eliv.kr
 dns.emiliyan.com
-dns.esnube.es
 eth.link
 doh.excdn.eu.org
 dns.fullaccesstointernet.jp.eu.org
@@ -485,12 +485,10 @@ doh.kidzonet.io
 doh.killtw.im
 blog.kimiblock.top
 adguard.konikoni428.com
-doh.kooman.org
 korzhov.dev
 dns.kosan.moe
 dart.kpsn.org
 xray.krnl.eu
-dns.kugoapps.com
 dns.kuuhaku.moe
 agh.kyusang.win
 doh.lacontrevoie.fr
