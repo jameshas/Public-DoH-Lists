@@ -206,7 +206,6 @@ dns.csa-rz.de
 cubedns.com
 dns.cynthialabs.net
 dns.d96.info
-get-resolution-ok-cdn.dahi.icu
 dns.dallinbryce.com
 adguard.dantynes.cyou
 mail.data.haus
@@ -465,7 +464,6 @@ dns.jichi.io
 jkdns.me
 adguard.johanliebert.top
 opencdn.jomodns.com
-dns.benoit.jp.net
 dns.jstockley.com
 dns.jupitrdns.com
 ad.justincounts.com
@@ -506,6 +504,7 @@ linkdiscord.xyz
 doh.linngde.com
 africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
+dns.listo.click
 loadlow.me
 dns.lobbygod.com
 doh.phdns1.lonet.org
@@ -699,6 +698,7 @@ dns.princex.net
 princez.uk
 de.dns.privex.io
 nl.dns.privex.io
+dns.propheci.xyz
 dns.psociety.de
 dns.pumplex.com
 dns-privacy.puregeni.us
@@ -748,7 +748,6 @@ uw-dns.rubyfish.cn
 v6.rubyfish.cn
 rumpelsepp.org
 dns1.ryan-palmer.com
-dns.s0ra.asia
 safeservedns.com
 doh.safesurfer.io
 dns.sarak.as
@@ -762,7 +761,6 @@ dns.seiffert.me
 adguard.senthil.us
 doh.serverhost.no
 dns.sev.monster
-dns.shaftinc.fr
 dns.shareworx.net
 dns.shecan.ir
 free.shecan.ir
@@ -821,6 +819,7 @@ ns.trcnet.fi
 tributh.net
 truta.org
 adg.tshost.no
+dns.tsknf.net
 doh.ibr.cs.tu-bs.de
 tuskythehusky.tech
 dns.twnic.tw
