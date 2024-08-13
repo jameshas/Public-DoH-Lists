@@ -376,6 +376,7 @@ agh.dshubham.xyz
 dukun.de
 adguard.easez.net
 doh.eddi.net
+dns.edgeburnmedia.com
 edgy-dns.com
 dns.edison42.dev
 dns.editechstudio.com
@@ -516,7 +517,6 @@ lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
 lukscasino-929-tr.xyz
 orau.lz0724.com
-doh.magunyan.com
 mailkyb.co
 doh.maskab.com
 masters-of-cloud.de
@@ -666,6 +666,7 @@ dns.oszx.co
 dns.ourvau.lt
 1a.ns.ozer.im
 dns.paesa.es
+adguard.pangerl.it
 dns.panszelescik.pl
 dns.pari.network
 pashagame456.com
@@ -809,6 +810,7 @@ jp.tiar.app
 doh.tiarap.org
 jp.tiarap.org
 dns.tierradeayala.com
+timedns.net
 timmes.nl
 dns.tipsy.coffee
 dns.tls-data.de
@@ -819,7 +821,6 @@ ns.trcnet.fi
 tributh.net
 truta.org
 adg.tshost.no
-dns.tsknf.net
 doh.ibr.cs.tu-bs.de
 tuskythehusky.tech
 dns.twnic.tw
@@ -878,3 +879,4 @@ zdn.ro
 dns.zemows.industries
 adguard-kartoffel.zernico.de
 doh.zln.wtf
+dns.zui.lol
