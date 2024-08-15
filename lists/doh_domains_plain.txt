@@ -518,6 +518,7 @@ lukscasino-542-tr.xyz
 lukscasino-929-tr.xyz
 orau.lz0724.com
 mailkyb.co
+dns.marbledfennec.net
 doh.maskab.com
 masters-of-cloud.de
 dns.mateo.ovh
@@ -739,7 +740,6 @@ sky.rethinkdns.com
 doh.rezhajul.io
 resolver.rferee.dev
 dns.rin.sh
-dns.rjls.me
 dns.rotunneling.net
 o.rsaikat.com
 adguard.ruby.ci
@@ -799,7 +799,6 @@ ihctw.synology.me
 doh.syshero.org
 dns.t53.de
 tecdrive.site
-vpn.technicule.info
 robin.techomespace.com
 dns.telekom.de
 dns.tesem.dog
