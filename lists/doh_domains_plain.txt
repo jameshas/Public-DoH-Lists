@@ -43,7 +43,6 @@ doh.iucc.ac.il
 adl.adfilter.net
 per.adfilter.net
 syd.adfilter.net
-adfiltro.fun
 adfreedns.top
 dns.adguard.com
 dns-family.adguard.com
@@ -52,7 +51,6 @@ dns.adguard-dns.com
 family.adguard-dns.com
 unfiltered.adguard-dns.com
 dns.adrianlam.com
-aerodrorne.vip
 affcdn.net
 affsoft.cc
 blitz.ahadns.com
@@ -158,7 +156,6 @@ kracon.anycast.censurfridns.dk
 rgnet-iad.anycast.censurfridns.dk
 unicast.censurfridns.dk
 dns.cert.ee
-cfdjb.org
 dns.cfiec.net
 ibuki.cgnat.net
 chandr1000.net
@@ -188,6 +185,7 @@ family.cloudflare-dns.com
 mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 dns.cmrg.net
+dns.dnsadguard.co.uk
 dns.gayanalysing.co.uk
 dns.oliviertv.co.za
 pooblet.co.za
@@ -208,7 +206,6 @@ p1.freedns.controld.com
 p2.freedns.controld.com
 p3.freedns.controld.com
 uncensored.freedns.controld.com
-dns.cooluc.com
 doh.cornes.me
 doh.cox.net
 dohdot.coxlab.net
@@ -262,6 +259,9 @@ dns.dns-53.us
 dns.dns-53.com
 dns.dns-53.uk
 dns-free.link
+dns1.dns-ga.de
+dns2.dns-ga.de
+dns3.dns-ga.de
 tls-dns-u.odvr.dns-oarc.net
 dns0.eu
 kids.dns0.eu
@@ -382,6 +382,7 @@ b.family.ns.dnslify.com
 a.safe.ns.dnslify.com
 b.safe.ns.dnslify.com
 dnslow.me
+dnssilo.top
 dns.dnswarden.com
 doh.dnswarden.com
 doh.li
@@ -393,7 +394,6 @@ doh.buzz
 doh.xyz
 dns.doh.best
 doh.domreg.lt
-dns.dooks.uk
 ns1.dotls.org
 doh.dscloud.me
 agh.dshubham.xyz
@@ -458,6 +458,7 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 performance.gosami.xyz
 jp.gridns.xyz
+dnsblock.grisumedia.de
 dns.guard.io
 dns.gutwe.in
 dns.hahnjo.de
@@ -468,13 +469,13 @@ query.hdns.io
 ordns.he.net
 dns.hellozhao.com
 dns.henek.ovh
+hfgx.shop
 dns.hinet.net
 dns.hostux.net
 dns.huas.me
 doth.huque.com
 dns.hypercute.eu
 opennic.i2pd.xyz
-dns.iamanuragh.in
 dns.ian.rocks
 mask.icloud.com
 mask-h2.icloud.com
@@ -567,7 +568,7 @@ orau.lz0724.com
 mailkyb.co
 dns.maitrekuc.fr
 dns.marasov.id
-dns.marbledfennec.net
+multi.dns.marbledfennec.net
 doh.maskab.com
 masters-of-cloud.de
 dns.mateo.ovh
@@ -585,13 +586,13 @@ doh.mmmalia.com
 dns.mnet-online.de
 dns.mni.li
 mnrv.trade
+dnstls.mobik.com
 nue2.moderateinfra.net
 ps1.modr.club
 dns.molinero.dev
 naganohara-yoimiya.momokko.moe
 dns.momou.ch
 dns.mtoo.vip
-ns.mtsoln.com
 dns.mullvad.net
 adblock.dns.mullvad.net
 all.dns.mullvad.net
@@ -604,7 +605,6 @@ dns.feldy.my.id
 dns.lista.my.id
 dns.mikrotikrumahan.my.id
 dns1.server.my.id
-dns.velyn.my.id
 adblock.mydns.network
 family.mydns.network
 freedom.mydns.network
@@ -671,6 +671,8 @@ odvr.nic.cz
 dns.nick-slowinski.de
 nicsezcheckfbi.gov
 dns1.nielsdb.be
+dns.ningkelle.id
+family.dns.ningkelle.id
 adblock.any.dns.nixnet.xyz
 uncensored.any.dns.nixnet.xyz
 adblock.lux1.dns.nixnet.xyz
@@ -699,10 +701,10 @@ dns.novg.net
 ns3.com
 ns3.cx
 ns3.link
+dnscache0.ns71.net
 dot.occ.top
 dns.odinpl.com
 dns.ofdoom.net
-dns.olpploiopkuyhiopsfrt.info
 one.one.one.one
 doh.onedns.net
 secure.onedns.cc
@@ -721,6 +723,7 @@ ns1.opennameserver.org
 ns4.opennameserver.org
 dns.oszx.co
 dns.ourvau.lt
+dns.oxystin.online
 1a.ns.ozer.im
 dns.paesa.es
 adguard.pangerl.it
@@ -816,7 +819,6 @@ doh.safesurfer.io
 dns.sarak.as
 dns.sarakas.net
 dns.sarilouis.com
-dns.scarx.net
 dns.scott-smith.us
 doh.seby.io
 doh-2.seby.io
@@ -832,6 +834,7 @@ dns.shecan.ir
 free.shecan.ir
 pro.shecan.ir
 dns.sheggi.ch
+dns.shimul.me
 adguard.shoupperuser.com
 adguard.shutgaming.net
 dns.silen.org
@@ -839,7 +842,6 @@ dns.silentlybren.com
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
-skydragoness.com
 dns.slinkyman.net
 dns.smartguard.io
 clientdns3.softcom.net
@@ -857,18 +859,20 @@ resolver.sunet.se
 sunnygyl.com
 doh.sunoaki.net
 dns.superstefan.win
+dns.sv-zauner.at
 dns.svoi.dev
 dns.switch.ch
 dns.syaifullah.com
 ibksturm.synology.me
 ihctw.synology.me
 doh.syshero.org
+dns.szpadel.ovh
 dns.t53.de
 tecdrive.site
+dns.technologycage.com
 robin.techomespace.com
 dns.telekom.de
 dns.soldier.terumi.club
-dns.tesem.dog
 dns.thebuckners.org
 dns.therifleman.name
 doh.tiar.app
@@ -898,6 +902,7 @@ kracon.anycast.uncensoreddns.org
 rgnet-iad.anycast.uncensoreddns.org
 unicast.uncensoreddns.org
 resolver.unstoppable.io
+dns.unx.io
 dns.uplenk.com
 dns.koala.us.to
 nightlymoon.us.kg
@@ -937,11 +942,12 @@ safe.dot.dns.yandex.net
 dns.yatima.tv
 your-dns.run
 yovbak.com
+dns.yu.dev
 yuvelirtut.website
 zakaria.website
-www.zburger.top
 zdn.ro
 dns.zemows.industries
 adguard-kartoffel.zernico.de
+doh.zknt.org
 doh.zln.wtf
 dns.zui.lol
