@@ -212,6 +212,7 @@ dohdot.coxlab.net
 dns.criena.net
 doh.crypto.sx
 doh-ipv6.crypto.sx
+dns.cryptomize.com
 dns.crystalyx.net
 dns.csa-rz.de
 dns.csaonline.de
@@ -568,6 +569,7 @@ orau.lz0724.com
 mailkyb.co
 dns.maitrekuc.fr
 dns.marasov.id
+dns.marbledfennec.net
 multi.dns.marbledfennec.net
 doh.maskab.com
 masters-of-cloud.de
@@ -604,7 +606,6 @@ adblock.doh.mullvad.net
 dns.feldy.my.id
 dns.lista.my.id
 dns.mikrotikrumahan.my.id
-dns1.server.my.id
 adblock.mydns.network
 family.mydns.network
 freedom.mydns.network
@@ -918,8 +919,10 @@ dns.vojtat.cz
 vorlif.org
 bigora2.vuhai.de
 dns.w3ctag.org
+aqua.is.my.waifu.cz
 darkness.is.my.waifu.cz
 megumin.is.my.waifu.cz
+yunyun.is.my.waifu.cz
 dns.wang.art
 abel.waringer-atg.de
 dns.engineer.web.id
@@ -943,11 +946,9 @@ dns.yatima.tv
 your-dns.run
 yovbak.com
 dns.yu.dev
-yuvelirtut.website
 zakaria.website
 zdn.ro
 dns.zemows.industries
 adguard-kartoffel.zernico.de
 doh.zknt.org
 doh.zln.wtf
-dns.zui.lol
