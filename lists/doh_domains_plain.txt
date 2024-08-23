@@ -40,6 +40,7 @@ resolver1.absolight.net
 resolver2.absolight.net
 resolver3.absolight.net
 doh.iucc.ac.il
+adblockersite.com
 adl.adfilter.net
 per.adfilter.net
 syd.adfilter.net
@@ -161,7 +162,6 @@ ibuki.cgnat.net
 chandr1000.net
 dns.chenu.ch
 dns.chilimac.net
-dns.chmc.ml
 dns.christerwaren.fi
 dns.christian.moe
 dns.chriswservers.com
@@ -413,7 +413,6 @@ dns.eliv.kr
 dns.emiliyan.com
 eth.link
 doh.excdn.eu.org
-dns.fullaccesstointernet.jp.eu.org
 dns.mayx.eu.org
 dns.extrawdw.net
 dns.f4a.fun
@@ -471,7 +470,6 @@ ordns.he.net
 dns.hellozhao.com
 dns.henek.ovh
 hfgx.shop
-dns.hinet.net
 dns.hostux.net
 dns.huas.me
 doth.huque.com
@@ -566,6 +564,7 @@ lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
 lukscasino-929-tr.xyz
 orau.lz0724.com
+addns1.m-it.ro
 mailkyb.co
 dns.maitrekuc.fr
 dns.marasov.id
@@ -763,7 +762,6 @@ princez.uk
 de.dns.privex.io
 nl.dns.privex.io
 dns.propheci.xyz
-dns.psociety.de
 dns.pumplex.com
 dns-privacy.puregeni.us
 doh.qis.io
@@ -890,7 +888,6 @@ resolv2.trash.net
 resolv3.trash.net
 ns.trcnet.fi
 tributh.net
-truta.org
 adg.tshost.no
 doh.ibr.cs.tu-bs.de
 tuskythehusky.tech
