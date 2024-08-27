@@ -480,7 +480,6 @@ adguard.shuting.idv.tw
 public.dns.iij.jp
 ikarosalpha.xyz
 dns.ikataruto.com
-dns.immanuelschaffer.de
 doh.immerda.ch
 dns1.in-berlin.de
 dns2.in-berlin.de
@@ -530,6 +529,7 @@ dart.kpsn.org
 xray.krnl.eu
 dns.kukal.cz
 dns.kuuhaku.moe
+kx-97795-tr.xyz
 agh.kyusang.win
 dns.l337.site
 doh.lacontrevoie.fr
