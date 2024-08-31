@@ -845,7 +845,6 @@ squidmall.vip
 dns.startupstack.tech
 dns.stevenz.net
 dns.stirringphoto.com
-doh.suche.org
 dns.suhaila.dev
 resolver.sunet.se
 sunnygyl.com
