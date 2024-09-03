@@ -92,6 +92,7 @@ doh.asagiri.moe
 dns.ashleyjackson.net
 dns.asterimoon.com
 dandelionsprout.asuscomm.com
+atris.cyou
 dohtrial.att.net
 secure.avastdns.com
 adguard.avdkishore.dev
@@ -189,7 +190,6 @@ dns.gayanalysing.co.uk
 dns.oliviertv.co.za
 pooblet.co.za
 agh.workfordemo.co.in
-dns.coderoria.com
 adguard.frutuozo.com.br
 dns.netraptor.com.au
 dns.redhosting.com.ar
@@ -406,7 +406,6 @@ edgy-dns.com
 dns.edison42.dev
 dns.editechstudio.com
 dns.efficientdocuments.com
-hole.elbschloss.xyz
 dns.elemental.software
 eliatofani.ovh
 dns.eliv.kr
@@ -549,7 +548,6 @@ dns.lihj.me
 doh.linngde.com
 africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
-dns.listo.click
 loadlow.me
 dns.lobbygod.com
 doh.phdns1.lonet.org
@@ -649,7 +647,6 @@ us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
 dns.ndo.dev
 dns.neeb.it
-dns.neowutran.ovh
 dns.aa.net.uk
 dns.netvpn.net
 dns.neutopia.org
