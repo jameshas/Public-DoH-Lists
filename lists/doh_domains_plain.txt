@@ -462,7 +462,6 @@ dns.guard.io
 dns.gutwe.in
 dns.hahnjo.de
 dns.haka.se
-dns.hakim.one
 adguard.hartley.cloud
 query.hdns.io
 ordns.he.net
@@ -523,6 +522,7 @@ doh.kidzonet.io
 doh.killtw.im
 blog.kimiblock.top
 ko-18948-tr.xyz
+kol.lol
 adguard.konikoni428.com
 korzhov.dev
 dns.kosan.moe
@@ -561,7 +561,6 @@ lukscasino-929-tr.xyz
 orau.lz0724.com
 addns1.m-it.ro
 mailkyb.co
-dns.maitrekuc.fr
 dns.marasov.id
 dns.marbledfennec.net
 multi.dns.marbledfennec.net
@@ -575,7 +574,6 @@ dns.melvin2204.nl
 mendozasdelivery.com
 testaghome.meshkov.info
 dns.mh4ckt3mh4ckt1c4s.xyz
-muli.stusta.mhn.de
 mikezhang.xyz
 netcup.mismat.ch
 doh.mmmalia.com
@@ -599,6 +597,7 @@ adblock.doh.mullvad.net
 dns.feldy.my.id
 dns.lista.my.id
 dns.mikrotikrumahan.my.id
+myatris.sbs
 adblock.mydns.network
 family.mydns.network
 freedom.mydns.network
@@ -806,7 +805,6 @@ dns1.ryan-palmer.com
 safeservedns.com
 doh.safesurfer.io
 dns.sarak.as
-dns.sarakas.net
 dns.sarilouis.com
 dns.scott-smith.us
 doh.seby.io
@@ -835,7 +833,6 @@ dns.slinkyman.net
 dns.smartguard.io
 clientdns3.softcom.net
 spacedns.org
-adguard.sparshbajaj.me
 doh-01.spectrum.com
 doh-02.spectrum.com
 squidmall.vip
@@ -932,7 +929,6 @@ yovbak.com
 dns.yu.dev
 zakaria.website
 zdn.ro
-dns.zemows.industries
 adguard-kartoffel.zernico.de
 doh.zknt.org
 doh.zln.wtf
