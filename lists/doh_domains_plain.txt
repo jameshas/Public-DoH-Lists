@@ -392,7 +392,6 @@ doh.pub
 doh.sb
 doh.beauty
 doh.buzz
-doh.xyz
 dns.doh.best
 doh.domreg.lt
 ns1.dotls.org
@@ -421,6 +420,7 @@ dns.faked.org
 dns.falkenthal.org
 dnsvps.familiamv.net
 dns.fancyorg.at
+farewellkou.click
 dns.farshidhakimy.de
 ns0.fdn.fr
 ns1.fdn.fr
@@ -575,6 +575,7 @@ mendozasdelivery.com
 testaghome.meshkov.info
 dns.mh4ckt3mh4ckt1c4s.xyz
 mikezhang.xyz
+miniapp.sh
 netcup.mismat.ch
 doh.mmmalia.com
 dns.mnet-online.de
@@ -693,6 +694,7 @@ ns3.com
 ns3.cx
 ns3.link
 dnscache0.ns71.net
+ns.nwps.fi
 dot.occ.top
 dns.odinpl.com
 dns.ofdoom.net
