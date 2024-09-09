@@ -28,7 +28,6 @@ dns.52306.org
 family.5ososea.com
 kids.5ososea.com
 8888.google
-89433332.xyz
 dns.9999.sg
 dns.a47.me
 doh.aaaab3n.moe
@@ -186,7 +185,6 @@ mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 dns.cmrg.net
 dns.dnsadguard.co.uk
-dns.gayanalysing.co.uk
 dns.oliviertv.co.za
 pooblet.co.za
 agh.workfordemo.co.in
@@ -329,7 +327,6 @@ lon01.dnscry.pt
 mad01.dnscry.pt
 mia01.dnscry.pt
 mil01.dnscry.pt
-mru01.dnscry.pt
 muc01.dnscry.pt
 naw01.dnscry.pt
 nue01.dnscry.pt
@@ -586,7 +583,6 @@ nue2.moderateinfra.net
 ps1.modr.club
 dns.molinero.dev
 dns.momou.ch
-dns.mtoo.vip
 dns.mullvad.net
 adblock.dns.mullvad.net
 all.dns.mullvad.net
@@ -608,7 +604,6 @@ dns.mzjtechnology.com
 n0.eu
 dns.n23.io
 dns.nako.kr
-dns.narl.app
 dns.nas-server.ru
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
@@ -727,7 +722,6 @@ i.passcloud.xyz
 doh.gcp.pathofgrace.com
 rpz-public-resolver1.rrdns.pch.net
 darya.persiannit.net
-adguard.pggns.de
 dns.phillipjberry.net
 doh.centraleu.pi-dns.com
 doh.eastas.pi-dns.com
