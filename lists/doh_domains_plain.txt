@@ -420,6 +420,7 @@ farewellkou.click
 dns.farshidhakimy.de
 ns0.fdn.fr
 ns1.fdn.fr
+dns.feelvm.dev
 dns.fehlsprache.de
 ag.ff0x.ca
 doh.ffmuc.net
@@ -571,7 +572,6 @@ mendozasdelivery.com
 testaghome.meshkov.info
 dns.mh4ckt3mh4ckt1c4s.xyz
 mikezhang.xyz
-miniapp.sh
 netcup.mismat.ch
 doh.mmmalia.com
 dns.mnet-online.de
@@ -881,6 +881,7 @@ dns.uplenk.com
 dns.koala.us.to
 nightlymoon.us.kg
 luna-is.so-gorgeo.us.kg
+mita-is.so-gorgeo.us.kg
 nana-is.so-gorgeo.us.kg
 tetty-is.so-gorgeo.us.kg
 adfree.usableprivacy.net
