@@ -1,4 +1,3 @@
-dns.000404000.xyz
 003153.xyz
 ns.00dani.me
 0ms.dev
@@ -120,6 +119,7 @@ doh-jp.blahdns.com
 doh-sg.blahdns.com
 doh1.blahdns.com
 doh2.blahdns.com
+dns.blaumer.dev
 us1.blissdns.net
 adguard.blogssl.com
 dns.blokada.org
@@ -185,7 +185,6 @@ family.cloudflare-dns.com
 mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 dns.cmrg.net
-dns.dnsadguard.co.uk
 dns.oliviertv.co.za
 pooblet.co.za
 agh.workfordemo.co.in
@@ -369,6 +368,7 @@ dns2.dnscrypt.ca
 dns-doh.dnsforfamily.com
 dnsforge.de
 clean.dnsforge.de
+hard.dnsforge.de
 bahopir188.dnshome.de
 dns.dnshome.de
 doh.dnslify.com
@@ -425,7 +425,6 @@ dns.fehlsprache.de
 ag.ff0x.ca
 doh.ffmuc.net
 dns.ffnw.de
-dns.fizz.studio
 dns.flightspace.net
 dns01.flm9.net
 dns.flymc.cc
@@ -883,7 +882,10 @@ nightlymoon.us.kg
 luna-is.so-gorgeo.us.kg
 mita-is.so-gorgeo.us.kg
 nana-is.so-gorgeo.us.kg
+nindy-is.so-gorgeo.us.kg
+nova-is.so-gorgeo.us.kg
 tetty-is.so-gorgeo.us.kg
+yussy-is.so-gorgeo.us.kg
 adfree.usableprivacy.net
 dns.vaioswolke.xyz
 tor.vasi.li
