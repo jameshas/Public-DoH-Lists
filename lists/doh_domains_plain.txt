@@ -434,7 +434,6 @@ dns.freyja.pw
 dns.froth.zone
 awan.ftp.sh
 doh.futa.gg
-doh.futa.app
 cluster-0.gac.edu
 cluster-1.gac.edu
 dns.gamban.com
@@ -490,7 +489,6 @@ dns.janl.eu
 jcdns.fun
 adguard.jfchenier.ca
 dns.jhangy.us
-dns.jichi.io
 dns.jiyi.eu
 jkdns.me
 adguard.johanliebert.top
