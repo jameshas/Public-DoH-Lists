@@ -121,7 +121,6 @@ doh1.blahdns.com
 doh2.blahdns.com
 dns.blaumer.dev
 us1.blissdns.net
-adguard.blogssl.com
 dns.blokada.org
 rfree1.blue-shield.at
 rfree2.blue-shield.at
@@ -187,7 +186,6 @@ security.cloudflare-dns.com
 dns.cmrg.net
 dns.oliviertv.co.za
 pooblet.co.za
-agh.workfordemo.co.in
 adguard.frutuozo.com.br
 dns.netraptor.com.au
 dns.redhosting.com.ar
@@ -279,7 +277,6 @@ uk01.dns4me.net
 us01.dns4me.net
 us02.dns4me.net
 dns8.org
-dns9.cfd
 ns1.recursive.dnsbycomodo.com
 ns2.recursive.dnsbycomodo.com
 asia.dnscepat.id
@@ -645,6 +642,7 @@ chromium.dns.nextdns.io
 firefox.dns.nextdns.io
 dns1.nextdns.io
 dns2.nextdns.io
+ngbs.host
 dns.nhtsky.com
 doh.nic.lv
 odvr.nic.cz
