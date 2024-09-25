@@ -732,7 +732,6 @@ dns.princex.net
 princez.uk
 de.dns.privex.io
 nl.dns.privex.io
-dns.prokits.digital
 dns.propheci.xyz
 dns.pumplex.com
 dns-privacy.puregeni.us
