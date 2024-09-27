@@ -145,10 +145,10 @@ dns.busold.ws
 www.c-dns.com
 captnemo.in
 doh.captnemo.in
-console.carestyle.org
 dns.carson-family.com
 dns.carter.me
 dns.caspervk.net
+catchen121299.top
 doh.ccb-net.it
 dns.cctld.kg
 anycast.censurfridns.dk
@@ -425,7 +425,6 @@ dns.flightspace.net
 dns01.flm9.net
 dns.flymc.cc
 biying.flymlc.com
-dns.freopc.fr
 dns.freyja.pw
 dns.froth.zone
 awan.ftp.sh
@@ -723,7 +722,6 @@ kronos.plan9-dns.com
 pluton.plan9-dns.com
 privacy.plumedns.com
 doh.powerdns.org
-dns.aeiou.pp.ua
 lindung.pp.ua
 sundalandia.pp.ua
 virga.pp.ua
