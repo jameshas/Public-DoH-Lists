@@ -1,4 +1,3 @@
-003153.xyz
 ns.00dani.me
 0ms.dev
 cdn.0ms.dev
@@ -6,6 +5,7 @@ dns.0ooo.icu
 dns.0rz.ing
 dns.0x55.net
 123000123.xyz
+dns.13evl.com
 cloud.198.games
 dns.23-4.cn
 dns.233py.com
@@ -89,7 +89,6 @@ dns.arkbotech.com
 nsec.arnor.org
 dns.artikel10.org
 doh.asagiri.moe
-dns.ashleyjackson.net
 dns.asterimoon.com
 dandelionsprout.asuscomm.com
 atris.cyou
@@ -162,7 +161,6 @@ dns.cfiec.net
 ibuki.cgnat.net
 chandr1000.net
 dns.chenu.ch
-dns.chilimac.net
 dns.christerwaren.fi
 dns.chriswservers.com
 c.cicitt.ch
@@ -217,6 +215,7 @@ cubedns.com
 dns.cynthialabs.net
 dns.d94.xyz
 dns.d96.info
+dns.daarrk.tech
 adguard.dantynes.cyou
 mail.data.haus
 ns.data.haus
@@ -421,6 +420,7 @@ dns.fehlsprache.de
 ag.ff0x.ca
 doh.ffmuc.net
 dns.ffnw.de
+dns.fgbk.net
 dns.flightspace.net
 dns01.flm9.net
 dns.flymc.cc
@@ -438,7 +438,6 @@ getdnsapi.net
 adguard.maison.gifino.fr
 dns.girino.org
 dns.glf.wtf
-agh.gloom.nexus
 dns.gnb09.id
 privacydns.go6lab.si
 dns.google.com
@@ -457,6 +456,7 @@ ordns.he.net
 dns.hellozhao.com
 dns.henek.ovh
 hfgx.shop
+home-server.store
 dns.hoody.com
 dns.hostux.net
 dns.huas.me
@@ -483,7 +483,6 @@ jackyes.ovh
 jcdns.fun
 adguard.jfchenier.ca
 dns.jhangy.us
-dns.jiyi.eu
 jkdns.me
 adguard.johanliebert.top
 opencdn.jomodns.com
@@ -675,6 +674,7 @@ ns3.cx
 ns3.link
 dnscache0.ns71.net
 ns.nwps.fi
+qdns02.nymterm.com
 dot.occ.top
 dns.odinpl.com
 dns.ofdoom.net
@@ -721,6 +721,8 @@ helios.plan9-dns.com
 kronos.plan9-dns.com
 pluton.plan9-dns.com
 privacy.plumedns.com
+pm1239-bd.xyz
+pm9352-bd.xyz
 doh.powerdns.org
 lindung.pp.ua
 sundalandia.pp.ua
@@ -728,6 +730,14 @@ virga.pp.ua
 dns.pragmasec.nl
 dns.princex.net
 princez.uk
+hungary.privacy-dns.pw
+india.privacy-dns.pw
+las-vegas.privacy-dns.pw
+luxembourg.privacy-dns.pw
+romania.privacy-dns.pw
+sweden.privacy-dns.pw
+switzerland.privacy-dns.pw
+united-arab-emirates.privacy-dns.pw
 de.dns.privex.io
 nl.dns.privex.io
 dns.propheci.xyz
