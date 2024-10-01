@@ -15,8 +15,8 @@ ndns.233py.com
 sdns.233py.com
 wdns.233py.com
 dns.240527.xyz
-351242444.xyz
 doh.360.cn
+pro.362878.xyz
 3dcosas.xyz
 3dns.eu
 dns.3wv.de
@@ -93,6 +93,7 @@ dns.asterimoon.com
 dandelionsprout.asuscomm.com
 atris.cyou
 dohtrial.att.net
+dns.auapi.fun
 secure.avastdns.com
 adguard.avdkishore.dev
 doh1.b-cdn.net
@@ -216,6 +217,7 @@ dns.cynthialabs.net
 dns.d94.xyz
 dns.d96.info
 dns.daarrk.tech
+6301s.dangkiem.com
 adguard.dantynes.cyou
 mail.data.haus
 ns.data.haus
@@ -241,6 +243,7 @@ dns.digitalsize.net
 doh.disconnect.app
 fdns1.dismail.de
 fdns2.dismail.de
+www.dltuykfgp.top
 dns.expert
 dns.google
 dns.pub
@@ -375,7 +378,6 @@ b.family.ns.dnslify.com
 a.safe.ns.dnslify.com
 b.safe.ns.dnslify.com
 dnslow.me
-dnssilo.top
 dns.dnswarden.com
 doh.dnswarden.com
 do-39574-tr.xyz
@@ -402,6 +404,7 @@ dns.elemental.software
 eliatofani.ovh
 dns.eliv.kr
 dns.emiliyan.com
+doh.ersei.net
 doh.excdn.eu.org
 dns.mayx.eu.org
 dns.extrawdw.net
@@ -421,6 +424,7 @@ ag.ff0x.ca
 doh.ffmuc.net
 dns.ffnw.de
 dns.fgbk.net
+filipinoray.com
 dns.flightspace.net
 dns01.flm9.net
 dns.flymc.cc
@@ -446,14 +450,15 @@ google-public-dns-b.google.com
 performance.gosami.xyz
 jp.gridns.xyz
 dnsblock.grisumedia.de
+doh.gs-tests.com
 dns.guard.io
 dns.gutwe.in
 dns.hahnjo.de
 dns.haka.se
+dns.hannielzhang.com
 adguard.hartley.cloud
 query.hdns.io
 ordns.he.net
-dns.hellozhao.com
 dns.henek.ovh
 hfgx.shop
 home-server.store
@@ -468,7 +473,6 @@ mask-h2.icloud.com
 adguard.shuting.idv.tw
 public.dns.iij.jp
 ikarosalpha.xyz
-dns.ikataruto.com
 doh.immerda.ch
 dns1.in-berlin.de
 dns2.in-berlin.de
@@ -481,6 +485,7 @@ pdns.itxe.net
 ivnkn.xyz
 jackyes.ovh
 jcdns.fun
+doh.jetcafe.org
 adguard.jfchenier.ca
 dns.jhangy.us
 jkdns.me
@@ -513,6 +518,7 @@ adguard.konikoni428.com
 korzhov.dev
 dns.kosan.moe
 dart.kpsn.org
+adblock.krctech.dev
 xray.krnl.eu
 dns.kukal.cz
 dns.kuuhaku.moe
@@ -527,11 +533,13 @@ dns.learningman.top
 yarp.lefolgoc.net
 resolver-eu.lelux.fi
 dns.lepilleur.com
+dns.lermer.nl
 lesuo.top
 dns.levonet.sk
 dns.liberador.net
 doh.libredns.gr
 dns.lihj.me
+michelo.line.pm
 africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
 loadlow.me
@@ -675,6 +683,7 @@ ns3.link
 dnscache0.ns71.net
 ns.nwps.fi
 qdns02.nymterm.com
+ha.o51r15.com
 dot.occ.top
 dns.odinpl.com
 dns.ofdoom.net
@@ -722,6 +731,7 @@ kronos.plan9-dns.com
 pluton.plan9-dns.com
 privacy.plumedns.com
 pm1239-bd.xyz
+pm7051-br.xyz
 pm9352-bd.xyz
 doh.powerdns.org
 lindung.pp.ua
@@ -845,15 +855,16 @@ tecdrive.site
 dns.technologycage.com
 rx.techomespace.com
 dns.telekom.de
-dns.soldier.terumi.club
 dns.thebuckners.org
 dns.therifleman.name
+doh.thio.me
 doh.tiar.app
 jp.tiar.app
 doh.tiarap.org
 jp.tiarap.org
 dns.tierradeayala.com
 timmes.nl
+adb.timnichollsphotography.com
 dns.tipsy.coffee
 dns.tls-data.de
 resolv1.trash.net
