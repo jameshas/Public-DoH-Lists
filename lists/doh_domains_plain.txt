@@ -26,6 +26,7 @@ ns2.4netguides.org
 dns.52306.org
 family.5ososea.com
 kids.5ososea.com
+ayman-dns.731my.com
 8888.google
 dns.9999.sg
 dns.a47.me
@@ -103,7 +104,6 @@ dns.b72.com
 fr-dns1.bancuh.com
 sg-dns1.bancuh.com
 bazooki-infra.dev
-dns.beardic.cn
 antivirus.bebasid.com
 dns.bebasid.com
 internetsehat.bebasid.com
@@ -127,6 +127,7 @@ rfree1.blue-shield.at
 rfree2.blue-shield.at
 bluemood.me
 dns.bmwhocking.com
+d.bod.lol
 doh.boje8.me
 adguard.bonis.de
 doh.bortzmeyer.fr
@@ -139,10 +140,12 @@ free.bravedns.com
 dns.bravoc.one
 dns.brembeck.cloud
 doh.bt.com
+goose.buckyfan.net
 stratus.bugz.fr
 dns.burgas.pro
 dns.busold.ws
 www.c-dns.com
+dns.cahlen.com
 captnemo.in
 doh.captnemo.in
 dns.carson-family.com
@@ -160,6 +163,7 @@ unicast.censurfridns.dk
 dns.cert.ee
 dns.cfiec.net
 ibuki.cgnat.net
+dns.ch295.ru
 chandr1000.net
 dns.chenu.ch
 dns.christerwaren.fi
@@ -184,6 +188,7 @@ family.cloudflare-dns.com
 mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 dns.cmrg.net
+ns.nerdytechgeeks.co.za
 dns.oliviertv.co.za
 pooblet.co.za
 adguard.frutuozo.com.br
@@ -212,7 +217,6 @@ dns.crystalyx.net
 dns.csa-rz.de
 dns.csaonline.de
 dns.csswg.org
-cubedns.com
 dns.cynthialabs.net
 dns.d94.xyz
 dns.d96.info
@@ -419,6 +423,7 @@ ag.ff0x.ca
 doh.ffmuc.net
 dns.ffnw.de
 dns.fgbk.net
+fidelius.top
 filipinoray.com
 dns.flightspace.net
 dns01.flm9.net
@@ -441,7 +446,6 @@ privacydns.go6lab.si
 dns.google.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
-performance.gosami.xyz
 jp.gridns.xyz
 dnsblock.grisumedia.de
 dns.guard.io
@@ -472,12 +476,12 @@ dns.inclusioproject.com
 dns.indybanipal.com
 dns.inforlogia.com
 qlf-doh.inria.fr
+dns.is0mino.com
 dns.ishan.pw
 pdns.itxe.net
 ivnkn.xyz
 jackyes.ovh
 jcdns.fun
-doh.jetcafe.org
 adguard.jfchenier.ca
 dns.jhangy.us
 jkdns.me
@@ -495,6 +499,7 @@ dns.kastner-online.de
 dns.kawa.tf
 dns.kebree.fr
 doh.kel.pe
+chr.kepegawaiandju.id
 dns.kerekes.xyz
 dns.kernel-error.de
 dns.kescher.at
@@ -603,7 +608,6 @@ fr-gra-w-p-1.nashkan.net
 gb-lon-w-f-1.nashkan.net
 gb-lon-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
-jp-tyo-w-p-1.nashkan.net
 kz-pav-w-p-1.nashkan.net
 nl-dro-w-f-1.nashkan.net
 nl-dro-w-p-1.nashkan.net
@@ -626,6 +630,7 @@ us-saj-w-p-1.nashkan.net
 dns.ndo.dev
 dns.neeb.it
 dns.nefret.net
+adguard.neon0404.space
 dns.aa.net.uk
 dns.netvpn.net
 dns.neutopia.org
@@ -637,6 +642,7 @@ firefox.dns.nextdns.io
 dns1.nextdns.io
 dns2.nextdns.io
 dns.nhtsky.com
+d.niaox.com
 doh.nic.lv
 odvr.nic.cz
 dns.nick-slowinski.de
@@ -676,6 +682,7 @@ dnscache0.ns71.net
 ns.nwps.fi
 qdns02.nymterm.com
 ha.o51r15.com
+obscuro.top
 dot.occ.top
 dns.odinpl.com
 dns.ofdoom.net
@@ -699,7 +706,6 @@ dns.oszx.co
 dns.ourvau.lt
 1a.ns.ozer.im
 dns.paesa.es
-adguard.pangerl.it
 dns.panszelescik.pl
 dns.pari.network
 pashagame456.com
@@ -725,6 +731,7 @@ privacy.plumedns.com
 pm1239-bd.xyz
 pm7051-br.xyz
 pm9352-bd.xyz
+portus.top
 doh.powerdns.org
 lindung.pp.ua
 sundalandia.pp.ua
@@ -761,6 +768,7 @@ frog.dns.qwer.pw
 lion.dns.qwer.pw
 tiger.dns.qwer.pw
 resolver.r0cket.net
+resolve2.r9x.cc
 dns.rabbitdns.org
 family.rabbitdns.org
 security.rabbitdns.org
@@ -770,13 +778,13 @@ dns.rbn.gr
 dns.reckoningslug.name
 dns.redvau.lt
 dns.reitmeier.me
-dns.repinger.com
 dnspub.restena.lu
 kaitain.restena.lu
 dns.retakecs.com
 basic.rethinkdns.com
 max.rethinkdns.com
 sky.rethinkdns.com
+revelio.top
 doh.rezhajul.io
 resolver.rferee.dev
 dns.rin.sh
@@ -817,7 +825,6 @@ dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
 dns.slinkyman.net
-slyvo.xyz
 dns.smartguard.io
 clientdns3.softcom.net
 spacedns.org
@@ -905,6 +912,8 @@ wikimedia-dns.org
 dns-1.wil.cloud
 dns-2.wil.cloud
 home.wriedts.de
+ns2.wuyouss.com
+ns3.wuyouss.com
 adb-home.xaoimoon.fr
 doh.xcom.pro
 doh.xfinity.com
@@ -917,9 +926,9 @@ common.dot.dns.yandex.net
 family.dot.dns.yandex.net
 safe.dot.dns.yandex.net
 dns.yatima.tv
+net01.youcef.io
 your-dns.run
 yovbak.com
-dns.yu.dev
 zakaria.website
 zdn.ro
 adguard-kartoffel.zernico.de
