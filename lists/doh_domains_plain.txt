@@ -194,6 +194,7 @@ pooblet.co.za
 adguard.frutuozo.com.br
 dns.netraptor.com.au
 dns.redhosting.com.ar
+doh.viatech.com.tw
 dns.comff.net
 commons.host
 dns.comss.one
@@ -221,7 +222,6 @@ dns.cynthialabs.net
 dns.d94.xyz
 dns.d96.info
 dns.daarrk.tech
-6301s.dangkiem.com
 adguard.dantynes.cyou
 mail.data.haus
 ns.data.haus
@@ -417,7 +417,6 @@ farewellkou.click
 dns.farshidhakimy.de
 ns0.fdn.fr
 ns1.fdn.fr
-dns.feelvm.dev
 dns.fehlsprache.de
 ag.ff0x.ca
 doh.ffmuc.net
@@ -855,6 +854,7 @@ rx.techomespace.com
 dns.telekom.de
 dns.thebuckners.org
 dns.therifleman.name
+blocker.thethorsens.org
 doh.thio.me
 doh.tiar.app
 jp.tiar.app
