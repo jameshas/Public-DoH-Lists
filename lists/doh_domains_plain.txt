@@ -16,7 +16,6 @@ sdns.233py.com
 wdns.233py.com
 dns.240527.xyz
 doh.360.cn
-pro.362878.xyz
 3dcosas.xyz
 3dns.eu
 dns.3wv.de
@@ -26,12 +25,12 @@ ns2.4netguides.org
 dns.52306.org
 family.5ososea.com
 kids.5ososea.com
+dns.688447.xyz
 ayman-dns.731my.com
 8888.google
 dns.9999.sg
 dns.a47.me
 doh.aaaab3n.moe
-dns.aapla.top
 doh.dns.apple.com.v.aaplimg.com
 doh.abmb.win
 doh2.abmb.win
@@ -40,7 +39,6 @@ resolver1.absolight.net
 resolver2.absolight.net
 resolver3.absolight.net
 doh.iucc.ac.il
-adblockersite.com
 adl.adfilter.net
 per.adfilter.net
 syd.adfilter.net
@@ -168,7 +166,6 @@ chandr1000.net
 dns.chenu.ch
 dns.christerwaren.fi
 dns.chriswservers.com
-c.cicitt.ch
 doh.cippapp.com
 family.canadianshield.cira.ca
 private.canadianshield.cira.ca
@@ -437,8 +434,10 @@ dns.gamban.com
 adguard.gambini.org
 adg.geili.me
 getdnsapi.net
+gibblets.top
 adguard.maison.gifino.fr
 dns.girino.org
+glacius.top
 dns.glf.wtf
 dns.gnb09.id
 privacydns.go6lab.si
@@ -469,6 +468,7 @@ adguard.shuting.idv.tw
 public.dns.iij.jp
 ikarosalpha.xyz
 doh.immerda.ch
+imperio.top
 dns1.in-berlin.de
 dns2.in-berlin.de
 dns.inclusioproject.com
@@ -485,6 +485,7 @@ adguard.jfchenier.ca
 dns.jhangy.us
 jkdns.me
 adguard.johanliebert.top
+johneldenring.lol
 opencdn.jomodns.com
 dns.jstockley.com
 dns.jupitrdns.com
@@ -678,6 +679,7 @@ ns3.com
 ns3.cx
 ns3.link
 dnscache0.ns71.net
+dns.numerus.com
 ns.nwps.fi
 qdns02.nymterm.com
 ha.o51r15.com
@@ -705,7 +707,6 @@ dns.oszx.co
 dns.ourvau.lt
 1a.ns.ozer.im
 dns.paesa.es
-dns.panszelescik.pl
 dns.pari.network
 pashagame456.com
 a.passcloud.xyz
@@ -722,7 +723,6 @@ doh.northeu.pi-dns.com
 doh.westus.pi-dns.com
 dns.pierzchlewicz.pl
 dns1.pietjacobs.be
-dns.pizzari.me
 helios.plan9-dns.com
 kronos.plan9-dns.com
 pluton.plan9-dns.com
@@ -736,7 +736,6 @@ lindung.pp.ua
 sundalandia.pp.ua
 virga.pp.ua
 dns.pragmasec.nl
-dns.princex.net
 princez.uk
 hungary.privacy-dns.pw
 india.privacy-dns.pw
@@ -751,7 +750,6 @@ dns.propheci.xyz
 dns.pumplex.com
 doh.qis.io
 ns1.qquack.org
-dns.qrtz.club
 dns.quad9.net
 dns-nosec.quad9.net
 dns10.quad9.net
@@ -817,7 +815,6 @@ pro.shecan.ir
 dns.sheggi.ch
 dns.shimul.me
 adguard.shoupperuser.com
-adguard.shutgaming.net
 dns.silen.org
 dns.silentlybren.com
 dns.sindominio.net
@@ -921,7 +918,6 @@ xholgm.top
 dns.xlion.tw
 xn--durhre-yxa.de
 dns.xuming.studio
-dns.xusqui.com
 common.dot.dns.yandex.net
 family.dot.dns.yandex.net
 safe.dot.dns.yandex.net
