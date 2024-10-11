@@ -49,7 +49,6 @@ dns-unfiltered.adguard.com
 dns.adguard-dns.com
 family.adguard-dns.com
 unfiltered.adguard-dns.com
-adguardhome.cloud
 dns.adrianlam.com
 affcdn.net
 affsoft.cc
@@ -143,6 +142,7 @@ stratus.bugz.fr
 dns.burgas.pro
 dns.busold.ws
 www.c-dns.com
+dns.cabbage.zone
 dns.cahlen.com
 captnemo.in
 doh.captnemo.in
@@ -161,7 +161,6 @@ unicast.censurfridns.dk
 dns.cert.ee
 dns.cfiec.net
 ibuki.cgnat.net
-dns.ch295.ru
 chandr1000.net
 dns.chenu.ch
 dns.christerwaren.fi
@@ -403,6 +402,7 @@ dns.emiliyan.com
 doh.ersei.net
 doh.excdn.eu.org
 dns.mayx.eu.org
+arashi.net.eu.org
 dns.extrawdw.net
 pdns.faelix.net
 rdns.faelix.net
@@ -629,9 +629,9 @@ us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
 dns.ndo.dev
 dns.neeb.it
-dns.nefret.net
 adguard.neon0404.space
 dns.aa.net.uk
+ns.net.kg
 dns.netvpn.net
 dns.neutopia.org
 doh.luigi.nexific.it
