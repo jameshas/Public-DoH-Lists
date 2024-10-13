@@ -26,7 +26,6 @@ dns.52306.org
 family.5ososea.com
 kids.5ososea.com
 dns.688447.xyz
-ayman-dns.731my.com
 8888.google
 dns.9999.sg
 dns.a47.me
@@ -420,7 +419,6 @@ doh.ffmuc.net
 dns.ffnw.de
 dns.fgbk.net
 fidelius.top
-filipinoray.com
 dns.flightspace.net
 dns01.flm9.net
 dns.flymc.cc
@@ -435,7 +433,6 @@ adguard.gambini.org
 adg.geili.me
 getdnsapi.net
 gibblets.top
-adguard.maison.gifino.fr
 dns.girino.org
 glacius.top
 dns.glf.wtf
@@ -558,6 +555,7 @@ multi.dns.marbledfennec.net
 doh.maskab.com
 masters-of-cloud.de
 dns.mateo.ovh
+mc-sft.cn
 adguard.meddy94.de
 dns.meeo.win
 snoke.meganerd.nl
@@ -730,7 +728,6 @@ privacy.plumedns.com
 pm1239-bd.xyz
 pm7051-br.xyz
 pm9352-bd.xyz
-portus.top
 doh.powerdns.org
 lindung.pp.ua
 sundalandia.pp.ua
