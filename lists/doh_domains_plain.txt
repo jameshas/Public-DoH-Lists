@@ -5,7 +5,6 @@ dns.0ooo.icu
 dns.0rz.ing
 dns.0x55.net
 123000123.xyz
-dns.13evl.com
 cloud.198.games
 dns.23-4.cn
 dns.233py.com
@@ -208,11 +207,11 @@ dohdot.coxlab.net
 dns.criena.net
 doh.crypto.sx
 doh-ipv6.crypto.sx
-dns.cryptomize.com
 dns.crystalyx.net
 dns.csa-rz.de
 dns.csaonline.de
 dns.csswg.org
+dns.cybertonic.tech
 dns.cynthialabs.net
 dns.d94.xyz
 dns.d96.info
@@ -417,7 +416,6 @@ dns.fehlsprache.de
 ag.ff0x.ca
 doh.ffmuc.net
 dns.ffnw.de
-dns.fgbk.net
 fidelius.top
 dns.flightspace.net
 dns01.flm9.net
@@ -444,6 +442,7 @@ google-public-dns-b.google.com
 jp.gridns.xyz
 dnsblock.grisumedia.de
 dns.guard.io
+dns.guardmydns.com
 dns.gutwe.in
 dns.hahnjo.de
 dns.haka.se
@@ -454,6 +453,7 @@ dns.henek.ovh
 hfgx.shop
 home-server.store
 dns.hoody.com
+dns.hoservers.com
 dns.hostux.net
 dns.huas.me
 doth.huque.com
@@ -514,6 +514,7 @@ dart.kpsn.org
 adblock.krctech.dev
 xray.krnl.eu
 dns.kukal.cz
+dns.kumoumi.net
 dns.kuuhaku.moe
 kx-97795-tr.xyz
 dns.l337.site
@@ -545,6 +546,7 @@ doh.phdns5.lonet.org
 lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
 lukscasino-929-tr.xyz
+dns.luma-medien.com
 orau.lz0724.com
 addns1.m-it.ro
 mailkyb.co
@@ -608,7 +610,6 @@ gb-lon-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
 kz-pav-w-p-1.nashkan.net
 nl-dro-w-f-1.nashkan.net
-nl-dro-w-p-1.nashkan.net
 ro-buc-w-f-1.nashkan.net
 ro-buc-w-p-1.nashkan.net
 sg-w-f-1.nashkan.net
@@ -719,7 +720,6 @@ doh.eastau.pi-dns.com
 doh.eastus.pi-dns.com
 doh.northeu.pi-dns.com
 doh.westus.pi-dns.com
-dns.pierzchlewicz.pl
 dns1.pietjacobs.be
 helios.plan9-dns.com
 kronos.plan9-dns.com
@@ -762,7 +762,6 @@ frog.dns.qwer.pw
 lion.dns.qwer.pw
 tiger.dns.qwer.pw
 resolver.r0cket.net
-resolve2.r9x.cc
 dns.rabbitdns.org
 family.rabbitdns.org
 security.rabbitdns.org
@@ -780,8 +779,10 @@ max.rethinkdns.com
 sky.rethinkdns.com
 revelio.top
 doh.rezhajul.io
+newd.rezyro.com
 resolver.rferee.dev
 dns.rin.sh
+vps.robotboard.de
 dns.roedel.cloud
 dns.rotunneling.net
 o.rsaikat.com
@@ -911,14 +912,12 @@ ns3.wuyouss.com
 adb-home.xaoimoon.fr
 doh.xcom.pro
 doh.xfinity.com
-xholgm.top
 dns.xlion.tw
 xn--durhre-yxa.de
 dns.xuming.studio
 common.dot.dns.yandex.net
 family.dot.dns.yandex.net
 safe.dot.dns.yandex.net
-dns.yatima.tv
 net01.youcef.io
 your-dns.run
 yovbak.com
