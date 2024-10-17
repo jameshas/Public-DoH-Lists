@@ -1,4 +1,5 @@
 ns.00dani.me
+052419.xyz
 0ms.dev
 cdn.0ms.dev
 dns.0ooo.icu
@@ -241,7 +242,6 @@ dns.digitalsize.net
 doh.disconnect.app
 fdns1.dismail.de
 fdns2.dismail.de
-www.dltuykfgp.top
 dns.expert
 dns.google
 dns.pub
@@ -419,6 +419,7 @@ dns.ffnw.de
 fidelius.top
 dns.flightspace.net
 dns01.flm9.net
+resolv.flokinet.net
 dns.flymc.cc
 dns.freyja.pw
 dns.froth.zone
@@ -446,7 +447,6 @@ dns.guardmydns.com
 dns.gutwe.in
 dns.hahnjo.de
 dns.haka.se
-dns.hannielzhang.com
 query.hdns.io
 ordns.he.net
 dns.henek.ovh
@@ -472,6 +472,7 @@ dns.inclusioproject.com
 dns.indybanipal.com
 dns.inforlogia.com
 qlf-doh.inria.fr
+iozoi.cn
 dns.is0mino.com
 dns.ishan.pw
 pdns.itxe.net
@@ -566,6 +567,7 @@ mendozasdelivery.com
 testaghome.meshkov.info
 dns.mh4ckt3mh4ckt1c4s.xyz
 mikezhang.xyz
+miniapp.global
 netcup.mismat.ch
 doh.mmmalia.com
 dns.mnet-online.de
@@ -681,7 +683,6 @@ dnscache0.ns71.net
 dns.numerus.com
 ns.nwps.fi
 qdns02.nymterm.com
-ha.o51r15.com
 obscuro.top
 dot.occ.top
 dns.odinpl.com
@@ -837,6 +838,7 @@ dns.superstefan.win
 dns.sv-zauner.at
 dns.svoi.dev
 dns.switch.ch
+dns.sy.st
 dns.syaifullah.com
 ibksturm.synology.me
 ihctw.synology.me
@@ -915,6 +917,7 @@ doh.xfinity.com
 dns.xlion.tw
 xn--durhre-yxa.de
 dns.xuming.studio
+dns.yague.me
 common.dot.dns.yandex.net
 family.dot.dns.yandex.net
 safe.dot.dns.yandex.net
