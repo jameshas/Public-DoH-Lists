@@ -18,7 +18,6 @@ dns.240527.xyz
 doh.360.cn
 3dcosas.xyz
 3dns.eu
-dns.3wv.de
 dns.4-the.win
 doh.42l.fr
 ns2.4netguides.org
@@ -72,7 +71,9 @@ mailer.amlegion.org
 dns.andrewnw.xyz
 doh.angry.im
 dns.anon.no
+antstars.win
 secure.anudeep.me
+ad.anym0re.ru
 doh.apad.pro
 ag.apollohct.com
 doh.dns.apple.com
@@ -386,6 +387,7 @@ doh.domreg.lt
 doh.dscloud.me
 agh.dshubham.xyz
 dukun.de
+dvgarm.com
 adguard.easez.net
 doh.eddi.net
 dns.edgeburnmedia.com
@@ -405,7 +407,6 @@ dns.extrawdw.net
 pdns.faelix.net
 rdns.faelix.net
 dns.faked.org
-dns.falkenthal.org
 dnsvps.familiamv.net
 dns.fancyorg.at
 farewellkou.click
@@ -420,6 +421,7 @@ fidelius.top
 dns.flightspace.net
 dns01.flm9.net
 resolv.flokinet.net
+dns.floriantinney.de
 dns.flymc.cc
 dns.freyja.pw
 dns.froth.zone
@@ -441,7 +443,6 @@ dns.google.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 jp.gridns.xyz
-dnsblock.grisumedia.de
 dns.guard.io
 dns.guardmydns.com
 dns.gutwe.in
@@ -679,7 +680,6 @@ dns.novg.net
 ns3.com
 ns3.cx
 ns3.link
-dnscache0.ns71.net
 dns.numerus.com
 ns.nwps.fi
 qdns02.nymterm.com
@@ -772,6 +772,7 @@ dns.rbn.gr
 dns.reckoningslug.name
 dns.redvau.lt
 dns.reitmeier.me
+dns.repressoh.it
 dnspub.restena.lu
 kaitain.restena.lu
 dns.retakecs.com
