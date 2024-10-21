@@ -922,7 +922,6 @@ dns.yague.me
 common.dot.dns.yandex.net
 family.dot.dns.yandex.net
 safe.dot.dns.yandex.net
-net01.youcef.io
 your-dns.run
 yovbak.com
 zakaria.website
