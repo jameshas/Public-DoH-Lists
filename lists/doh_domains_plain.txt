@@ -473,7 +473,6 @@ dns.inclusioproject.com
 dns.indybanipal.com
 dns.inforlogia.com
 qlf-doh.inria.fr
-iozoi.cn
 dns.is0mino.com
 dns.ishan.pw
 pdns.itxe.net
@@ -482,7 +481,6 @@ jackyes.ovh
 jcdns.fun
 adguard.jfchenier.ca
 dns.jhangy.us
-jkdns.me
 adguard.johanliebert.top
 johneldenring.lol
 opencdn.jomodns.com
@@ -563,7 +561,6 @@ mc-sft.cn
 adguard.meddy94.de
 dns.meeo.win
 snoke.meganerd.nl
-dns.melvin2204.nl
 mendozasdelivery.com
 testaghome.meshkov.info
 dns.mh4ckt3mh4ckt1c4s.xyz
@@ -726,6 +723,7 @@ helios.plan9-dns.com
 kronos.plan9-dns.com
 pluton.plan9-dns.com
 privacy.plumedns.com
+plushub.pro
 pm1239-bd.xyz
 pm7051-br.xyz
 pm9352-bd.xyz
@@ -870,6 +868,7 @@ ns.trcnet.fi
 tributh.net
 adg.tshost.no
 doh.ibr.cs.tu-bs.de
+tujenasnaszato.xyz
 tuskythehusky.tech
 dns.twnic.tw
 doh.umbrella.com
@@ -904,7 +903,6 @@ megumin.is.my.waifu.cz
 yunyun.is.my.waifu.cz
 dns.wang.art
 abel.waringer-atg.de
-dns.engineer.web.id
 doh.webnmail.de
 wikimedia-dns.org
 dns-1.wil.cloud
