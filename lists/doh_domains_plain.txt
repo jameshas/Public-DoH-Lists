@@ -229,6 +229,7 @@ dns.decky.eu
 dns.decloudus.com
 deep-henchman-excuse.cfd
 doh.defaultroutes.de
+dns.delpirou.fr
 doh.denypradana.com
 adguard.lege.despagne.net
 doh-primary-pool.detoxifypornblocker.com
@@ -362,7 +363,6 @@ dns-doh.dnsforfamily.com
 dnsforge.de
 clean.dnsforge.de
 hard.dnsforge.de
-bahopir188.dnshome.de
 dns.dnshome.de
 doh.dnslify.com
 a.ns.dnslify.com
@@ -429,7 +429,6 @@ doh.futa.gg
 cluster-0.gac.edu
 cluster-1.gac.edu
 dns.gamban.com
-adguard.gambini.org
 adg.geili.me
 getdnsapi.net
 gibblets.top
@@ -455,6 +454,7 @@ home-server.store
 dns.hoody.com
 dns.hoservers.com
 dns.hostux.net
+dns.hshoe.cn
 dns.huas.me
 doth.huque.com
 dns.hypercute.eu
@@ -480,7 +480,6 @@ jackyes.ovh
 jcdns.fun
 adguard.jfchenier.ca
 dns.jhangy.us
-adguard.johanliebert.top
 opencdn.jomodns.com
 dns.jstockley.com
 dns.jupitrdns.com
@@ -494,7 +493,6 @@ dns.kastner-online.de
 dns.kawa.tf
 dns.kebree.fr
 doh.kel.pe
-chr.kepegawaiandju.id
 dns.kerekes.xyz
 dns.kernel-error.de
 dns.kescher.at
@@ -896,9 +894,12 @@ dns.uplenk.com
 dns.koala.us.to
 nightlymoon.us.kg
 luna-is.so-gorgeo.us.kg
+mecca-is.so-gorgeo.us.kg
 mita-is.so-gorgeo.us.kg
+myrra-is.so-gorgeo.us.kg
 nana-is.so-gorgeo.us.kg
 nindy-is.so-gorgeo.us.kg
+nora-is.so-gorgeo.us.kg
 nova-is.so-gorgeo.us.kg
 tetty-is.so-gorgeo.us.kg
 yussy-is.so-gorgeo.us.kg
