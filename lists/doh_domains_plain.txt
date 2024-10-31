@@ -66,7 +66,6 @@ dnsnl-noads.alekberg.net
 dnsse.alekberg.net
 dnsse-noads.alekberg.net
 dns.alidns.com
-adguard.alu.dog
 mailer.amlegion.org
 dns.andrewnw.xyz
 doh.angry.im
@@ -91,7 +90,6 @@ dns.asterimoon.com
 dandelionsprout.asuscomm.com
 atris.cyou
 dohtrial.att.net
-dns.auapi.fun
 secure.avastdns.com
 adguard.avdkishore.dev
 doh1.b-cdn.net
@@ -452,7 +450,6 @@ dns.henek.ovh
 hfgx.shop
 home-server.store
 dns.hoody.com
-dns.hoservers.com
 dns.hostux.net
 dns.hshoe.cn
 dns.huas.me
@@ -472,7 +469,6 @@ dns.inclusioproject.com
 dns.indybanipal.com
 dns.inforlogia.com
 qlf-doh.inria.fr
-dns.is0mino.com
 dns.ishan.pw
 pdns.itxe.net
 ivnkn.xyz
@@ -523,7 +519,6 @@ yarp.lefolgoc.net
 resolver-eu.lelux.fi
 dns.lepilleur.com
 dns.lermer.nl
-lesuo.top
 dns.levonet.sk
 dns.liberador.net
 doh.libredns.gr
@@ -588,6 +583,7 @@ paranoia.mydns.network
 blackhole.myon.lu
 dns.mzjtechnology.com
 n0.eu
+najiakeji.top
 dns.nako.kr
 dns.nas-server.ru
 ae-fuj-w-p-1.nashkan.net
@@ -694,7 +690,8 @@ resolver2.opendns.com
 resolver2-fs.opendns.com
 doh.sandbox.opendns.com
 ns1.opennameserver.org
-ns4.opennameserver.org
+ns2.opennameserver.org
+ns3.opennameserver.org
 dns.oszx.co
 dns.ourvau.lt
 1a.ns.ozer.im
@@ -718,7 +715,6 @@ helios.plan9-dns.com
 kronos.plan9-dns.com
 pluton.plan9-dns.com
 privacy.plumedns.com
-plushub.pro
 pm1239-bd.xyz
 pm7051-br.xyz
 pm9352-bd.xyz
@@ -780,7 +776,6 @@ dns.rbn.gr
 dns.reckoningslug.name
 dns.redvau.lt
 dns.reitmeier.me
-dns.repressoh.it
 dnspub.restena.lu
 kaitain.restena.lu
 dns.retakecs.com
@@ -814,7 +809,6 @@ dns.seia.io
 secondary.dns.seia.io
 dns.seiffert.me
 adguard.senthil.us
-doh.serverhost.no
 dns.sev.monster
 dns.shareworx.net
 dns.shecan.ir
