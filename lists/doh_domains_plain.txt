@@ -384,7 +384,6 @@ doh.domreg.lt
 doh.dscloud.me
 agh.dshubham.xyz
 dukun.de
-dvgarm.com
 adguard.easez.net
 doh.eddi.net
 dns.edgeburnmedia.com
@@ -901,6 +900,7 @@ adfree.usableprivacy.net
 dns.vaioswolke.xyz
 tor.vasi.li
 dns.vault81.de
+venum.space
 dns.vojtat.cz
 vorlif.org
 dns.w3ctag.org
@@ -918,6 +918,7 @@ home.wriedts.de
 ns2.wuyouss.com
 ns3.wuyouss.com
 adb-home.xaoimoon.fr
+xbcpb668.com
 doh.xcom.pro
 doh.xfinity.com
 dns.xlion.tw
