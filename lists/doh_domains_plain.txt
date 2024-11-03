@@ -18,6 +18,7 @@ dns.240527.xyz
 doh.360.cn
 3dcosas.xyz
 3dns.eu
+3jjxxl.tech
 dns.4-the.win
 doh.42l.fr
 ns2.4netguides.org
@@ -251,7 +252,6 @@ public-dns-a.dns.sb
 public-dns-b.dns.sb
 dns.dns-53.us
 dns.dns-53.com
-dns.dns-53.uk
 dns-free.link
 dns1.dns-ga.de
 dns2.dns-ga.de
@@ -451,7 +451,6 @@ home-server.store
 dns.hoody.com
 dns.hostux.net
 dns.hshoe.cn
-dns.huas.me
 doth.huque.com
 dns.hypercute.eu
 opennic.i2pd.xyz
@@ -750,6 +749,7 @@ nl.dns.privex.io
 dns.propheci.xyz
 dns.pumplex.com
 doh.qis.io
+qqmcfw.tech
 ns1.qquack.org
 dns.quad9.net
 dns-nosec.quad9.net
@@ -790,7 +790,6 @@ vps.robotboard.de
 dns.roedel.cloud
 dns.rotunneling.net
 o.rsaikat.com
-dns.rslvr.eu
 dns.rubyfish.cn
 ea-dns.rubyfish.cn
 uw-dns.rubyfish.cn
