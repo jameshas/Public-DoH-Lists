@@ -201,7 +201,6 @@ p1.freedns.controld.com
 p2.freedns.controld.com
 p3.freedns.controld.com
 uncensored.freedns.controld.com
-doh.cornes.me
 doh.cox.net
 dohdot.coxlab.net
 dns.criena.net
@@ -298,6 +297,7 @@ dus01.dnscry.pt
 eyg01.dnscry.pt
 fjr01.dnscry.pt
 fra01.dnscry.pt
+fra02.dnscry.pt
 geg01.dnscry.pt
 gru01.dnscry.pt
 gva01.dnscry.pt
@@ -306,6 +306,7 @@ hel01.dnscry.pt
 hkg01.dnscry.pt
 hrk01.dnscry.pt
 ist01.dnscry.pt
+jhb01.dnscry.pt
 jkt01.dnscry.pt
 jnb01.dnscry.pt
 kiv01.dnscry.pt
@@ -328,6 +329,7 @@ par01.dnscry.pt
 pdx01.dnscry.pt
 phl01.dnscry.pt
 phx01.dnscry.pt
+rdd01.dnscry.pt
 rdu01.dnscry.pt
 sea01.dnscry.pt
 sgn01.dnscry.pt
@@ -388,7 +390,6 @@ adguard.easez.net
 doh.eddi.net
 dns.edgeburnmedia.com
 edgy-dns.com
-dns.edison42.dev
 dns.editechstudio.com
 dns.efficientdocuments.com
 dns.elemental.software
@@ -867,7 +868,7 @@ resolv1.trash.net
 resolv2.trash.net
 resolv3.trash.net
 ns.trcnet.fi
-tributh.net
+tri-dns.net
 adg.tshost.no
 doh.ibr.cs.tu-bs.de
 tujenasnaszato.xyz
