@@ -214,7 +214,6 @@ dns.cybertonic.tech
 dns.cynthialabs.net
 dns.d94.xyz
 dns.d96.info
-dns.daarrk.tech
 adguard.dantynes.cyou
 mail.data.haus
 ns.data.haus
@@ -522,7 +521,6 @@ dns.levonet.sk
 dns.liberador.net
 doh.libredns.gr
 dns.lihj.me
-michelo.line.pm
 africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
 loadlow.me
