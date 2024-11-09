@@ -123,7 +123,6 @@ rfree1.blue-shield.at
 rfree2.blue-shield.at
 bluemood.me
 dns.bmwhocking.com
-d.bod.lol
 doh.boje8.me
 adguard.bonis.de
 doh.bortzmeyer.fr
@@ -173,6 +172,7 @@ adult-filter-dns.cleanbrowsing.org
 doh.cleanbrowsing.org
 family-filter-dns.cleanbrowsing.org
 security-filter-dns.cleanbrowsing.org
+cloudbenders.fun
 dns.cloudflare.com
 cloudflare-dns.com
 1dot1dot1dot1.cloudflare-dns.com
@@ -387,15 +387,12 @@ agh.dshubham.xyz
 dukun.de
 adguard.easez.net
 doh.eddi.net
-dns.edgeburnmedia.com
 edgy-dns.com
-dns.editechstudio.com
 dns.efficientdocuments.com
 dns.elemental.software
 eliatofani.ovh
 dns.eliv.kr
 dns.emiliyan.com
-doh.ersei.net
 doh.excdn.eu.org
 dns.mayx.eu.org
 arashi.net.eu.org
@@ -414,7 +411,6 @@ ag.ff0x.ca
 doh.ffmuc.net
 dns.ffnw.de
 fidelius.top
-dns.flightspace.net
 dns01.flm9.net
 resolv.flokinet.net
 dns.floriantinney.de
@@ -491,7 +487,6 @@ dns.kerekes.xyz
 dns.kernel-error.de
 dns.kescher.at
 pihole.aws.ketan.dev
-dns.keviland.com
 adg.khon.dev
 doh.kidzonet.io
 doh.killtw.im
@@ -518,6 +513,7 @@ resolver-eu.lelux.fi
 dns.lepilleur.com
 dns.lermer.nl
 dns.levonet.sk
+lewsha.lol
 dns.liberador.net
 doh.libredns.gr
 dns.lihj.me
@@ -544,6 +540,7 @@ multi.dns.marbledfennec.net
 doh.maskab.com
 masters-of-cloud.de
 dns.mateo.ovh
+dns.mbrjun.cn
 mc-sft.cn
 adguard.meddy94.de
 dns.meeo.win
@@ -633,6 +630,8 @@ d.niaox.com
 doh.nic.lv
 odvr.nic.cz
 dns.nick-slowinski.de
+doh-own-recursion.nicolas-dorriere.fr
+doh-random-upstream.nicolas-dorriere.fr
 nicsezcheckfbi.gov
 dns1.nielsdb.be
 dns.ningkelle.id
@@ -652,14 +651,12 @@ doh.niyawe.de
 dns.njal.la
 resolver.noaddns.com
 pi1.node15.com
-dns.nodoa.me
 sink.nolo.ltd
 paulo.nom.za
 kiri.nonexiste.net
 dns1.nordvpn.com
 dns2.nordvpn.com
 1.dns.noridev.moe
-2.dns.noridev.moe
 dns.novali.date
 dns.novg.net
 ns3.com
@@ -852,7 +849,6 @@ dns.telekom.de
 dns.thebuckners.org
 dns.therifleman.name
 blocker.thethorsens.org
-doh.thio.me
 doh.tiar.app
 jp.tiar.app
 doh.tiarap.org
@@ -867,6 +863,7 @@ resolv2.trash.net
 resolv3.trash.net
 ns.trcnet.fi
 tri-dns.net
+eu.tri-dns.net
 adg.tshost.no
 doh.ibr.cs.tu-bs.de
 tujenasnaszato.xyz
@@ -908,7 +905,6 @@ megumin.is.my.waifu.cz
 yunyun.is.my.waifu.cz
 dns.wang.art
 abel.waringer-atg.de
-doh.webnmail.de
 wikimedia-dns.org
 dns-1.wil.cloud
 dns-2.wil.cloud
