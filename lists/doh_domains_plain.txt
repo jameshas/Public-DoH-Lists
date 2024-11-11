@@ -89,6 +89,7 @@ dns.artikel10.org
 doh.asagiri.moe
 dns.asterimoon.com
 dandelionsprout.asuscomm.com
+dns.asysec.com
 atris.cyou
 dohtrial.att.net
 secure.avastdns.com
@@ -293,7 +294,6 @@ dfw01.dnscry.pt
 dtw01.dnscry.pt
 dub01.dnscry.pt
 dus01.dnscry.pt
-eyg01.dnscry.pt
 fjr01.dnscry.pt
 fra01.dnscry.pt
 fra02.dnscry.pt
@@ -433,6 +433,7 @@ privacydns.go6lab.si
 dns.google.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
+greatideasforlife.lol
 jp.gridns.xyz
 dns.guard.io
 dns.guardmydns.com
@@ -463,6 +464,7 @@ dns.inclusioproject.com
 dns.indybanipal.com
 dns.inforlogia.com
 qlf-doh.inria.fr
+mickedi.isgood.host
 dns.ishan.pw
 pdns.itxe.net
 ivnkn.xyz
@@ -480,7 +482,6 @@ dns.kapite.in
 dns.karadag.me
 dns.karl.one
 dns.kastner-online.de
-dns.kawa.tf
 dns.kebree.fr
 doh.kel.pe
 dns.kerekes.xyz
@@ -548,6 +549,7 @@ snoke.meganerd.nl
 mendozasdelivery.com
 testaghome.meshkov.info
 dns.mh4ckt3mh4ckt1c4s.xyz
+dns.michelo.cl
 mikezhang.xyz
 miniapp.global
 netcup.mismat.ch
@@ -669,6 +671,7 @@ obscuro.top
 dot.occ.top
 dns.odinpl.com
 dns.ofdoom.net
+okado.online
 one.one.one.one
 doh.onedns.net
 secure.onedns.cc
@@ -684,10 +687,8 @@ resolver2.opendns.com
 resolver2-fs.opendns.com
 doh.sandbox.opendns.com
 ns1.opennameserver.org
-ns2.opennameserver.org
 ns3.opennameserver.org
 dns.oszx.co
-dns.ourvau.lt
 1a.ns.ozer.im
 dns.paesa.es
 dns.pari.network
@@ -696,7 +697,9 @@ a.passcloud.xyz
 i.passcloud.xyz
 doh.gcp.pathofgrace.com
 rpz-public-resolver1.rrdns.pch.net
+dns.peb-schmidt.de
 darya.persiannit.net
+dns.petqa.ru
 dns.phillipjberry.net
 doh.centraleu.pi-dns.com
 doh.eastas.pi-dns.com
@@ -722,7 +725,6 @@ polisitogel.webcam
 polisitogel.accountant
 polisitogel.hair
 polisitogel.luxe
-polisitogel.properties
 polisitogel.limo
 polisitogel.show
 polisitogel.contractors
@@ -744,6 +746,7 @@ united-arab-emirates.privacy-dns.pw
 nl.dns.privex.io
 dns.propheci.xyz
 dns.pumplex.com
+v.qdev.cc
 doh.qis.io
 qqmcfw.tech
 ns1.qquack.org
@@ -769,7 +772,6 @@ ns.ral9005.org
 rayneau.fr
 dns.rbn.gr
 dns.reckoningslug.name
-dns.redvau.lt
 dns.reitmeier.me
 dnspub.restena.lu
 kaitain.restena.lu
@@ -798,11 +800,11 @@ dns.sarak.as
 dns.sarilouis.com
 doh.seby.io
 doh-2.seby.io
-dns.sec511.com
 dns.seia.io
 secondary.dns.seia.io
 dns.seiffert.me
 adguard.senthil.us
+dns1.serdcebolit.ru
 dns.sev.monster
 dns.shareworx.net
 dns.shecan.ir
@@ -832,6 +834,7 @@ resolver.sunet.se
 sunnygyl.com
 doh.sunoaki.net
 dns.superstefan.win
+dns.surobe.com
 dns.sv-zauner.at
 dns.svoi.dev
 dns.switch.ch
@@ -842,6 +845,7 @@ ihctw.synology.me
 doh.syshero.org
 dns.szpadel.ovh
 dns.t53.de
+adguard.taxiora.tn
 tecdrive.site
 dns.technologycage.com
 rx.techomespace.com
@@ -924,6 +928,7 @@ family.dot.dns.yandex.net
 safe.dot.dns.yandex.net
 your-dns.run
 yovbak.com
+dns.yuu-g.net
 zakaria.website
 zdn.ro
 adguard-kartoffel.zernico.de
