@@ -71,7 +71,6 @@ mailer.amlegion.org
 dns.andrewnw.xyz
 doh.angry.im
 dns.anon.no
-antstars.win
 secure.anudeep.me
 ad.anym0re.ru
 doh.apad.pro
@@ -97,7 +96,6 @@ adguard.avdkishore.dev
 doh1.b-cdn.net
 doh2.b-cdn.net
 dns.b612.me
-dns.b72.com
 fr-dns1.bancuh.com
 sg-dns1.bancuh.com
 bazooki-infra.dev
@@ -105,7 +103,6 @@ antivirus.bebasid.com
 dns.bebasid.com
 internetsehat.bebasid.com
 dns.belnet.be
-dns.bermeitinger.eu
 bestwon203.com
 ns3.bit-trail.nl
 dns.bitdefender.net
@@ -142,7 +139,6 @@ dns.burgas.pro
 dns.busold.ws
 www.c-dns.com
 dns.cabbage.zone
-dns.cahlen.com
 captnemo.in
 doh.captnemo.in
 dns.carson-family.com
@@ -226,7 +222,6 @@ dns.decky.eu
 dns.decloudus.com
 deep-henchman-excuse.cfd
 doh.defaultroutes.de
-dns.delpirou.fr
 doh.denypradana.com
 adguard.lege.despagne.net
 doh-primary-pool.detoxifypornblocker.com
@@ -449,6 +444,7 @@ dns.guard.io
 dns.guardmydns.com
 dns.gutwe.in
 dns.hahnjo.de
+doh.hajekj.net
 dns.haka.se
 query.hdns.io
 ordns.he.net
@@ -490,6 +486,7 @@ dns.kapite.in
 dns.karadag.me
 dns.karl.one
 dns.kastner-online.de
+kavkaz.monster
 dns.kebree.fr
 doh.kel.pe
 dns.kerekes.xyz
@@ -541,6 +538,19 @@ lukscasino-929-tr.xyz
 dns.luma-medien.com
 orau.lz0724.com
 addns1.m-it.ro
+mabuktogel.builders
+mabuktogel.marketing
+mabuktogel.ltd
+mabuktogel.degree
+mabuktogel.properties
+mabuktogel.business
+mabuktogel.enterprises
+mabuktogel.solutions
+mabuktogel.cards
+mabuktogel.directory
+mabuktogel.limited
+mabuktogel.immobilien
+mabuktogel.creditcard
 mailkyb.co
 maqgie.xyz
 dns.marasov.id
@@ -603,7 +613,6 @@ gb-lon-w-f-1.nashkan.net
 gb-lon-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
 kz-pav-w-p-1.nashkan.net
-nl-dro-w-f-1.nashkan.net
 ro-buc-w-f-1.nashkan.net
 ro-buc-w-p-1.nashkan.net
 sg-w-f-1.nashkan.net
@@ -671,7 +680,6 @@ dns.novg.net
 ns3.com
 ns3.cx
 ns3.link
-dns.numerus.com
 ns.nwps.fi
 qdns02.nymterm.com
 obscuro.top
@@ -726,7 +734,6 @@ polisitogel.diy
 polisitogel.living
 polisitogel.beauty
 polisitogel.cruises
-polisitogel.construction
 polisitogel.green
 polisitogel.webcam
 polisitogel.accountant
@@ -803,6 +810,7 @@ rumpelsepp.org
 dns1.ryan-palmer.com
 safeservedns.com
 doh.safesurfer.io
+dns.salonia.it
 dns.sarak.as
 dns.sarilouis.com
 doh.seby.io
@@ -906,7 +914,6 @@ yussy-is.so-gorgeo.us.kg
 adfree.usableprivacy.net
 dns.vaioswolke.xyz
 tor.vasi.li
-dns.vault81.de
 dns.vojtat.cz
 vorlif.org
 dns.w3ctag.org
