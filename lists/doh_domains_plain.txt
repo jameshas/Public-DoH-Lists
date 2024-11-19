@@ -26,6 +26,7 @@ dns.52306.org
 family.5ososea.com
 kids.5ososea.com
 dns.688447.xyz
+dns.853852.xyz
 8888.google
 dns.9999.sg
 dns.a47.me
@@ -413,7 +414,6 @@ ns1.fdn.fr
 dns.fehlsprache.de
 ag.ff0x.ca
 doh.ffmuc.net
-dns.ffnw.de
 fidelius.top
 dns01.flm9.net
 resolv.flokinet.net
@@ -537,7 +537,6 @@ lukscasino-929-tr.xyz
 dns.luma-medien.com
 orau.lz0724.com
 addns1.m-it.ro
-mabuktogel.builders
 mabuktogel.marketing
 mabuktogel.ltd
 mabuktogel.degree
@@ -809,7 +808,6 @@ rumpelsepp.org
 dns1.ryan-palmer.com
 safeservedns.com
 doh.safesurfer.io
-dns.salonia.it
 dns.sarak.as
 dns.sarilouis.com
 doh.seby.io
@@ -859,7 +857,6 @@ ihctw.synology.me
 doh.syshero.org
 dns.szpadel.ovh
 dns.t53.de
-adguard.taxiora.tn
 tecdrive.site
 dns.technologycage.com
 rx.techomespace.com
