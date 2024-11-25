@@ -26,6 +26,7 @@ dns.52306.org
 family.5ososea.com
 kids.5ososea.com
 dns.688447.xyz
+75747123.xyz
 dns.853852.xyz
 8888.google
 dns.9999.sg
@@ -86,7 +87,6 @@ doh.archuser.org
 dns.arkbotech.com
 nsec.arnor.org
 dns.artikel10.org
-doh.asagiri.moe
 dns.asterimoon.com
 dandelionsprout.asuscomm.com
 dns.asysec.com
@@ -134,7 +134,6 @@ free.bravedns.com
 dns.bravoc.one
 dns.brembeck.cloud
 doh.bt.com
-goose.buckyfan.net
 stratus.bugz.fr
 dns.burgas.pro
 dns.busold.ws
@@ -440,7 +439,6 @@ google-public-dns-b.google.com
 greatideasforlife.lol
 jp.gridns.xyz
 dns.guard.io
-dns.guardmydns.com
 dns.gutwe.in
 dns.hahnjo.de
 doh.hajekj.net
@@ -451,7 +449,6 @@ dns.henek.ovh
 home-server.store
 dns.hoody.com
 dns.hostux.net
-dns.hshoe.cn
 doth.huque.com
 dns.hypercute.eu
 opennic.i2pd.xyz
@@ -496,7 +493,6 @@ adg.khon.dev
 doh.kidzonet.io
 doh.killtw.im
 blog.kimiblock.top
-ko-18948-tr.xyz
 adguard.konikoni428.com
 korzhov.dev
 dns.kosan.moe
@@ -506,7 +502,6 @@ xray.krnl.eu
 dns.kukal.cz
 dns.kumoumi.net
 dns.kuuhaku.moe
-kx-97795-tr.xyz
 dns.l337.site
 doh.lacontrevoie.fr
 dns.lars-lehmann.net
@@ -521,6 +516,7 @@ dns.levonet.sk
 lewsha.lol
 dns.liberador.net
 doh.libredns.gr
+lifeisa.live
 dns.lihj.me
 africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
@@ -594,7 +590,6 @@ paranoia.mydns.network
 blackhole.myon.lu
 dns.mzjtechnology.com
 n0.eu
-najiakeji.top
 dns.nako.kr
 dns.nas-server.ru
 ae-fuj-w-p-1.nashkan.net
@@ -734,13 +729,11 @@ polisitogel.beauty
 polisitogel.cruises
 polisitogel.green
 polisitogel.webcam
-polisitogel.accountant
 polisitogel.hair
 polisitogel.luxe
 polisitogel.limo
 polisitogel.show
 polisitogel.contractors
-polisitogel.builders
 doh.powerdns.org
 lindung.pp.ua
 sundalandia.pp.ua
@@ -758,7 +751,6 @@ united-arab-emirates.privacy-dns.pw
 nl.dns.privex.io
 dns.propheci.xyz
 dns.pumplex.com
-v.qdev.cc
 doh.qis.io
 qqmcfw.tech
 ns1.qquack.org
@@ -785,6 +777,7 @@ rayneau.fr
 dns.rbn.gr
 dns.reckoningslug.name
 dns.reitmeier.me
+renardbleu.dev
 dnspub.restena.lu
 kaitain.restena.lu
 dns.retakecs.com
@@ -796,7 +789,6 @@ doh.rezhajul.io
 newd.rezyro.com
 resolver.rferee.dev
 dns.rin.sh
-vps.robotboard.de
 dns.roedel.cloud
 dns.rotunneling.net
 o.rsaikat.com
@@ -846,7 +838,6 @@ resolver.sunet.se
 sunnygyl.com
 doh.sunoaki.net
 dns.superstefan.win
-dns.surobe.com
 dns.sv-zauner.at
 dns.svoi.dev
 dns.switch.ch
