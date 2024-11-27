@@ -18,7 +18,6 @@ dns.240527.xyz
 doh.360.cn
 3dcosas.xyz
 3dns.eu
-3jjxxl.tech
 dns.4-the.win
 doh.42l.fr
 ns2.4netguides.org
@@ -134,7 +133,6 @@ free.bravedns.com
 dns.bravoc.one
 dns.brembeck.cloud
 doh.bt.com
-stratus.bugz.fr
 dns.burgas.pro
 dns.busold.ws
 www.c-dns.com
@@ -360,6 +358,7 @@ yul01.dnscry.pt
 yvr01.dnscry.pt
 yyz01.dnscry.pt
 zal01.dnscry.pt
+dnscrypt.xyz
 dns1.dnscrypt.ca
 dns2.dnscrypt.ca
 dns-doh.dnsforfamily.com
@@ -563,7 +562,6 @@ testaghome.meshkov.info
 dns.mh4ckt3mh4ckt1c4s.xyz
 dns.michelo.cl
 mikezhang.xyz
-miniapp.global
 netcup.mismat.ch
 doh.mmmalia.com
 dns.mnet-online.de
@@ -752,7 +750,6 @@ nl.dns.privex.io
 dns.propheci.xyz
 dns.pumplex.com
 doh.qis.io
-qqmcfw.tech
 ns1.qquack.org
 dns.quad9.net
 dns-nosec.quad9.net
@@ -776,6 +773,7 @@ ns.ral9005.org
 rayneau.fr
 dns.rbn.gr
 dns.reckoningslug.name
+regiopolis.cloud
 dns.reitmeier.me
 renardbleu.dev
 dnspub.restena.lu
