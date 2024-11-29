@@ -208,6 +208,7 @@ dns.cybertonic.tech
 dns.cynthialabs.net
 dns.d94.xyz
 dns.d96.info
+da-91614-tr.xyz
 adguard.dantynes.cyou
 mail.data.haus
 ns.data.haus
@@ -435,7 +436,6 @@ privacydns.go6lab.si
 dns.google.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
-greatideasforlife.lol
 jp.gridns.xyz
 dns.guard.io
 dns.gutwe.in
@@ -482,12 +482,14 @@ dns.karadag.me
 dns.karl.one
 dns.kastner-online.de
 kavkaz.monster
+ke-03060-tr.xyz
 dns.kebree.fr
 doh.kel.pe
 dns.kerekes.xyz
 dns.kernel-error.de
 dns.kescher.at
 pihole.aws.ketan.dev
+kf-49509-tr.xyz
 adg.khon.dev
 doh.kidzonet.io
 doh.killtw.im
@@ -601,9 +603,7 @@ fi-hel-w-f-2.nashkan.net
 fr-gra-w-f-1.nashkan.net
 fr-gra-w-p-1.nashkan.net
 gb-lon-w-f-1.nashkan.net
-gb-lon-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
-kz-pav-w-p-1.nashkan.net
 ro-buc-w-f-1.nashkan.net
 ro-buc-w-p-1.nashkan.net
 sg-w-f-1.nashkan.net
@@ -787,6 +787,7 @@ doh.rezhajul.io
 newd.rezyro.com
 resolver.rferee.dev
 dns.rin.sh
+rockwell.website
 dns.roedel.cloud
 dns.rotunneling.net
 o.rsaikat.com
@@ -817,7 +818,6 @@ dns.shimul.me
 adguard.shoupperuser.com
 dns.silen.org
 dns.silentlybren.com
-dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
 dns.slinkyman.net
