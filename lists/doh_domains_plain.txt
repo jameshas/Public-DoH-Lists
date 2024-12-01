@@ -298,7 +298,6 @@ gru01.dnscry.pt
 gva01.dnscry.pt
 haf01.dnscry.pt
 han01.dnscry.pt
-hel01.dnscry.pt
 hkg01.dnscry.pt
 hrk01.dnscry.pt
 isb01.dnscry.pt
@@ -390,7 +389,6 @@ doh.dscloud.me
 agh.dshubham.xyz
 dukun.de
 adguard.easez.net
-doh.eddi.net
 edgy-dns.com
 dns.efficientdocuments.com
 dns.elemental.software
@@ -538,7 +536,6 @@ mabuktogel.marketing
 mabuktogel.ltd
 mabuktogel.degree
 mabuktogel.properties
-mabuktogel.business
 mabuktogel.enterprises
 mabuktogel.solutions
 mabuktogel.cards
@@ -622,7 +619,6 @@ us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
 dns.ndo.dev
 dns.neeb.it
-adguard.neon0404.space
 dns.aa.net.uk
 ns.net.kg
 dns.netvpn.net
@@ -723,7 +719,6 @@ pm7051-br.xyz
 pm9352-bd.xyz
 polisitogel.diy
 polisitogel.living
-polisitogel.beauty
 polisitogel.cruises
 polisitogel.green
 polisitogel.webcam
@@ -920,7 +915,6 @@ doh.xcom.pro
 doh.xfinity.com
 dns.xlion.tw
 xn--durhre-yxa.de
-dns.xuming.studio
 dns.yague.me
 common.dot.dns.yandex.net
 family.dot.dns.yandex.net
