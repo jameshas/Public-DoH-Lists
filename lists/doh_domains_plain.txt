@@ -523,14 +523,12 @@ doh.phdns3.lonet.org
 doh.phdns4.lonet.org
 doh.phdns5.lonet.org
 lukscasino-479-tr.xyz
-lukscasino-542-tr.xyz
 lukscasino-929-tr.xyz
 dns.luma-medien.com
 orau.lz0724.com
 addns1.m-it.ro
 mabuktogel.marketing
 mabuktogel.ltd
-mabuktogel.degree
 mabuktogel.properties
 mabuktogel.enterprises
 mabuktogel.solutions
@@ -660,7 +658,6 @@ ns3.com
 ns3.cx
 ns3.link
 ns.nwps.fi
-qdns02.nymterm.com
 obscuro.top
 dot.occ.top
 dns.odinpl.com
@@ -711,7 +708,6 @@ pm9352-bd.xyz
 polisitogel.diy
 polisitogel.living
 polisitogel.cruises
-polisitogel.green
 polisitogel.webcam
 polisitogel.hair
 polisitogel.luxe
@@ -847,6 +843,7 @@ timmes.nl
 adb.timnichollsphotography.com
 dns.tipsy.coffee
 dns.tls-data.de
+toropyzhka.xyz
 resolv1.trash.net
 resolv2.trash.net
 resolv3.trash.net
@@ -873,10 +870,8 @@ nightlymoon.us.kg
 luna-is.so-gorgeo.us.kg
 mecca-is.so-gorgeo.us.kg
 mita-is.so-gorgeo.us.kg
-myrra-is.so-gorgeo.us.kg
 nana-is.so-gorgeo.us.kg
 nindy-is.so-gorgeo.us.kg
-nora-is.so-gorgeo.us.kg
 nova-is.so-gorgeo.us.kg
 sitha-is.so-gorgeo.us.kg
 tetty-is.so-gorgeo.us.kg
@@ -905,7 +900,6 @@ doh.xcom.pro
 doh.xfinity.com
 dns.xlion.tw
 xn--durhre-yxa.de
-dns.yague.me
 common.dot.dns.yandex.net
 family.dot.dns.yandex.net
 safe.dot.dns.yandex.net
@@ -917,3 +911,4 @@ zdn.ro
 adguard-kartoffel.zernico.de
 doh.zknt.org
 doh.zln.wtf
+zneginnl.website
