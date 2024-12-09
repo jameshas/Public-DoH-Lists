@@ -130,6 +130,7 @@ basic.bravedns.com
 free.bravedns.com
 dns.bravoc.one
 dns.brembeck.cloud
+dns.brono.cloud
 doh.bt.com
 dns.burgas.pro
 dns.busold.ws
@@ -354,7 +355,6 @@ yul01.dnscry.pt
 yvr01.dnscry.pt
 yyz01.dnscry.pt
 zal01.dnscry.pt
-dnscrypt.xyz
 dns1.dnscrypt.ca
 dns2.dnscrypt.ca
 dns-doh.dnsforfamily.com
@@ -457,7 +457,6 @@ dns.inclusioproject.com
 dns.indybanipal.com
 dns.inforlogia.com
 qlf-doh.inria.fr
-mickedi.isgood.host
 dns.ishan.pw
 pdns.itxe.net
 ivnkn.xyz
@@ -586,7 +585,6 @@ at-wie-w-p-1.nashkan.net
 au-syd-w-f-1.nashkan.net
 de-fra-w-p-1.nashkan.net
 de-fsn-w-p-1.nashkan.net
-fi-hel-w-f-2.nashkan.net
 fr-gra-w-f-1.nashkan.net
 fr-gra-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
@@ -900,7 +898,6 @@ xn--durhre-yxa.de
 common.dot.dns.yandex.net
 family.dot.dns.yandex.net
 safe.dot.dns.yandex.net
-your-dns.run
 yovbak.com
 dns.yuu-g.net
 zakaria.website
