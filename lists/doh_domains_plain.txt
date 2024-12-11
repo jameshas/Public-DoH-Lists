@@ -206,7 +206,6 @@ dns.cybertonic.tech
 dns.cynthialabs.net
 dns.d94.xyz
 dns.d96.info
-da-91614-tr.xyz
 adguard.dantynes.cyou
 mail.data.haus
 ns.data.haus
@@ -463,7 +462,6 @@ ivnkn.xyz
 jackyes.ovh
 jcdns.fun
 adguard.jfchenier.ca
-dns.jhangy.us
 opencdn.jomodns.com
 dns.jstockley.com
 dns.jupitrdns.com
@@ -503,7 +501,6 @@ us1.dns.lavate.ch
 yarp.lefolgoc.net
 resolver-eu.lelux.fi
 dns.lepilleur.com
-dns.lermer.nl
 dns.levonet.sk
 lewsha.lol
 dns.liberador.net
@@ -812,7 +809,6 @@ resolver.sunet.se
 sunnygyl.com
 doh.sunoaki.net
 dns.superstefan.win
-dns.sv-zauner.at
 dns.svoi.dev
 dns.switch.ch
 dns.sy.st
