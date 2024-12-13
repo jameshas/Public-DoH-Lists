@@ -379,6 +379,7 @@ doh.sb
 doh.beauty
 doh.buzz
 dns.doh.best
+sm2.doh.pub
 doh.domreg.lt
 doh.dscloud.me
 agh.dshubham.xyz
@@ -654,7 +655,6 @@ obscuro.top
 dot.occ.top
 dns.odinpl.com
 dns.ofdoom.net
-okado.online
 one.one.one.one
 doh.onedns.net
 secure.onedns.cc
@@ -699,7 +699,6 @@ pm7051-br.xyz
 pm9352-bd.xyz
 polisitogel.diy
 polisitogel.living
-polisitogel.cruises
 polisitogel.webcam
 polisitogel.hair
 polisitogel.luxe
