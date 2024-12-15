@@ -298,7 +298,6 @@ hkg01.dnscry.pt
 hrk01.dnscry.pt
 isb01.dnscry.pt
 ist01.dnscry.pt
-jhb01.dnscry.pt
 jkt01.dnscry.pt
 jnb01.dnscry.pt
 kiv01.dnscry.pt
@@ -392,6 +391,7 @@ eliatofani.ovh
 dns.eliv.kr
 dns.emiliyan.com
 doh.excdn.eu.org
+dns.de.futuredns.eu.org
 dns.mayx.eu.org
 arashi.net.eu.org
 dns.extrawdw.net
@@ -472,7 +472,6 @@ dns.kapite.in
 dns.karadag.me
 dns.karl.one
 dns.kastner-online.de
-ke-03060-tr.xyz
 dns.kebree.fr
 doh.kel.pe
 dns.kerekes.xyz
@@ -530,7 +529,6 @@ mabuktogel.solutions
 mabuktogel.directory
 mabuktogel.limited
 mabuktogel.immobilien
-mabuktogel.creditcard
 mailkyb.co
 maqgie.xyz
 dns.marasov.id
