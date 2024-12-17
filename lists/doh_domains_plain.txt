@@ -134,6 +134,7 @@ dns.brono.cloud
 doh.bt.com
 dns.burgas.pro
 dns.busold.ws
+dns.butterfly87.sbs
 www.c-dns.com
 dns.cabbage.zone
 captnemo.in
@@ -175,7 +176,6 @@ family.cloudflare-dns.com
 mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 dns.cmrg.net
-ns.nerdytechgeeks.co.za
 dns.oliviertv.co.za
 pooblet.co.za
 adguard.frutuozo.com.br
@@ -298,13 +298,11 @@ hkg01.dnscry.pt
 hrk01.dnscry.pt
 isb01.dnscry.pt
 ist01.dnscry.pt
-jkt01.dnscry.pt
 jnb01.dnscry.pt
 kiv01.dnscry.pt
 las01.dnscry.pt
 lax01.dnscry.pt
 lax02.dnscry.pt
-lim01.dnscry.pt
 lim02.dnscry.pt
 lis01.dnscry.pt
 llk01.dnscry.pt
@@ -380,10 +378,11 @@ doh.buzz
 dns.doh.best
 sm2.doh.pub
 doh.domreg.lt
+dns.dremaxx.de
+droyd.top
 doh.dscloud.me
 agh.dshubham.xyz
 dukun.de
-adguard.easez.net
 edgy-dns.com
 dns.efficientdocuments.com
 dns.elemental.software
@@ -392,6 +391,7 @@ dns.eliv.kr
 dns.emiliyan.com
 doh.excdn.eu.org
 dns.de.futuredns.eu.org
+dns.us.futuredns.eu.org
 dns.mayx.eu.org
 arashi.net.eu.org
 dns.extrawdw.net
@@ -438,6 +438,7 @@ dns.haka.se
 query.hdns.io
 ordns.he.net
 dns.henek.ovh
+adguard.hjebbour.top
 home-server.store
 dns.hoody.com
 dns.hostux.net
@@ -471,6 +472,7 @@ dns.kamilszczepanski.com
 dns.kapite.in
 dns.karadag.me
 dns.karl.one
+adguard.kasbot.net
 dns.kastner-online.de
 dns.kebree.fr
 doh.kel.pe
@@ -489,7 +491,6 @@ dns.kosan.moe
 dart.kpsn.org
 adblock.krctech.dev
 xray.krnl.eu
-dns.kukal.cz
 dns.kumoumi.net
 dns.kuuhaku.moe
 dns.l337.site
@@ -551,6 +552,7 @@ doh.mmmalia.com
 dns.mnet-online.de
 dns.mni.li
 mnrv.trade
+moamao.shop
 dnstls.mobik.com
 ps1.modr.club
 dns.molinero.dev
@@ -822,6 +824,7 @@ dns.telekom.de
 dns.thebuckners.org
 dns.therifleman.name
 blocker.thethorsens.org
+dns.thiz.top
 doh.tiar.app
 jp.tiar.app
 doh.tiarap.org
