@@ -157,6 +157,7 @@ chandr1000.net
 dns.chenu.ch
 dns.christerwaren.fi
 dns.chriswservers.com
+dns.chunghwamc.com
 doh.cippapp.com
 family.canadianshield.cira.ca
 private.canadianshield.cira.ca
@@ -409,7 +410,6 @@ ag.ff0x.ca
 doh.ffmuc.net
 fidelius.top
 dns01.flm9.net
-resolv.flokinet.net
 dns.floriantinney.de
 dns.flymc.cc
 dns.freyja.pw
@@ -491,7 +491,6 @@ dns.kosan.moe
 dart.kpsn.org
 adblock.krctech.dev
 xray.krnl.eu
-dns.kumoumi.net
 dns.kuuhaku.moe
 dns.l337.site
 doh.lacontrevoie.fr
@@ -525,7 +524,6 @@ addns1.m-it.ro
 mabuktogel.marketing
 mabuktogel.ltd
 mabuktogel.properties
-mabuktogel.enterprises
 mabuktogel.solutions
 mabuktogel.directory
 mabuktogel.limited
@@ -712,8 +710,6 @@ dns.pragmasec.nl
 princez.uk
 hungary.privacy-dns.pw
 india.privacy-dns.pw
-las-vegas.privacy-dns.pw
-luxembourg.privacy-dns.pw
 romania.privacy-dns.pw
 sweden.privacy-dns.pw
 switzerland.privacy-dns.pw
