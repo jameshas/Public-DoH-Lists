@@ -309,6 +309,7 @@ lis01.dnscry.pt
 llk01.dnscry.pt
 lon01.dnscry.pt
 mad01.dnscry.pt
+man01.dnscry.pt
 mia01.dnscry.pt
 mil01.dnscry.pt
 muc01.dnscry.pt
@@ -348,8 +349,10 @@ vno01.dnscry.pt
 waw01.dnscry.pt
 waw02.dnscry.pt
 ycg01.dnscry.pt
+yhz01.dnscry.pt
 yul01.dnscry.pt
 yvr01.dnscry.pt
+yyc01.dnscry.pt
 yyz01.dnscry.pt
 zal01.dnscry.pt
 dns1.dnscrypt.ca
@@ -432,7 +435,6 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 jp.gridns.xyz
 dns.guard.io
-dns.gutwe.in
 dns.hahnjo.de
 dns.haka.se
 query.hdns.io
@@ -584,7 +586,6 @@ de-fsn-w-p-1.nashkan.net
 fr-gra-w-f-1.nashkan.net
 fr-gra-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
-ro-buc-w-f-1.nashkan.net
 ro-buc-w-p-1.nashkan.net
 sg-w-f-1.nashkan.net
 sg-w-p-1.nashkan.net
@@ -648,6 +649,7 @@ dns.novg.net
 ns3.com
 ns3.cx
 ns3.link
+ntwrkh.pro
 ns.nwps.fi
 obscuro.top
 dot.occ.top
@@ -679,6 +681,7 @@ i.passcloud.xyz
 doh.gcp.pathofgrace.com
 rpz-public-resolver1.rrdns.pch.net
 dns.peb-schmidt.de
+pepetio.xyz
 darya.persiannit.net
 dns.petqa.ru
 doh.centraleu.pi-dns.com
@@ -897,4 +900,5 @@ zdn.ro
 adguard-kartoffel.zernico.de
 doh.zknt.org
 doh.zln.wtf
+znegindeh2.top
 zneginnl.website
