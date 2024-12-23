@@ -529,7 +529,6 @@ mabuktogel.properties
 mabuktogel.solutions
 mabuktogel.directory
 mabuktogel.limited
-mabuktogel.immobilien
 mailkyb.co
 maqgie.xyz
 dns.marasov.id
@@ -670,7 +669,6 @@ resolver2.opendns.com
 resolver2-fs.opendns.com
 doh.sandbox.opendns.com
 ns1.opennameserver.org
-ns3.opennameserver.org
 dns.oszx.co
 1a.ns.ozer.im
 dns.paesa.es
@@ -711,12 +709,6 @@ sundalandia.pp.ua
 virga.pp.ua
 dns.pragmasec.nl
 princez.uk
-hungary.privacy-dns.pw
-india.privacy-dns.pw
-romania.privacy-dns.pw
-sweden.privacy-dns.pw
-switzerland.privacy-dns.pw
-united-arab-emirates.privacy-dns.pw
 nl.dns.privex.io
 dns.propheci.xyz
 dns.pumplex.com
