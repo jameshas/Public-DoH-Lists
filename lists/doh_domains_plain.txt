@@ -19,13 +19,16 @@ doh.360.cn
 3dns.eu
 dns.4-the.win
 doh.42l.fr
+dns.444723.xyz
 ns2.4netguides.org
 dns.52306.org
 family.5ososea.com
 kids.5ososea.com
 dns.688447.xyz
-75747123.xyz
+doh.774445.xyz
+dns.775467.xyz
 dns.853852.xyz
+dns.8887744.xyz
 8888.google
 dns.9999.sg
 dns.a47.me
@@ -97,6 +100,7 @@ doh2.b-cdn.net
 dns.b612.me
 fr-dns1.bancuh.com
 sg-dns1.bancuh.com
+doh.battle.christmas
 bazooki-infra.dev
 antivirus.bebasid.com
 dns.bebasid.com
@@ -500,6 +504,7 @@ dns.lars-lehmann.net
 lastentarvike.fi
 eu1.dns.lavate.ch
 us1.dns.lavate.ch
+lecker.pizza
 yarp.lefolgoc.net
 resolver-eu.lelux.fi
 dns.lepilleur.com
