@@ -97,6 +97,7 @@ adguard.avdkishore.dev
 doh1.b-cdn.net
 doh2.b-cdn.net
 dns.b612.me
+bakamh.news
 fr-dns1.bancuh.com
 sg-dns1.bancuh.com
 doh.battle.christmas
@@ -507,7 +508,6 @@ yarp.lefolgoc.net
 resolver-eu.lelux.fi
 dns.lepilleur.com
 dns.levonet.sk
-lewsha.lol
 dns.liberador.net
 doh.libredns.gr
 lifeisa.live
@@ -710,7 +710,6 @@ doh.powerdns.org
 lindung.pp.ua
 sundalandia.pp.ua
 virga.pp.ua
-dns.pragmasec.nl
 princez.uk
 nl.dns.privex.io
 dns.propheci.xyz
@@ -886,4 +885,3 @@ adguard-kartoffel.zernico.de
 doh.zknt.org
 doh.zln.wtf
 znegindeh2.top
-zneginnl.website
