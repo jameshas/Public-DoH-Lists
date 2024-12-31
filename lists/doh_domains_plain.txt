@@ -536,7 +536,6 @@ mailkyb.co
 maqgie.xyz
 dns.marasov.id
 dns.marbledfennec.net
-multi.dns.marbledfennec.net
 doh.maskab.com
 masters-of-cloud.de
 dns.mateo.ovh
@@ -850,6 +849,16 @@ resolver.unstoppable.io
 dns.unx.io
 dns.uplenk.com
 dns.koala.us.to
+nightlymoon.us.kg
+luna-is.so-gorgeo.us.kg
+mecca-is.so-gorgeo.us.kg
+mita-is.so-gorgeo.us.kg
+nana-is.so-gorgeo.us.kg
+nindy-is.so-gorgeo.us.kg
+nova-is.so-gorgeo.us.kg
+sitha-is.so-gorgeo.us.kg
+tetty-is.so-gorgeo.us.kg
+yussy-is.so-gorgeo.us.kg
 adfree.usableprivacy.net
 dns.vaioswolke.xyz
 tor.vasi.li
