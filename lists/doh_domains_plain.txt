@@ -531,7 +531,6 @@ mabuktogel.ltd
 mabuktogel.properties
 mabuktogel.solutions
 mabuktogel.directory
-mabuktogel.limited
 mailkyb.co
 maqgie.xyz
 dns.marasov.id
@@ -602,6 +601,7 @@ us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
 dns.ndo.dev
 dns.neeb.it
+nekosama.store
 dns.aa.net.uk
 ns.net.kg
 dns.netvpn.net
