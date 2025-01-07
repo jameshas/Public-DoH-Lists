@@ -132,7 +132,6 @@ dns.brahma.world
 bravedns.com
 basic.bravedns.com
 free.bravedns.com
-dns.bravoc.one
 dns.brembeck.cloud
 dns.brono.cloud
 doh.bt.com
@@ -486,7 +485,6 @@ dns.kerekes.xyz
 dns.kernel-error.de
 dns.kescher.at
 pihole.aws.ketan.dev
-kf-49509-tr.xyz
 adg.khon.dev
 doh.kidzonet.io
 doh.killtw.im
@@ -769,11 +767,9 @@ doh.seby.io
 doh-2.seby.io
 dns.seia.io
 secondary.dns.seia.io
-dns.seiffert.me
 adguard.senthil.us
 dns1.serdcebolit.ru
 dns.sev.monster
-dns.shareworx.net
 dns.shecan.ir
 free.shecan.ir
 pro.shecan.ir
@@ -782,6 +778,7 @@ dns.shimul.me
 adguard.shoupperuser.com
 dns.silen.org
 dns.silentlybren.com
+simsim.lol
 dns.sitdns.com
 dns.skrep.eu
 dns.slinkyman.net
@@ -862,6 +859,7 @@ yussy-is.so-gorgeo.us.kg
 adfree.usableprivacy.net
 dns.vaioswolke.xyz
 tor.vasi.li
+dns.vod11.xyz
 dns.vojtat.cz
 vorlif.org
 dns.w3ctag.org
@@ -893,4 +891,3 @@ zdn.ro
 adguard-kartoffel.zernico.de
 doh.zknt.org
 doh.zln.wtf
-znegindeh2.top
