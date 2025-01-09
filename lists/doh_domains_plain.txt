@@ -509,7 +509,6 @@ dns.levonet.sk
 dns.liberador.net
 doh.libredns.gr
 lifeisa.live
-dns.lihj.me
 africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
 loadlow.me
@@ -648,7 +647,8 @@ ns3.com
 ns3.cx
 ns3.link
 ntwrkh.pro
-ns.nwps.fi
+kids.ns.nwps.fi
+public.ns.nwps.fi
 obscuro.top
 dot.occ.top
 dns.odinpl.com
@@ -695,7 +695,6 @@ privacy.plumedns.com
 pm1239-bd.xyz
 pm7051-br.xyz
 pm9352-bd.xyz
-polisitogel.diy
 polisitogel.living
 polisitogel.webcam
 polisitogel.hair
@@ -762,7 +761,6 @@ dns1.ryan-palmer.com
 safeservedns.com
 doh.safesurfer.io
 dns.sarak.as
-dns.sarilouis.com
 doh.seby.io
 doh-2.seby.io
 dns.seia.io
@@ -778,7 +776,6 @@ dns.shimul.me
 adguard.shoupperuser.com
 dns.silen.org
 dns.silentlybren.com
-simsim.lol
 dns.sitdns.com
 dns.skrep.eu
 dns.slinkyman.net
@@ -829,6 +826,7 @@ resolv2.trash.net
 resolv3.trash.net
 ns.trcnet.fi
 tri-dns.net
+asia.tri-dns.net
 eu.tri-dns.net
 adg.tshost.no
 doh.ibr.cs.tu-bs.de
