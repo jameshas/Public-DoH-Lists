@@ -790,6 +790,7 @@ dns.startupstack.tech
 dns.stevenz.net
 dns.stirringphoto.com
 dns.stormycloud.org
+doh.sublime9.xyz
 dns.suhaila.dev
 resolver.sunet.se
 sunnygyl.com
@@ -807,6 +808,7 @@ tecdrive.site
 dns.technologycage.com
 rx.techomespace.com
 dns.telekom.de
+tensents.shop
 dns.thebuckners.org
 dns.therifleman.name
 blocker.thethorsens.org
