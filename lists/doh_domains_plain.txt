@@ -63,7 +63,6 @@ doh.nl.ahadns.net
 doh.no.ahadns.net
 doh.ny.ahadns.net
 doh.pl.ahadns.net
-ahoj.email
 dnsnl.alekberg.net
 dnsnl-noads.alekberg.net
 dnsse.alekberg.net
@@ -74,7 +73,6 @@ dns.andrewnw.xyz
 doh.angry.im
 dns.anon.no
 secure.anudeep.me
-ad.anym0re.ru
 doh.apad.pro
 ag.apollohct.com
 doh.dns.apple.com
@@ -524,7 +522,6 @@ dns.luma-medien.com
 orau.lz0724.com
 addns1.m-it.ro
 mabuktogel.marketing
-mabuktogel.ltd
 mabuktogel.properties
 mabuktogel.solutions
 mabuktogel.directory
@@ -579,7 +576,6 @@ ae-fuj-w-p-3.nashkan.net
 at-wie-w-p-1.nashkan.net
 au-syd-w-f-1.nashkan.net
 de-fra-w-p-1.nashkan.net
-de-fsn-w-p-1.nashkan.net
 fr-gra-w-f-1.nashkan.net
 fr-gra-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
@@ -671,6 +667,7 @@ ns1.opennameserver.org
 dns.oszx.co
 1a.ns.ozer.im
 dns.paesa.es
+paradise-human.shop
 dns.pari.network
 pashagame456.com
 a.passcloud.xyz
@@ -870,8 +867,6 @@ yunyun.is.my.waifu.cz
 dns.wang.art
 abel.waringer-atg.de
 wikimedia-dns.org
-dns-1.wil.cloud
-dns-2.wil.cloud
 home.wriedts.de
 ns2.wuyouss.com
 ns3.wuyouss.com
