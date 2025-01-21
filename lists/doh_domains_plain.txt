@@ -95,7 +95,6 @@ adguard.avdkishore.dev
 doh1.b-cdn.net
 doh2.b-cdn.net
 dns.b612.me
-bakamh.news
 fr-dns1.bancuh.com
 sg-dns1.bancuh.com
 doh.battle.christmas
@@ -461,7 +460,6 @@ dns.inclusioproject.com
 dns.indybanipal.com
 dns.inforlogia.com
 qlf-doh.inria.fr
-dns.ishan.pw
 pdns.itxe.net
 ivnkn.xyz
 jackyes.ovh
@@ -521,7 +519,6 @@ lukscasino-929-tr.xyz
 dns.luma-medien.com
 orau.lz0724.com
 addns1.m-it.ro
-mabuktogel.marketing
 mabuktogel.properties
 mabuktogel.solutions
 mabuktogel.directory
@@ -580,7 +577,6 @@ fr-gra-w-f-1.nashkan.net
 fr-gra-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
 ro-buc-w-p-1.nashkan.net
-sg-w-f-1.nashkan.net
 sg-w-p-1.nashkan.net
 us-chi-w-f-1.nashkan.net
 us-chi-w-p-1.nashkan.net
@@ -694,7 +690,6 @@ pm7051-br.xyz
 pm9352-bd.xyz
 polisitogel.living
 polisitogel.webcam
-polisitogel.hair
 polisitogel.luxe
 polisitogel.limo
 polisitogel.show
@@ -805,7 +800,6 @@ tecdrive.site
 dns.technologycage.com
 rx.techomespace.com
 dns.telekom.de
-tensents.shop
 dns.thebuckners.org
 dns.therifleman.name
 blocker.thethorsens.org
@@ -819,7 +813,6 @@ timmes.nl
 adb.timnichollsphotography.com
 dns.tipsy.coffee
 dns.tls-data.de
-toropyzhka.xyz
 resolv1.trash.net
 resolv2.trash.net
 resolv3.trash.net
