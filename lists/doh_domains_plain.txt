@@ -696,7 +696,6 @@ polisitogel.show
 polisitogel.realty
 doh.powerdns.org
 lindung.pp.ua
-sundalandia.pp.ua
 virga.pp.ua
 princez.uk
 nl.dns.privex.io
@@ -837,14 +836,11 @@ dns.unx.io
 dns.uplenk.com
 dns.koala.us.to
 nightlymoon.us.kg
-luna-is.so-gorgeo.us.kg
 mecca-is.so-gorgeo.us.kg
 mita-is.so-gorgeo.us.kg
-nana-is.so-gorgeo.us.kg
 nindy-is.so-gorgeo.us.kg
 nova-is.so-gorgeo.us.kg
 sitha-is.so-gorgeo.us.kg
-tetty-is.so-gorgeo.us.kg
 yussy-is.so-gorgeo.us.kg
 adfree.usableprivacy.net
 dns.vaioswolke.xyz
