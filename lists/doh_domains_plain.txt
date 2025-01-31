@@ -647,6 +647,7 @@ dns.odinpl.com
 dns.ofdoom.net
 one.one.one.one
 doh.onedns.net
+doh-pure.onedns.net
 secure.onedns.cc
 ada.openbld.net
 ric.openbld.net
