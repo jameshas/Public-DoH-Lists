@@ -1,5 +1,4 @@
 ns.00dani.me
-052419.xyz
 0ms.dev
 cdn.0ms.dev
 dns.0ooo.icu
@@ -114,7 +113,6 @@ doh-jp.blahdns.com
 doh-sg.blahdns.com
 doh1.blahdns.com
 doh2.blahdns.com
-us1.blissdns.net
 dns.blokada.org
 rfree1.blue-shield.at
 rfree2.blue-shield.at
@@ -140,7 +138,6 @@ dns.cabbage.zone
 captnemo.in
 doh.captnemo.in
 dns.carson-family.com
-dns.carter.me
 dns.caspervk.net
 doh.ccb-net.it
 dns.cctld.kg
@@ -156,9 +153,7 @@ ibuki.cgnat.net
 chandr1000.net
 dns.chenu.ch
 dns.christerwaren.fi
-dns.chriswservers.com
 dns.chunghwamc.com
-doh.cippapp.com
 family.canadianshield.cira.ca
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
@@ -408,7 +403,6 @@ farewellkou.click
 dns.farshidhakimy.de
 ns0.fdn.fr
 ns1.fdn.fr
-dns.fehlsprache.de
 ag.ff0x.ca
 doh.ffmuc.net
 fidelius.top
@@ -440,12 +434,10 @@ dns.haka.se
 query.hdns.io
 ordns.he.net
 dns.henek.ovh
-adguard.hjebbour.top
 home-server.store
 dns.hoody.com
 dns.hostux.net
 doth.huque.com
-dns.hypercute.eu
 opennic.i2pd.xyz
 mask.icloud.com
 mask-h2.icloud.com
@@ -471,7 +463,6 @@ dns.jupitrdns.com
 ad.justincounts.com
 dns.kamilszczepanski.com
 dns.kapite.in
-dns.karadag.me
 dns.karl.one
 adguard.kasbot.net
 dns.kastner-online.de
@@ -491,7 +482,6 @@ dns.kosan.moe
 dart.kpsn.org
 adblock.krctech.dev
 xray.krnl.eu
-dns.kuuhaku.moe
 dns.l337.site
 doh.lacontrevoie.fr
 dns.lars-lehmann.net
@@ -501,7 +491,6 @@ us1.dns.lavate.ch
 yarp.lefolgoc.net
 resolver-eu.lelux.fi
 dns.lepilleur.com
-dns.levonet.sk
 dns.liberador.net
 doh.libredns.gr
 lifeisa.live
@@ -519,8 +508,6 @@ lukscasino-929-tr.xyz
 dns.luma-medien.com
 orau.lz0724.com
 addns1.m-it.ro
-mabuktogel.properties
-mabuktogel.solutions
 mabuktogel.directory
 mailkyb.co
 maqgie.xyz
@@ -572,9 +559,6 @@ ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net
 at-wie-w-p-1.nashkan.net
 au-syd-w-f-1.nashkan.net
-de-fra-w-p-1.nashkan.net
-fr-gra-w-f-1.nashkan.net
-fr-gra-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
 ro-buc-w-p-1.nashkan.net
 sg-w-p-1.nashkan.net
@@ -590,7 +574,6 @@ us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
 dns.ndo.dev
 dns.neeb.it
-nekosama.store
 dns.aa.net.uk
 ns.net.kg
 dns.netvpn.net
@@ -628,7 +611,7 @@ dns.njal.la
 resolver.noaddns.com
 pi1.node15.com
 sink.nolo.ltd
-paulo.nom.za
+dns.paulo.nom.za
 kiri.nonexiste.net
 dns1.nordvpn.com
 dns2.nordvpn.com
@@ -689,12 +672,7 @@ privacy.plumedns.com
 pm1239-bd.xyz
 pm7051-br.xyz
 pm9352-bd.xyz
-polisitogel.living
 polisitogel.webcam
-polisitogel.luxe
-polisitogel.limo
-polisitogel.show
-polisitogel.realty
 doh.powerdns.org
 lindung.pp.ua
 virga.pp.ua
@@ -836,7 +814,7 @@ resolver.unstoppable.io
 dns.unx.io
 dns.uplenk.com
 dns.koala.us.to
-nightlymoon.us.kg
+dns.nightlymoon.us.kg
 mecca-is.so-gorgeo.us.kg
 mita-is.so-gorgeo.us.kg
 nindy-is.so-gorgeo.us.kg
@@ -857,9 +835,6 @@ yunyun.is.my.waifu.cz
 dns.wang.art
 abel.waringer-atg.de
 wikimedia-dns.org
-home.wriedts.de
-ns2.wuyouss.com
-ns3.wuyouss.com
 adb-home.xaoimoon.fr
 xbcpb668.com
 doh.xcom.pro
