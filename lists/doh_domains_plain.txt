@@ -238,7 +238,6 @@ dns.dns-53.us
 dns-free.link
 dns1.dns-ga.de
 dns2.dns-ga.de
-dns3.dns-ga.de
 tls-dns-u.odvr.dns-oarc.net
 dns0.eu
 kids.dns0.eu
@@ -823,7 +822,6 @@ sitha-is.so-gorgeo.us.kg
 yussy-is.so-gorgeo.us.kg
 adfree.usableprivacy.net
 dns.vaioswolke.xyz
-tor.vasi.li
 dns.vod11.xyz
 dns.vojtat.cz
 vorlif.org
