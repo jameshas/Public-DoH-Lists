@@ -643,6 +643,7 @@ resolver2.opendns.com
 resolver2-fs.opendns.com
 doh.sandbox.opendns.com
 ns1.opennameserver.org
+resolver.dnsprivacy.org.uk
 dns.oszx.co
 1a.ns.ozer.im
 dns.paesa.es
