@@ -25,7 +25,6 @@ kids.5ososea.com
 dns.688447.xyz
 doh.774445.xyz
 dns.775467.xyz
-dns.853852.xyz
 dns.8887744.xyz
 8888.google
 dns.9999.sg
@@ -463,7 +462,6 @@ dns.kamilszczepanski.com
 dns.kapite.in
 dns.karl.one
 adguard.kasbot.net
-dns.kastner-online.de
 dns.kebree.fr
 doh.kel.pe
 dns.kerekes.xyz
@@ -518,7 +516,6 @@ adguard.meddy94.de
 dns.meeo.win
 snoke.meganerd.nl
 mendozasdelivery.com
-testaghome.meshkov.info
 dns.mh4ckt3mh4ckt1c4s.xyz
 dns.michelo.cl
 mikezhang.xyz
@@ -526,7 +523,6 @@ netcup.mismat.ch
 doh.mmmalia.com
 dns.mnet-online.de
 dns.mni.li
-mnrv.trade
 moamao.shop
 dnstls.mobik.com
 ps1.modr.club
@@ -565,7 +561,6 @@ us-jac-w-f-1.nashkan.net
 us-jac-w-p-1.nashkan.net
 us-kan-w-f-1.nashkan.net
 us-kan-w-p-1.nashkan.net
-us-nyc-w-f-1.nashkan.net
 us-nyc-w-p-1.nashkan.net
 us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
@@ -669,7 +664,6 @@ privacy.plumedns.com
 pm1239-bd.xyz
 pm7051-br.xyz
 pm9352-bd.xyz
-polisitogel.webcam
 doh.powerdns.org
 lindung.pp.ua
 virga.pp.ua
