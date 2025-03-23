@@ -804,13 +804,6 @@ resolver.unstoppable.io
 dns.unx.io
 dns.uplenk.com
 dns.koala.us.to
-dns.nightlymoon.us.kg
-mecca-is.so-gorgeo.us.kg
-mita-is.so-gorgeo.us.kg
-nindy-is.so-gorgeo.us.kg
-nova-is.so-gorgeo.us.kg
-sitha-is.so-gorgeo.us.kg
-yussy-is.so-gorgeo.us.kg
 adfree.usableprivacy.net
 dns.vaioswolke.xyz
 dns.vojtat.cz
