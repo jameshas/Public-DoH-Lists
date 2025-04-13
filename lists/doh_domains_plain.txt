@@ -37,7 +37,6 @@ res-acst3.absolight.net
 resolver1.absolight.net
 resolver2.absolight.net
 resolver3.absolight.net
-doh.iucc.ac.il
 adl.adfilter.net
 per.adfilter.net
 syd.adfilter.net
@@ -80,12 +79,10 @@ doh.applied-privacy.net
 doh.appliedprivacy.net
 dns.arapurayil.com
 doh.archuser.org
-dns.arkbotech.com
 nsec.arnor.org
 dns.artikel10.org
 dns.asterimoon.com
 dandelionsprout.asuscomm.com
-dns.asysec.com
 atris.cyou
 dohtrial.att.net
 secure.avastdns.com
@@ -172,7 +169,6 @@ security.cloudflare-dns.com
 dns.cmrg.net
 dns.oliviertv.co.za
 pooblet.co.za
-adguard.frutuozo.com.br
 dns.redhosting.com.ar
 doh.viatech.com.tw
 dns.comff.net
@@ -189,14 +185,12 @@ p3.freedns.controld.com
 uncensored.freedns.controld.com
 doh.cox.net
 dohdot.coxlab.net
-dns.criena.net
 doh.crypto.sx
 doh-ipv6.crypto.sx
 dns.crystalyx.net
 dns.csa-rz.de
 dns.csaonline.de
 dns.csswg.org
-dns.cybertonic.tech
 dns.cynthialabs.net
 dns.d94.xyz
 dns.d96.info
@@ -288,7 +282,6 @@ gva01.dnscry.pt
 haf01.dnscry.pt
 han01.dnscry.pt
 hkg01.dnscry.pt
-hrk01.dnscry.pt
 isb01.dnscry.pt
 ist01.dnscry.pt
 jnb01.dnscry.pt
@@ -386,7 +379,6 @@ dns.elemental.software
 eliatofani.ovh
 dns.eliv.kr
 dns.emiliyan.com
-doh.excdn.eu.org
 dns.de.futuredns.eu.org
 dns.us.futuredns.eu.org
 dns.mayx.eu.org
@@ -446,7 +438,6 @@ imperio.top
 dns1.in-berlin.de
 dns2.in-berlin.de
 dns.inclusioproject.com
-dns.indybanipal.com
 dns.inforlogia.com
 qlf-doh.inria.fr
 pdns.itxe.net
@@ -545,7 +536,6 @@ paranoia.mydns.network
 blackhole.myon.lu
 dns.mzjtechnology.com
 n0.eu
-dns.nako.kr
 dns.nas-server.ru
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
@@ -617,7 +607,6 @@ ntwrkh.pro
 kids.ns.nwps.fi
 public.ns.nwps.fi
 dot.occ.top
-dns.odinpl.com
 dns.ofdoom.net
 one.one.one.one
 doh.onedns.net
@@ -661,7 +650,6 @@ helios.plan9-dns.com
 kronos.plan9-dns.com
 pluton.plan9-dns.com
 privacy.plumedns.com
-pm1239-bd.xyz
 pm7051-br.xyz
 pm9352-bd.xyz
 doh.powerdns.org
@@ -691,7 +679,6 @@ resolver.r0cket.net
 dns.rabbitdns.org
 family.rabbitdns.org
 security.rabbitdns.org
-ns.ral9005.org
 rayneau.fr
 dns.rbn.gr
 dns.reckoningslug.name
@@ -706,7 +693,6 @@ max.rethinkdns.com
 sky.rethinkdns.com
 revelio.top
 doh.rezhajul.io
-newd.rezyro.com
 resolver.rferee.dev
 dns.rin.sh
 dns.roedel.cloud
@@ -747,7 +733,6 @@ doh-01.spectrum.com
 doh-02.spectrum.com
 squidmall.vip
 dns.startupstack.tech
-dns.stevenz.net
 dns.stirringphoto.com
 dns.stormycloud.org
 doh.sublime9.xyz
@@ -776,7 +761,6 @@ doh.tiar.app
 jp.tiar.app
 doh.tiarap.org
 jp.tiarap.org
-dns.tierradeayala.com
 timmes.nl
 adb.timnichollsphotography.com
 dns.tipsy.coffee
@@ -806,7 +790,6 @@ dns.uplenk.com
 dns.koala.us.to
 adfree.usableprivacy.net
 dns.vaioswolke.xyz
-dns.vojtat.cz
 vorlif.org
 dns.w3ctag.org
 aqua.is.my.waifu.cz
@@ -817,7 +800,6 @@ dns.wang.art
 abel.waringer-atg.de
 wikimedia-dns.org
 adb-home.xaoimoon.fr
-xbcpb668.com
 doh.xcom.pro
 doh.xfinity.com
 dns.xlion.tw
