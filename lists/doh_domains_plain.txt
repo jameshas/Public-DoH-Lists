@@ -1,7 +1,6 @@
 ns.00dani.me
 0ms.dev
 cdn.0ms.dev
-dns.0ooo.icu
 123000123.xyz
 cloud.198.games
 dns.23-4.cn
@@ -206,7 +205,6 @@ dns.decky.eu
 dns.decloudus.com
 deep-henchman-excuse.cfd
 doh.defaultroutes.de
-doh.denypradana.com
 adguard.lege.despagne.net
 doh-primary-pool.detoxifypornblocker.com
 dns.dev-umbrellagov.com
@@ -228,7 +226,6 @@ public-dns-a.dns.sb
 public-dns-b.dns.sb
 dns.dns-53.us
 dns-free.link
-dns2.dns-ga.de
 tls-dns-u.odvr.dns-oarc.net
 dns0.eu
 kids.dns0.eu
@@ -545,7 +542,6 @@ us-chi-w-f-1.nashkan.net
 us-chi-w-p-1.nashkan.net
 us-jac-w-f-1.nashkan.net
 us-jac-w-p-1.nashkan.net
-us-kan-w-f-1.nashkan.net
 us-kan-w-p-1.nashkan.net
 us-nyc-w-p-1.nashkan.net
 us-saj-w-f-1.nashkan.net
@@ -798,7 +794,6 @@ adb-home.xaoimoon.fr
 doh.xcom.pro
 doh.xfinity.com
 dns.xlion.tw
-xmr.land
 xn--durhre-yxa.de
 common.dot.dns.yandex.net
 family.dot.dns.yandex.net
