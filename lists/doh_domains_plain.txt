@@ -269,7 +269,6 @@ dtw01.dnscry.pt
 dub01.dnscry.pt
 dus01.dnscry.pt
 evn01.dnscry.pt
-fjr01.dnscry.pt
 fra01.dnscry.pt
 fra02.dnscry.pt
 geg01.dnscry.pt
@@ -506,7 +505,6 @@ netcup.mismat.ch
 doh.mmmalia.com
 dns.mnet-online.de
 dns.mni.li
-moamao.shop
 dnstls.mobik.com
 ps1.modr.club
 dns.molinero.dev
@@ -755,9 +753,6 @@ timmes.nl
 adb.timnichollsphotography.com
 dns.tipsy.coffee
 dns.tls-data.de
-resolv1.trash.net
-resolv2.trash.net
-resolv3.trash.net
 ns.trcnet.fi
 tri-dns.net
 asia.tri-dns.net
