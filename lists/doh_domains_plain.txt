@@ -1,5 +1,4 @@
 ns.00dani.me
-0ms.dev
 cdn.0ms.dev
 123000123.xyz
 cloud.198.games
@@ -174,7 +173,6 @@ commons.host
 dns.comss.one
 dns.east.comss.one
 router.comss.one
-dns.controld.com
 freedns.controld.com
 family.freedns.controld.com
 p0.freedns.controld.com
@@ -277,7 +275,6 @@ gva01.dnscry.pt
 haf01.dnscry.pt
 han01.dnscry.pt
 hkg01.dnscry.pt
-isb01.dnscry.pt
 ist01.dnscry.pt
 jnb01.dnscry.pt
 kiv01.dnscry.pt
@@ -341,6 +338,7 @@ dns-doh.dnsforfamily.com
 dnsforge.de
 clean.dnsforge.de
 hard.dnsforge.de
+dnsguard.pub
 dns.dnshome.de
 doh.dnslify.com
 a.ns.dnslify.com
@@ -643,7 +641,6 @@ pm9352-bd.xyz
 doh.powerdns.org
 lindung.pp.ua
 virga.pp.ua
-princez.uk
 nl.dns.privex.io
 dns.propheci.xyz
 dns.pumplex.com
@@ -729,6 +726,7 @@ resolver.sunet.se
 sunnygyl.com
 doh.sunoaki.net
 dns.superstefan.win
+dns.surfsharkdns.com
 dns.svoi.dev
 dns.switch.ch
 dns.syaifullah.com
@@ -753,7 +751,6 @@ timmes.nl
 adb.timnichollsphotography.com
 dns.tipsy.coffee
 dns.tls-data.de
-ns.trcnet.fi
 tri-dns.net
 asia.tri-dns.net
 eu.tri-dns.net
@@ -774,6 +771,7 @@ dns.unx.io
 dns.uplenk.com
 dns.koala.us.to
 adfree.usableprivacy.net
+v.recipes
 dns.vaioswolke.xyz
 vorlif.org
 dns.w3ctag.org
@@ -794,7 +792,6 @@ family.dot.dns.yandex.net
 safe.dot.dns.yandex.net
 yovbak.com
 dns.yuu-g.net
-zakaria.website
 zdn.ro
 adguard-kartoffel.zernico.de
 doh.zknt.org
