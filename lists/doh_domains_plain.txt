@@ -127,6 +127,7 @@ dns.busold.ws
 dns.butterfly87.sbs
 www.c-dns.com
 dns.cabbage.zone
+dns.caliph.dev
 captnemo.in
 doh.captnemo.in
 dns.carson-family.com
@@ -506,7 +507,6 @@ dns.mni.li
 dnstls.mobik.com
 ps1.modr.club
 dns.molinero.dev
-dns.momou.ch
 dns.mullvad.net
 adblock.dns.mullvad.net
 all.dns.mullvad.net
