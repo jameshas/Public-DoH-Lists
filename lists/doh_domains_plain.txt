@@ -192,7 +192,6 @@ dns.csswg.org
 dns.cynthialabs.net
 dns.d94.xyz
 dns.d96.info
-adguard.dantynes.cyou
 mail.data.haus
 ns.data.haus
 doh.datacore.ch
@@ -463,7 +462,6 @@ adblock.krctech.dev
 xray.krnl.eu
 dns.l337.site
 doh.lacontrevoie.fr
-dns.lars-lehmann.net
 lastentarvike.fi
 eu1.dns.lavate.ch
 us1.dns.lavate.ch
@@ -581,7 +579,6 @@ resolver.noaddns.com
 pi1.node15.com
 sink.nolo.ltd
 dns.paulo.nom.za
-kiri.nonexiste.net
 dns1.nordvpn.com
 dns2.nordvpn.com
 1.dns.noridev.moe
@@ -775,7 +772,6 @@ v.recipes
 dns.vaioswolke.xyz
 vorlif.org
 dns.w3ctag.org
-aqua.is.my.waifu.cz
 darkness.is.my.waifu.cz
 megumin.is.my.waifu.cz
 yunyun.is.my.waifu.cz
