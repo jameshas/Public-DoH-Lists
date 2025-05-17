@@ -164,6 +164,7 @@ dns64.cloudflare-dns.com
 family.cloudflare-dns.com
 mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
+frd4wvnobp.cloudflare-gateway.com
 dns.cmrg.net
 dns.oliviertv.co.za
 pooblet.co.za
