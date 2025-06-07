@@ -1,6 +1,7 @@
 ns.00dani.me
 cdn.0ms.dev
 123000123.xyz
+doh.18bit.cn
 cloud.198.games
 dns.23-4.cn
 dns.233py.com
