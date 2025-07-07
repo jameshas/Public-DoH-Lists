@@ -16,17 +16,12 @@ doh.360.cn
 3dns.eu
 dns.4-the.win
 doh.42l.fr
-dns.444723.xyz
 ns2.4netguides.org
 dns.52306.org
 family.5ososea.com
 kids.5ososea.com
 dns.688447.xyz
-doh.774445.xyz
-dns.775467.xyz
-dns.8887744.xyz
 8888.google
-dns.9999.sg
 dns.a47.me
 doh.aaaab3n.moe
 doh.dns.apple.com.v.aaplimg.com
@@ -82,7 +77,6 @@ nsec.arnor.org
 dns.artikel10.org
 dns.asterimoon.com
 dandelionsprout.asuscomm.com
-atris.cyou
 dohtrial.att.net
 secure.avastdns.com
 adguard.avdkishore.dev
@@ -91,7 +85,6 @@ doh2.b-cdn.net
 dns.b612.me
 fr-dns1.bancuh.com
 sg-dns1.bancuh.com
-doh.battle.christmas
 bazooki-infra.dev
 antivirus.bebasid.com
 dns.bebasid.com
@@ -124,7 +117,6 @@ basic.bravedns.com
 free.bravedns.com
 dns.brembeck.cloud
 doh.bt.com
-dns.burgas.pro
 dns.busold.ws
 dns.butterfly87.sbs
 www.c-dns.com
@@ -201,7 +193,6 @@ doh.datacore.ch
 doh.datahata.by
 dns.datenquark.de
 dns.daw.dev
-dns.deadsec.net
 dns.decky.eu
 dns.decloudus.com
 deep-henchman-excuse.cfd
@@ -239,7 +230,6 @@ ca01.dns4me.net
 ca02.dns4me.net
 de01.dns4me.net
 ie01.dns4me.net
-jp01.dns4me.net
 nz01.dns4me.net
 sa01.dns4me.net
 sg01.dns4me.net
@@ -289,7 +279,6 @@ lis01.dnscry.pt
 llk01.dnscry.pt
 lon01.dnscry.pt
 mad01.dnscry.pt
-man01.dnscry.pt
 mia01.dnscry.pt
 mil01.dnscry.pt
 muc01.dnscry.pt
@@ -323,7 +312,6 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 tsm01.dnscry.pt
 tyo01.dnscry.pt
-tyo02.dnscry.pt
 vie01.dnscry.pt
 vno01.dnscry.pt
 waw01.dnscry.pt
@@ -353,10 +341,8 @@ b.safe.ns.dnslify.com
 dnslow.me
 chuncheon.dnsovertor.cc
 chuncheon1.dnsovertor.cc
-hongkong.dnsovertor.cc
 japan.dnsovertor.cc
 seoul.dnsovertor.cc
-singapore.dnsovertor.cc
 dns.dnswarden.com
 doh.dnswarden.com
 do-39574-tr.xyz
@@ -453,10 +439,6 @@ unfiltered.joindns4.eu
 opencdn.jomodns.com
 dns.jstockley.com
 dns.jupitrdns.com
-doh0.jusprogdns.com
-doh12.jusprogdns.com
-doh16.jusprogdns.com
-doh6.jusprogdns.com
 ad.justincounts.com
 dns.kamilszczepanski.com
 dns.kapite.in
@@ -505,7 +487,6 @@ mailkyb.co
 maqgie.xyz
 dns.marasov.id
 dns.marbledfennec.net
-doh.maskab.com
 masters-of-cloud.de
 dns.mateo.ovh
 dns.mbrjun.cn
@@ -516,11 +497,9 @@ mendozasdelivery.com
 dns.mh4ckt3mh4ckt1c4s.xyz
 dns.michelo.cl
 mikezhang.xyz
-netcup.mismat.ch
 doh.mmmalia.com
 dns.mnet-online.de
 dns.mni.li
-dnstls.mobik.com
 ps1.modr.club
 dns.molinero.dev
 dns.mullvad.net
@@ -544,7 +523,6 @@ dns.nas-server.ru
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net
-at-wie-w-p-1.nashkan.net
 au-syd-w-f-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
 ro-buc-w-p-1.nashkan.net
@@ -561,7 +539,6 @@ dns.ndo.dev
 dns.neeb.it
 dns.aa.net.uk
 ns.net.kg
-dns.netvpn.net
 dns.neutopia.org
 doh.luigi.nexific.it
 dns.nextdns.io
@@ -630,13 +607,11 @@ resolver.dnsprivacy.org.uk
 dns.oszx.co
 1a.ns.ozer.im
 dns.paesa.es
-dns.pari.network
 pashagame456.com
 a.passcloud.xyz
 i.passcloud.xyz
 doh.gcp.pathofgrace.com
 rpz-public-resolver1.rrdns.pch.net
-dns.peb-schmidt.de
 pepetio.xyz
 darya.persiannit.net
 dns.petqa.ru
@@ -651,8 +626,6 @@ helios.plan9-dns.com
 kronos.plan9-dns.com
 pluton.plan9-dns.com
 privacy.plumedns.com
-pm7051-br.xyz
-pm9352-bd.xyz
 doh.powerdns.org
 lindung.pp.ua
 virga.pp.ua
@@ -718,7 +691,6 @@ dns.shecan.ir
 free.shecan.ir
 pro.shecan.ir
 dns.sheggi.ch
-dns.shimul.me
 adguard.shoupperuser.com
 dns.silen.org
 dns.silentlybren.com
@@ -735,7 +707,6 @@ squidmall.vip
 dns.startupstack.tech
 dns.stirringphoto.com
 dns.stormycloud.org
-doh.sublime9.xyz
 dns.suhaila.dev
 resolver.sunet.se
 sunnygyl.com
