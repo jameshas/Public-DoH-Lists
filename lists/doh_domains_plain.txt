@@ -719,6 +719,7 @@ dns.syaifullah.com
 ibksturm.synology.me
 ihctw.synology.me
 doh.syshero.org
+doh.sz-dns.com
 dns.szpadel.ovh
 dns.t53.de
 tecdrive.site
