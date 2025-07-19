@@ -12,7 +12,6 @@ sdns.233py.com
 wdns.233py.com
 dns.240527.xyz
 doh.360.cn
-3dcosas.xyz
 3dns.eu
 dns.4-the.win
 doh.42l.fr
@@ -90,7 +89,6 @@ antivirus.bebasid.com
 dns.bebasid.com
 internetsehat.bebasid.com
 dns.belnet.be
-bestwon203.com
 ns3.bit-trail.nl
 dns.bitdefender.net
 dns.bitservices.io
@@ -362,7 +360,6 @@ agh.dshubham.xyz
 dukun.de
 dns.dynx.pro
 edgy-dns.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.emiliyan.com
@@ -403,6 +400,7 @@ privacydns.go6lab.si
 dns.google.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
+dns.green-ping.lol
 jp.gridns.xyz
 dns.guard.io
 dns.hahnjo.de
@@ -423,7 +421,6 @@ doh.immerda.ch
 imperio.top
 dns1.in-berlin.de
 dns2.in-berlin.de
-dns.inclusioproject.com
 dns.inforlogia.com
 qlf-doh.inria.fr
 pdns.itxe.net
@@ -439,14 +436,12 @@ unfiltered.joindns4.eu
 opencdn.jomodns.com
 dns.jstockley.com
 dns.jupitrdns.com
-ad.justincounts.com
 dns.kamilszczepanski.com
 dns.kapite.in
 dns.karl.one
 adguard.kasbot.net
 dns.kebree.fr
 doh.kel.pe
-dns.kerekes.xyz
 dns.kernel-error.de
 dns.kescher.at
 pihole.aws.ketan.dev
@@ -607,7 +602,6 @@ resolver.dnsprivacy.org.uk
 dns.oszx.co
 1a.ns.ozer.im
 dns.paesa.es
-pashagame456.com
 a.passcloud.xyz
 i.passcloud.xyz
 doh.gcp.pathofgrace.com
@@ -684,7 +678,6 @@ doh.seby.io
 doh-2.seby.io
 dns.seia.io
 secondary.dns.seia.io
-adguard.senthil.us
 dns1.serdcebolit.ru
 dns.sev.monster
 dns.shecan.ir
@@ -735,7 +728,6 @@ jp.tiar.app
 doh.tiarap.org
 jp.tiarap.org
 timmes.nl
-adb.timnichollsphotography.com
 dns.tipsy.coffee
 dns.tls-data.de
 tri-dns.net
@@ -744,7 +736,6 @@ eu.tri-dns.net
 adg.tshost.no
 doh.ibr.cs.tu-bs.de
 tujenasnaszato.xyz
-tuskythehusky.tech
 dns.twnic.tw
 doh.umbrella.com
 anycast.uncensoreddns.org
@@ -760,7 +751,6 @@ dns.koala.us.to
 adfree.usableprivacy.net
 v.recipes
 dns.vaioswolke.xyz
-vorlif.org
 dns.w3ctag.org
 darkness.is.my.waifu.cz
 megumin.is.my.waifu.cz
