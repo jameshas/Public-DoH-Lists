@@ -41,7 +41,6 @@ dns.adguard-dns.com
 family.adguard-dns.com
 unfiltered.adguard-dns.com
 dns.adrianlam.com
-affsoft.cc
 blitz.ahadns.com
 doh.chi.ahadns.net
 doh.es.ahadns.net
@@ -158,7 +157,6 @@ mozilla.cloudflare-dns.com
 security.cloudflare-dns.com
 frd4wvnobp.cloudflare-gateway.com
 dns.cmrg.net
-dns.oliviertv.co.za
 pooblet.co.za
 dns.redhosting.com.ar
 doh.viatech.com.tw
@@ -338,7 +336,6 @@ a.safe.ns.dnslify.com
 b.safe.ns.dnslify.com
 dnslow.me
 chuncheon.dnsovertor.cc
-chuncheon1.dnsovertor.cc
 japan.dnsovertor.cc
 seoul.dnsovertor.cc
 dns.dnswarden.com
