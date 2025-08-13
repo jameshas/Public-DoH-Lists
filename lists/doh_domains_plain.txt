@@ -19,7 +19,6 @@ ns2.4netguides.org
 dns.52306.org
 family.5ososea.com
 kids.5ososea.com
-dns.688447.xyz
 8888.google
 dns.a47.me
 doh.aaaab3n.moe
@@ -115,7 +114,6 @@ free.bravedns.com
 dns.brembeck.cloud
 doh.bt.com
 dns.busold.ws
-dns.butterfly87.sbs
 www.c-dns.com
 dns.cabbage.zone
 dns.caliph.dev
@@ -176,7 +174,6 @@ doh.cox.net
 dohdot.coxlab.net
 doh.crypto.sx
 doh-ipv6.crypto.sx
-dns.crystalyx.net
 dns.csa-rz.de
 dns.csaonline.de
 dns.csswg.org
@@ -191,7 +188,6 @@ dns.datenquark.de
 dns.daw.dev
 dns.decky.eu
 dns.decloudus.com
-deep-henchman-excuse.cfd
 doh.defaultroutes.de
 adguard.lege.despagne.net
 doh-primary-pool.detoxifypornblocker.com
@@ -292,7 +288,6 @@ rdu01.dnscry.pt
 sea01.dnscry.pt
 sgn01.dnscry.pt
 sin01.dnscry.pt
-sin02.dnscry.pt
 sin03.dnscry.pt
 sjc01.dnscry.pt
 slc01.dnscry.pt
@@ -483,7 +478,6 @@ dns.mbrjun.cn
 adguard.meddy94.de
 dns.meeo.win
 snoke.meganerd.nl
-mendozasdelivery.com
 dns.mh4ckt3mh4ckt1c4s.xyz
 dns.michelo.cl
 mikezhang.xyz
@@ -619,7 +613,6 @@ doh.powerdns.org
 lindung.pp.ua
 virga.pp.ua
 nl.dns.privex.io
-dns.propheci.xyz
 dns.pumplex.com
 doh.qis.io
 ns1.qquack.org
@@ -691,14 +684,12 @@ solaxy.live
 spacedns.org
 doh-01.spectrum.com
 doh-02.spectrum.com
-squidmall.vip
 dns.startupstack.tech
 dns.stirringphoto.com
 dns.stormycloud.org
 dns.suhaila.dev
 resolver.sunet.se
 sunnygyl.com
-doh.sunoaki.net
 dns.superstefan.win
 dns.surfsharkdns.com
 dns.svoi.dev
