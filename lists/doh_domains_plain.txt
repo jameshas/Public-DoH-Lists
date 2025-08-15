@@ -480,7 +480,6 @@ dns.meeo.win
 snoke.meganerd.nl
 dns.mh4ckt3mh4ckt1c4s.xyz
 dns.michelo.cl
-mikezhang.xyz
 doh.mmmalia.com
 dns.mnet-online.de
 dns.mni.li
