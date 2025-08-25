@@ -335,7 +335,6 @@ japan.dnsovertor.cc
 seoul.dnsovertor.cc
 dns.dnswarden.com
 doh.dnswarden.com
-do-39574-tr.xyz
 doh.li
 doh.lv
 doh.pub
@@ -479,7 +478,6 @@ adguard.meddy94.de
 dns.meeo.win
 snoke.meganerd.nl
 dns.mh4ckt3mh4ckt1c4s.xyz
-dns.michelo.cl
 doh.mmmalia.com
 dns.mnet-online.de
 dns.mni.li
