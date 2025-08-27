@@ -399,7 +399,6 @@ dns.haka.se
 query.hdns.io
 ordns.he.net
 dns.henek.ovh
-home-server.store
 dns.hoody.com
 dns.hostux.net
 doth.huque.com
@@ -408,7 +407,6 @@ mask.icloud.com
 mask-h2.icloud.com
 adguard.shuting.idv.tw
 public.dns.iij.jp
-doh.immerda.ch
 imperio.top
 dns1.in-berlin.de
 dns2.in-berlin.de
