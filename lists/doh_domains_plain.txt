@@ -398,7 +398,6 @@ dns.hahnjo.de
 dns.haka.se
 query.hdns.io
 ordns.he.net
-dns.henek.ovh
 dns.hoody.com
 dns.hostux.net
 doth.huque.com
@@ -471,7 +470,6 @@ dns.marasov.id
 dns.marbledfennec.net
 masters-of-cloud.de
 dns.mateo.ovh
-dns.mbrjun.cn
 adguard.meddy94.de
 dns.meeo.win
 snoke.meganerd.nl
@@ -490,7 +488,6 @@ family.dns.mullvad.net
 doh.mullvad.net
 adblock.doh.mullvad.net
 dns.feldy.my.id
-myatris.sbs
 adblock.mydns.network
 family.mydns.network
 freedom.mydns.network
@@ -599,7 +596,6 @@ doh.eastau.pi-dns.com
 doh.eastus.pi-dns.com
 doh.northeu.pi-dns.com
 doh.westus.pi-dns.com
-dns1.pietjacobs.be
 helios.plan9-dns.com
 kronos.plan9-dns.com
 pluton.plan9-dns.com
@@ -607,7 +603,6 @@ privacy.plumedns.com
 doh.powerdns.org
 lindung.pp.ua
 virga.pp.ua
-nl.dns.privex.io
 dns.pumplex.com
 doh.qis.io
 ns1.qquack.org
@@ -699,10 +694,8 @@ dns.t53.de
 dns.technologycage.com
 rx.techomespace.com
 dns.telekom.de
-dns.thebuckners.org
 dns.therifleman.name
 blocker.thethorsens.org
-dns.thiz.top
 doh.tiar.app
 jp.tiar.app
 doh.tiarap.org
