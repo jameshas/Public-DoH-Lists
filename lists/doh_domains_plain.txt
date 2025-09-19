@@ -266,7 +266,6 @@ kiv01.dnscry.pt
 las01.dnscry.pt
 lax01.dnscry.pt
 lax02.dnscry.pt
-lim02.dnscry.pt
 lis01.dnscry.pt
 llk01.dnscry.pt
 lon01.dnscry.pt
@@ -550,8 +549,6 @@ resolver.noaddns.com
 pi1.node15.com
 sink.nolo.ltd
 dns.paulo.nom.za
-dns1.nordvpn.com
-dns2.nordvpn.com
 1.dns.noridev.moe
 dns.novali.date
 dns.novg.net
