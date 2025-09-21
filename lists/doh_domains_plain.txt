@@ -692,7 +692,6 @@ dns.technologycage.com
 rx.techomespace.com
 dns.telekom.de
 dns.therifleman.name
-blocker.thethorsens.org
 doh.tiar.app
 jp.tiar.app
 doh.tiarap.org
@@ -723,8 +722,6 @@ v.recipes
 dns.vaioswolke.xyz
 dns.w3ctag.org
 darkness.is.my.waifu.cz
-megumin.is.my.waifu.cz
-yunyun.is.my.waifu.cz
 dns.wang.art
 abel.waringer-atg.de
 wikimedia-dns.org
