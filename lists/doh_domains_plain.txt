@@ -266,7 +266,6 @@ kiv01.dnscry.pt
 las01.dnscry.pt
 lax01.dnscry.pt
 lax02.dnscry.pt
-lis01.dnscry.pt
 llk01.dnscry.pt
 lon01.dnscry.pt
 mad01.dnscry.pt
