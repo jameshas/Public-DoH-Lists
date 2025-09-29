@@ -389,7 +389,6 @@ privacydns.go6lab.si
 dns.google.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
-dns.green-ping.lol
 jp.gridns.xyz
 dns.guard.io
 dns.hahnjo.de
@@ -463,7 +462,6 @@ orau.lz0724.com
 addns1.m-it.ro
 mabuktogel.directory
 mailkyb.co
-maqgie.xyz
 dns.marasov.id
 dns.marbledfennec.net
 masters-of-cloud.de
