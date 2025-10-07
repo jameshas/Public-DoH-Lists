@@ -115,7 +115,6 @@ dns.brembeck.cloud
 doh.bt.com
 dns.busold.ws
 www.c-dns.com
-dns.cabbage.zone
 dns.caliph.dev
 captnemo.in
 doh.captnemo.in
@@ -179,7 +178,6 @@ dns.csaonline.de
 dns.csswg.org
 dns.cynthialabs.net
 dns.d94.xyz
-dns.d96.info
 mail.data.haus
 ns.data.haus
 doh.datacore.ch
