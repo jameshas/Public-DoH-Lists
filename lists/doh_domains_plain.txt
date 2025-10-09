@@ -87,6 +87,7 @@ antivirus.bebasid.com
 dns.bebasid.com
 internetsehat.bebasid.com
 dns.belnet.be
+dns.bibica.net
 ns3.bit-trail.nl
 dns.bitdefender.net
 dns.bitservices.io
@@ -214,6 +215,7 @@ kids.dns0.eu
 open.dns0.eu
 zero.dns0.eu
 doh.dns4all.eu
+dns4eu.online
 au01.dns4me.net
 au02.dns4me.net
 ca01.dns4me.net
@@ -369,6 +371,14 @@ fidelius.top
 dns01.flm9.net
 dns.floriantinney.de
 dns.flymc.cc
+de-d2.foxyfy.net
+de-f1.foxyfy.net
+dns.foxyfy.net
+es-ma.foxyfy.net
+jp-to.foxyfy.net
+ro-bu.foxyfy.net
+us-ny.foxyfy.net
+us-sj.foxyfy.net
 dns.freyja.pw
 dns.froth.zone
 awan.ftp.sh
@@ -389,6 +399,7 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 jp.gridns.xyz
 dns.guard.io
+secure.hafnova.com
 dns.hahnjo.de
 dns.haka.se
 query.hdns.io
@@ -730,6 +741,7 @@ family.dot.dns.yandex.net
 safe.dot.dns.yandex.net
 yovbak.com
 dns.yuu-g.net
+dns.yuzia.cc
 zdn.ro
 adguard-kartoffel.zernico.de
 doh.zknt.org
