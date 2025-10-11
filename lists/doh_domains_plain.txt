@@ -318,7 +318,7 @@ dns-doh.dnsforfamily.com
 dnsforge.de
 clean.dnsforge.de
 hard.dnsforge.de
-dnsguard.pub
+dns.dnsguard.pub
 dns.dnshome.de
 doh.dnslify.com
 a.ns.dnslify.com
