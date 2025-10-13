@@ -87,7 +87,6 @@ antivirus.bebasid.com
 dns.bebasid.com
 internetsehat.bebasid.com
 dns.belnet.be
-dns.bibica.net
 ns3.bit-trail.nl
 dns.bitdefender.net
 dns.bitservices.io
