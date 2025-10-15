@@ -351,8 +351,6 @@ edgy-dns.com
 dns.elemental.software
 dns.eliv.kr
 dns.emiliyan.com
-dns.de.futuredns.eu.org
-dns.us.futuredns.eu.org
 dns.mayx.eu.org
 arashi.net.eu.org
 dns.extrawdw.net
