@@ -707,7 +707,6 @@ asia.tri-dns.net
 eu.tri-dns.net
 adg.tshost.no
 doh.ibr.cs.tu-bs.de
-tujenasnaszato.xyz
 dns.twnic.tw
 doh.umbrella.com
 anycast.uncensoreddns.org
