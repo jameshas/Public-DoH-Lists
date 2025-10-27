@@ -106,7 +106,6 @@ doh.boje8.me
 adguard.bonis.de
 doh.bortzmeyer.fr
 cloudns.bosco.ovh
-dns.braene.com
 dns.brahma.world
 bravedns.com
 basic.bravedns.com
@@ -157,7 +156,6 @@ dns.cmrg.net
 pooblet.co.za
 dns.redhosting.com.ar
 doh.viatech.com.tw
-dns.comff.net
 commons.host
 dns.comss.one
 dns.east.comss.one
@@ -373,7 +371,6 @@ dns.foxyfy.net
 es-ma.foxyfy.net
 jp-to.foxyfy.net
 ro-bu.foxyfy.net
-us-ny.foxyfy.net
 us-sj.foxyfy.net
 dns.freyja.pw
 dns.froth.zone
@@ -701,9 +698,6 @@ jp.tiarap.org
 timmes.nl
 dns.tipsy.coffee
 dns.tls-data.de
-tri-dns.net
-asia.tri-dns.net
-eu.tri-dns.net
 adg.tshost.no
 doh.ibr.cs.tu-bs.de
 dns.twnic.tw
@@ -736,7 +730,6 @@ family.dot.dns.yandex.net
 safe.dot.dns.yandex.net
 yovbak.com
 dns.yuu-g.net
-dns.yuzia.cc
 zdn.ro
 adguard-kartoffel.zernico.de
 doh.zknt.org
