@@ -103,7 +103,6 @@ rfree2.blue-shield.at
 bluemood.me
 dns.bmwhocking.com
 doh.boje8.me
-adguard.bonis.de
 doh.bortzmeyer.fr
 cloudns.bosco.ovh
 dns.brahma.world
