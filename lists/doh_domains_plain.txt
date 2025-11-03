@@ -368,7 +368,6 @@ de-d2.foxyfy.net
 de-f1.foxyfy.net
 dns.foxyfy.net
 es-ma.foxyfy.net
-jp-to.foxyfy.net
 ro-bu.foxyfy.net
 us-sj.foxyfy.net
 dns.freyja.pw
@@ -425,7 +424,6 @@ dns.jupitrdns.com
 dns.kamilszczepanski.com
 dns.kapite.in
 dns.karl.one
-adguard.kasbot.net
 dns.kebree.fr
 doh.kel.pe
 dns.kernel-error.de
