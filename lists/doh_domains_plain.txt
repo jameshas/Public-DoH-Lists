@@ -648,7 +648,6 @@ doh.seby.io
 doh-2.seby.io
 dns.seia.io
 secondary.dns.seia.io
-dns1.serdcebolit.ru
 dns.sev.monster
 dns.shecan.ir
 free.shecan.ir
@@ -674,7 +673,6 @@ resolver.sunet.se
 sunnygyl.com
 dns.superstefan.win
 dns.surfsharkdns.com
-dns.svoi.dev
 dns.switch.ch
 dns.syaifullah.com
 ibksturm.synology.me
