@@ -394,7 +394,6 @@ dns.hahnjo.de
 dns.haka.se
 query.hdns.io
 ordns.he.net
-dns.hoody.com
 dns.hostux.net
 doth.huque.com
 opennic.i2pd.xyz
@@ -458,7 +457,6 @@ doh.phdns5.lonet.org
 dns.luma-medien.com
 orau.lz0724.com
 addns1.m-it.ro
-mabuktogel.directory
 mailkyb.co
 dns.marasov.id
 dns.marbledfennec.net
