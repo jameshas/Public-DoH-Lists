@@ -422,13 +422,11 @@ dns.jupitrdns.com
 dns.kamilszczepanski.com
 dns.kapite.in
 dns.karl.one
-dns.kebree.fr
 doh.kel.pe
 dns.kernel-error.de
 dns.kescher.at
 pihole.aws.ketan.dev
 adg.khon.dev
-doh.kidzonet.io
 doh.killtw.im
 blog.kimiblock.top
 adguard.konikoni428.com
