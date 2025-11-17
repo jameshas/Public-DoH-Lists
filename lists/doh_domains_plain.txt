@@ -616,7 +616,6 @@ rayneau.fr
 dns.rbn.gr
 dns.reckoningslug.name
 regiopolis.cloud
-dns.reitmeier.me
 renardbleu.dev
 dnspub.restena.lu
 kaitain.restena.lu
