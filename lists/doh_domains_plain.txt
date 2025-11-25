@@ -444,7 +444,6 @@ yarp.lefolgoc.net
 resolver-eu.lelux.fi
 dns.liberador.net
 doh.libredns.gr
-lifeisa.live
 loadlow.me
 dns.lobbygod.com
 doh.phdns1.lonet.org
