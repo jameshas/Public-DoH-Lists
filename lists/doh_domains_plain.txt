@@ -308,6 +308,7 @@ yyz01.dnscry.pt
 zal01.dnscry.pt
 dns1.dnscrypt.ca
 dns2.dnscrypt.ca
+dnsdoh.art
 dns-doh.dnsforfamily.com
 dnsforge.de
 clean.dnsforge.de
@@ -363,7 +364,6 @@ fidelius.top
 dns01.flm9.net
 dns.floriantinney.de
 dns.flymc.cc
-de-d2.foxyfy.net
 de-f1.foxyfy.net
 dns.foxyfy.net
 es-ma.foxyfy.net
