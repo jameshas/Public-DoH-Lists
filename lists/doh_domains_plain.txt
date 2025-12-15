@@ -338,7 +338,6 @@ dns.doh.best
 sm2.doh.pub
 doh.domreg.lt
 dns.dremaxx.de
-droyd.top
 doh.dscloud.me
 agh.dshubham.xyz
 dukun.de
