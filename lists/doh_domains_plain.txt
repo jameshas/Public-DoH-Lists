@@ -571,7 +571,6 @@ a.passcloud.xyz
 i.passcloud.xyz
 doh.gcp.pathofgrace.com
 rpz-public-resolver1.rrdns.pch.net
-pepetio.xyz
 darya.persiannit.net
 dns.petqa.ru
 doh.centraleu.pi-dns.com
