@@ -170,6 +170,7 @@ doh.cox.net
 dohdot.coxlab.net
 doh.crypto.sx
 doh-ipv6.crypto.sx
+cryptostorm.is
 dns.csa-rz.de
 dns.csaonline.de
 dns.csswg.org
