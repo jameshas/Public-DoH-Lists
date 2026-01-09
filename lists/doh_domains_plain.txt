@@ -312,8 +312,6 @@ dns2.dnscrypt.ca
 dnsdoh.art
 dns-doh.dnsforfamily.com
 dnsforge.de
-clean.dnsforge.de
-hard.dnsforge.de
 dns.dnsguard.pub
 dns.dnshome.de
 doh.dnslify.com
@@ -361,6 +359,7 @@ ns1.fdn.fr
 ag.ff0x.ca
 doh.ffmuc.net
 fidelius.top
+dns.flatuslifir.is
 dns01.flm9.net
 dns.floriantinney.de
 dns.flymc.cc
