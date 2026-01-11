@@ -651,7 +651,6 @@ dns.skrep.eu
 dns.slinkyman.net
 dns.smartguard.io
 clientdns3.softcom.net
-solaxy.live
 spacedns.org
 doh-01.spectrum.com
 doh-02.spectrum.com
