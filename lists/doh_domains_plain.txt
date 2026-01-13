@@ -670,6 +670,7 @@ doh.syshero.org
 doh.sz-dns.com
 dns.szpadel.ovh
 dns.t53.de
+dns1.techniverse.net
 dns.technologycage.com
 rx.techomespace.com
 dns.telekom.de
