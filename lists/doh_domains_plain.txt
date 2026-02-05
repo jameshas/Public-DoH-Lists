@@ -343,6 +343,7 @@ edgy-dns.com
 dns.elemental.software
 dns.eliv.kr
 dns.emiliyan.com
+dns.envs.net
 dns.mayx.eu.org
 arashi.net.eu.org
 dns.extrawdw.net
@@ -461,7 +462,6 @@ dns.meeo.win
 snoke.meganerd.nl
 dns.mh4ckt3mh4ckt1c4s.xyz
 doh.mmmalia.com
-dns.mnet-online.de
 dns.mni.li
 ps1.modr.club
 dns.molinero.dev
