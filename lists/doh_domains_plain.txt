@@ -246,7 +246,6 @@ dfw01.dnscry.pt
 dtw01.dnscry.pt
 dub01.dnscry.pt
 dus01.dnscry.pt
-evn01.dnscry.pt
 fra01.dnscry.pt
 fra02.dnscry.pt
 geg01.dnscry.pt
@@ -345,7 +344,6 @@ dns.eliv.kr
 dns.emiliyan.com
 dns.envs.net
 dns.mayx.eu.org
-arashi.net.eu.org
 dns.extrawdw.net
 pdns.faelix.net
 rdns.faelix.net
@@ -498,7 +496,6 @@ us-nyc-w-p-1.nashkan.net
 dns.ndo.dev
 dns.neeb.it
 dns.aa.net.uk
-ns.net.kg
 dns.neutopia.org
 doh.luigi.nexific.it
 dns.nextdns.io
@@ -583,6 +580,7 @@ privacy.plumedns.com
 doh.powerdns.org
 lindung.pp.ua
 virga.pp.ua
+dns.practicallyunhackable.com
 dns.pumplex.com
 doh.qis.io
 ns1.qquack.org
