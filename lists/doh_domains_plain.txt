@@ -692,6 +692,7 @@ dns.uplenk.com
 dns.koala.us.to
 adfree.usableprivacy.net
 v.recipes
+v0dka.ru
 dns.vaioswolke.xyz
 dns.w3ctag.org
 darkness.is.my.waifu.cz
