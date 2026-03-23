@@ -39,6 +39,7 @@ dns-unfiltered.adguard.com
 dns.adguard-dns.com
 family.adguard-dns.com
 unfiltered.adguard-dns.com
+dns.adnull.com
 dns.adrianlam.com
 blitz.ahadns.com
 doh.chi.ahadns.net
