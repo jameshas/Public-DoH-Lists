@@ -173,7 +173,6 @@ doh-ipv6.crypto.sx
 cryptostorm.is
 dns.csa-rz.de
 dns.csaonline.de
-dns.csswg.org
 dns.cynthialabs.net
 dns.d94.xyz
 mail.data.haus
@@ -279,7 +278,6 @@ phx01.dnscry.pt
 rdd01.dnscry.pt
 rdu01.dnscry.pt
 sea01.dnscry.pt
-sgn01.dnscry.pt
 sin01.dnscry.pt
 sin03.dnscry.pt
 sjc01.dnscry.pt
@@ -308,7 +306,6 @@ yyz01.dnscry.pt
 zal01.dnscry.pt
 dns1.dnscrypt.ca
 dns2.dnscrypt.ca
-dnsdoh.art
 dns-doh.dnsforfamily.com
 dnsforge.de
 dns.dnsguard.pub
@@ -341,7 +338,6 @@ agh.dshubham.xyz
 dukun.de
 edgy-dns.com
 dns.elemental.software
-dns.eliv.kr
 dns.emiliyan.com
 dns.envs.net
 dns.mayx.eu.org
@@ -423,7 +419,6 @@ doh.kel.pe
 dns.kernel-error.de
 dns.kescher.at
 pihole.aws.ketan.dev
-adg.khon.dev
 doh.killtw.im
 blog.kimiblock.top
 adguard.konikoni428.com
@@ -513,8 +508,6 @@ doh-own-recursion.nicolas-dorriere.fr
 doh-random-upstream.nicolas-dorriere.fr
 nicsezcheckfbi.gov
 dns1.nielsdb.be
-dns.ningkelle.id
-family.dns.ningkelle.id
 adblock.any.dns.nixnet.xyz
 uncensored.any.dns.nixnet.xyz
 adblock.lux1.dns.nixnet.xyz
