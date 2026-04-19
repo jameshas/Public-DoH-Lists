@@ -632,6 +632,7 @@ dns.shecan.ir
 free.shecan.ir
 pro.shecan.ir
 dns.sheggi.ch
+shitblocker.com
 adguard.shoupperuser.com
 dns.silen.org
 dns.silentlybren.com
