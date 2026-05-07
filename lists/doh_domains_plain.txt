@@ -171,7 +171,6 @@ dohdot.coxlab.net
 doh.crypto.sx
 doh-ipv6.crypto.sx
 cryptostorm.is
-dns.csa-rz.de
 dns.csaonline.de
 dns.cynthialabs.net
 dns.d94.xyz
@@ -358,7 +357,6 @@ dns01.flm9.net
 dns.floriantinney.de
 dns.flymc.cc
 de-f1.foxyfy.net
-dns.foxyfy.net
 es-ma.foxyfy.net
 dns.freyja.pw
 dns.froth.zone
@@ -705,5 +703,4 @@ safe.dot.dns.yandex.net
 yovbak.com
 dns.yuu-g.net
 zdn.ro
-doh.zknt.org
 doh.zln.wtf
