@@ -361,6 +361,7 @@ es-ma.foxyfy.net
 dns.freyja.pw
 dns.froth.zone
 awan.ftp.sh
+dns.furrix.zone
 doh.futa.gg
 cluster-0.gac.edu
 cluster-1.gac.edu
