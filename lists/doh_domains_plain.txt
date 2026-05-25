@@ -503,8 +503,8 @@ dns.nhtsky.com
 doh.nic.lv
 odvr.nic.cz
 dns.nick-slowinski.de
-doh-own-recursion.nicolas-dorriere.fr
-doh-random-upstream.nicolas-dorriere.fr
+doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr
+doh-recursive-to-root.technitium.nicolas-dorriere.fr
 nicsezcheckfbi.gov
 dns1.nielsdb.be
 adblock.any.dns.nixnet.xyz
