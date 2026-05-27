@@ -355,7 +355,6 @@ fidelius.top
 dns.flatuslifir.is
 dns01.flm9.net
 dns.floriantinney.de
-dns.flymc.cc
 de-f1.foxyfy.net
 es-ma.foxyfy.net
 dns.freyja.pw
@@ -630,8 +629,6 @@ dns.sev.monster
 dns.shecan.ir
 free.shecan.ir
 pro.shecan.ir
-dns.sheggi.ch
-shitblocker.com
 adguard.shoupperuser.com
 dns.silen.org
 dns.silentlybren.com
@@ -646,7 +643,6 @@ doh-02.spectrum.com
 dns.startupstack.tech
 dns.stirringphoto.com
 dns.stormycloud.org
-dns.suhaila.dev
 resolver.sunet.se
 sunnygyl.com
 dns.superstefan.win
