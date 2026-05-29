@@ -26,8 +26,6 @@ doh.dns.apple.com.v.aaplimg.com
 doh.abmb.win
 doh2.abmb.win
 res-acst3.absolight.net
-resolver1.absolight.net
-resolver2.absolight.net
 resolver3.absolight.net
 adl.adfilter.net
 per.adfilter.net
@@ -365,7 +363,6 @@ doh.futa.gg
 cluster-0.gac.edu
 cluster-1.gac.edu
 dns.gamban.com
-adg.geili.me
 getdnsapi.net
 gibblets.top
 glacius.top
@@ -466,10 +463,6 @@ family.dns.mullvad.net
 doh.mullvad.net
 adblock.doh.mullvad.net
 dns.feldy.my.id
-adblock.mydns.network
-family.mydns.network
-freedom.mydns.network
-paranoia.mydns.network
 blackhole.myon.lu
 dns.mzjtechnology.com
 n0.eu
