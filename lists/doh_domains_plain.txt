@@ -581,9 +581,6 @@ frog.dns.qwer.pw
 lion.dns.qwer.pw
 tiger.dns.qwer.pw
 resolver.r0cket.net
-dns.rabbitdns.org
-family.rabbitdns.org
-security.rabbitdns.org
 rayneau.fr
 dns.rbn.gr
 dns.reckoningslug.name
@@ -646,7 +643,6 @@ doh.sz-dns.com
 dns.szpadel.ovh
 dns.t53.de
 dns1.techniverse.net
-rx.techomespace.com
 dns.telekom.de
 dns.therifleman.name
 doh.tiar.app
