@@ -168,7 +168,6 @@ dohdot.coxlab.net
 doh.crypto.sx
 doh-ipv6.crypto.sx
 cryptostorm.is
-dns.csaonline.de
 dns.cynthialabs.net
 dns.d94.xyz
 mail.data.haus
@@ -555,7 +554,6 @@ doh.northeu.pi-dns.com
 doh.westus.pi-dns.com
 helios.plan9-dns.com
 kronos.plan9-dns.com
-pluton.plan9-dns.com
 privacy.plumedns.com
 doh.powerdns.org
 lindung.pp.ua
