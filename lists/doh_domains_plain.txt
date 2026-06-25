@@ -243,7 +243,6 @@ dus01.dnscry.pt
 fra01.dnscry.pt
 fra02.dnscry.pt
 geg01.dnscry.pt
-gru01.dnscry.pt
 gva01.dnscry.pt
 haf01.dnscry.pt
 han01.dnscry.pt
