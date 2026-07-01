@@ -284,7 +284,6 @@ tll01.dnscry.pt
 tpa01.dnscry.pt
 tpe01.dnscry.pt
 trf01.dnscry.pt
-tsm01.dnscry.pt
 tyo01.dnscry.pt
 vie01.dnscry.pt
 vno01.dnscry.pt
@@ -405,7 +404,6 @@ dns.jupitrdns.com
 dns.kamilszczepanski.com
 dns.kapite.in
 dns.karl.one
-doh.kel.pe
 dns.kernel-error.de
 dns.kescher.at
 pihole.aws.ketan.dev
@@ -458,6 +456,10 @@ family.dns.mullvad.net
 doh.mullvad.net
 adblock.doh.mullvad.net
 dns.feldy.my.id
+adblock.mydns.network
+family.mydns.network
+freedom.mydns.network
+paranoia.mydns.network
 blackhole.myon.lu
 dns.mzjtechnology.com
 n0.eu
@@ -627,7 +629,6 @@ dns.stirringphoto.com
 dns.stormycloud.org
 resolver.sunet.se
 sunnygyl.com
-dns.superstefan.win
 dns.surfsharkdns.com
 dns.switch.ch
 dns.syaifullah.com
