@@ -85,6 +85,7 @@ antivirus.bebasid.com
 dns.bebasid.com
 internetsehat.bebasid.com
 dns.belnet.be
+dns.bezmezhau.com
 ns3.bit-trail.nl
 dns.bitdefender.net
 dns.bitservices.io
@@ -636,7 +637,6 @@ ibksturm.synology.me
 ihctw.synology.me
 doh.syshero.org
 doh.sz-dns.com
-dns.szpadel.ovh
 dns.t53.de
 dns1.techniverse.net
 dns.telekom.de
