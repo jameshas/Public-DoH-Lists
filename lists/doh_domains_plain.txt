@@ -67,7 +67,6 @@ applied-privacy.net
 doh.applied-privacy.net
 doh.appliedprivacy.net
 dns.arapurayil.com
-doh.archuser.org
 nsec.arnor.org
 dns.artikel10.org
 dns.asterimoon.com
@@ -85,7 +84,6 @@ antivirus.bebasid.com
 dns.bebasid.com
 internetsehat.bebasid.com
 dns.belnet.be
-dns.bezmezhau.com
 ns3.bit-trail.nl
 dns.bitdefender.net
 dns.bitservices.io
@@ -600,7 +598,6 @@ doh-01.spectrum.com
 doh-02.spectrum.com
 dns.startupstack.tech
 dns.stirringphoto.com
-dns.stormycloud.org
 resolver.sunet.se
 sunnygyl.com
 dns.surfsharkdns.com
