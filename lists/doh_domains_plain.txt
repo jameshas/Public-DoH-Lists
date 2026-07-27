@@ -588,6 +588,7 @@ pro.shecan.ir
 adguard.shoupperuser.com
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sitdns.com
 dns.skrep.eu
 dns.slinkyman.net
