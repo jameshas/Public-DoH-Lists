@@ -166,7 +166,6 @@ doh.cox.net
 dohdot.coxlab.net
 doh.crypto.sx
 doh-ipv6.crypto.sx
-cryptostorm.is
 dns.cynthialabs.net
 dns.d94.xyz
 mail.data.haus
