@@ -11,7 +11,6 @@ sdns.233py.com
 wdns.233py.com
 dns.240527.xyz
 doh.360.cn
-3dns.eu
 dns.4-the.win
 doh.42l.fr
 ns2.4netguides.org
