@@ -35,7 +35,6 @@ dns-unfiltered.adguard.com
 dns.adguard-dns.com
 family.adguard-dns.com
 unfiltered.adguard-dns.com
-dns.adnull.com
 dns.adrianlam.com
 blitz.ahadns.com
 doh.chi.ahadns.net
@@ -598,7 +597,6 @@ doh-02.spectrum.com
 dns.startupstack.tech
 dns.stirringphoto.com
 resolver.sunet.se
-sunnygyl.com
 dns.surfsharkdns.com
 dns.switch.ch
 dns.syaifullah.com
