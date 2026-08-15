@@ -297,6 +297,7 @@ doh.domreg.lt
 doh.dscloud.me
 agh.dshubham.xyz
 dukun.de
+dns.easyhns.com
 edgy-dns.com
 dns.elemental.software
 dns.emiliyan.com
@@ -345,6 +346,7 @@ dns.hahnjo.de
 dns.haka.se
 query.hdns.io
 ordns.he.net
+hnsdoh.com
 dns.hostux.net
 doth.huque.com
 opennic.i2pd.xyz
@@ -491,6 +493,7 @@ kids.ns.nwps.fi
 public.ns.nwps.fi
 dot.occ.top
 dns.ofdoom.net
+dns.omada.cafe
 one.one.one.one
 doh.onedns.net
 doh-pure.onedns.net
