@@ -516,7 +516,6 @@ i.passcloud.xyz
 doh.gcp.pathofgrace.com
 rpz-public-resolver1.rrdns.pch.net
 darya.persiannit.net
-dns.petqa.ru
 doh.centraleu.pi-dns.com
 doh.eastas.pi-dns.com
 doh.eastau.pi-dns.com
