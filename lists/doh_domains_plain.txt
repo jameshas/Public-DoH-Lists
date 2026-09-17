@@ -422,7 +422,6 @@ adblock.dns.mullvad.net
 all.dns.mullvad.net
 base.dns.mullvad.net
 extended.dns.mullvad.net
-family.dns.mullvad.net
 doh.mullvad.net
 adblock.doh.mullvad.net
 dns.feldy.my.id
