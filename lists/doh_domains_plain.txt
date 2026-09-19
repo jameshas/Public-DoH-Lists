@@ -644,5 +644,7 @@ common.dot.dns.yandex.net
 family.dot.dns.yandex.net
 safe.dot.dns.yandex.net
 yovbak.com
+dns.yunzheng.space
+filter.dns.yunzheng.space
 zdn.ro
 doh.zln.wtf
