@@ -293,6 +293,8 @@ doh.buzz
 dns.doh.best
 sm2.doh.pub
 doh.domreg.lt
+family.dns.dremaxx.com
+open.dns.dremaxx.com
 doh.dscloud.me
 agh.dshubham.xyz
 dukun.de
