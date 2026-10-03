@@ -349,6 +349,7 @@ query.hdns.io
 ordns.he.net
 hnsdoh.com
 dns.hostux.net
+dns.hqdns.sarl
 doth.huque.com
 opennic.i2pd.xyz
 mask.icloud.com
