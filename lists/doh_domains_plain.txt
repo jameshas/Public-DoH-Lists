@@ -267,6 +267,7 @@ yul01.dnscry.pt
 zal01.dnscry.pt
 dns1.dnscrypt.ca
 dns2.dnscrypt.ca
+dnsdoh.art
 dns-doh.dnsforfamily.com
 dnsforge.de
 dns.dnsguard.pub
