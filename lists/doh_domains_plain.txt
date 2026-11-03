@@ -77,6 +77,7 @@ dns.b612.me
 fr-dns1.bancuh.com
 sg-dns1.bancuh.com
 bazooki-infra.dev
+beatquantum.com
 antivirus.bebasid.com
 dns.bebasid.com
 internetsehat.bebasid.com
