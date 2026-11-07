@@ -147,7 +147,7 @@ security.cloudflare-dns.com
 frd4wvnobp.cloudflare-gateway.com
 dns.cmrg.net
 dns.redhosting.com.ar
-doh.viatech.com.tw
+dns.sktr.com.tr
 commons.host
 dns.comss.one
 dns.east.comss.one
@@ -325,7 +325,6 @@ cluster-0.gac.edu
 cluster-1.gac.edu
 dns.gamban.com
 getdnsapi.net
-dns.glf.wtf
 dns.gnb09.id
 privacydns.go6lab.si
 dns.google.com
