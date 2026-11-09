@@ -299,6 +299,7 @@ agh.dshubham.xyz
 dukun.de
 dns.easyhns.com
 edgy-dns.com
+dns.ekinao.com
 dns.elemental.software
 dns.emiliyan.com
 dns.envs.net
@@ -333,6 +334,7 @@ google-public-dns-b.google.com
 jp.gridns.xyz
 dns.guard.io
 secure.hafnova.com
+ctif.hagezi.org
 juuri.hagezi.org
 root.hagezi.org
 wurzn.hagezi.org
