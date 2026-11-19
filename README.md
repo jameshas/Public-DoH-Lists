@@ -11,13 +11,13 @@ The Python script is scheduled to run via Github Actions every second day at mid
 <!-- start_run-stats -->
 **Last run output**
 ```
-Ran at: 2026-11-17 05:17:58.874145 UTC
+Ran at: 2026-11-19 04:37:05.147766 UTC
 Unique domains: 645
   - From file: 494 unique (494 found)
   - From Curl wiki: 132 unique (247 found)
   - From AdGuard wiki: 19 unique (94 found)
-Unique IPs: 626
-  - 127 domains failed to resolve
+Unique IPs: 629
+  - 123 domains failed to resolve
   - Resolved local to Iowa, US
 ```
 <!-- end_run-stats -->
